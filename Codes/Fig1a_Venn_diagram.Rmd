@@ -1,0 +1,69 @@
+---
+title: "1. Venn diagram"
+author: "Runshan Gui"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### 1.Clear the Environment
+```{r}
+rm(list=ls())
+```
+
+### 2.Loading Required Packages for Venn Diagram
+```{r}
+library(dplyr)
+library(readr)
+library(eulerr)
+library(ggplot2)
+library(VennDiagram)
+```
+
+### 3.Reading Files
+```{r}
+file1 <- read_csv("自测数据_differential_expression_results_with_regulation.csv")
+file2 <- read_csv("GSE126198_differential_expression_results_with_regulation.csv")
+file3 <- read_csv("E3_separated.csv")
+```
+
+### 4.Extracting Upregulated Genes and Converting to Lowercase
+```{r}
+upregulated_file1 <- file1 %>% filter(Regulation == "Up") %>% pull(Gene) %>% tolower
+upregulated_file2 <- file2 %>% filter(Regulation == "Up") %>% pull(Gene) %>% tolower
+genes_file3 <- file3 %>% pull(Gene) %>% tolower    ## Directly extract the Gene column from the third file and convert to lowercase
+```
+
+### 5.Finding the Intersection of Genes from the Three Files
+```{r}
+common_genes <- Reduce(intersect,
+                       list(upregulated_file1, upregulated_file2, genes_file3)
+                       )
+print(paste("Found", length(common_genes), "common upregulated genes."))
+```
+
+### 6.Plotting the Venn Diagram
+```{r}
+venn.plot <- draw.triple.venn(
+  area1 = length(upregulated_file1),
+  area2 = length(upregulated_file2),
+  area3 = length(genes_file3),
+  n12 = length(intersect(upregulated_file1, upregulated_file2)),
+  n23 = length(intersect(upregulated_file2, genes_file3)),
+  n13 = length(intersect(upregulated_file1, genes_file3)),
+  n123 = length(common_genes),
+  category = c("Bulk RNA-seq (Con vs ICI-AM)", "GSE126198", "E3 Ubiquitin Ligases"),
+  cex = 4,    ## Set font size
+  cat.cex = 3,    ## Set category label (title) font size
+  fill = c("#80C8CF", "#FBB9C0", "#FEF392")    ## Use the specified colors
+)
+```
+
+### 7.Saving the Venn Diagram to a PDF File
+```{r}
+ggsave(filename = "Fig. 1a.pdf",
+       plot = venn.plot,
+       width = 12,
+       height = 12,
+       bg = "white"
+       )
+```

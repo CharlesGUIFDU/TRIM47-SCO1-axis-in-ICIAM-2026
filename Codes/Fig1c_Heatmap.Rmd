@@ -1,0 +1,158 @@
+---
+title: "3. Heatmap"
+author: "Runshan Gui"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+### 1.Clear the Environment
+```{r}
+rm(list=ls())
+```
+
+### 2.Loading Required Packages for Heatmap
+```{r}
+library(readxl)
+library(tidyverse)
+library(reshape2)
+library(ggplot2)
+library(ggnewscale)
+```
+
+### 3.Reading the File
+```{r}
+df <- read_excel("gene_expression_annotation.xlsx")
+```
+
+### 4.Extracting Target Genes
+```{r}
+target_genes <- c("Trim47", "Neurl3")
+fpkm_df <- df %>% 
+  filter(gene_name %in% target_genes) %>%
+  select(gene_name, 
+         CON1_FPKM,
+         CON2_FPKM,
+         CON3_FPKM,
+         'ICI-AM_1_FPKM',
+         'ICI-AM_2_FPKM',
+         'ICI-AM_3_FPKM')
+```
+
+### 5.Data Processing
+```{r}
+## Convert FPKM columns to numeric type
+fpkm_df <- fpkm_df %>%
+  mutate(across(-gene_name, ~ as.numeric(as.character(.))))
+
+## Handle possible NA values
+fpkm_df[is.na(fpkm_df)] <- 0
+
+## Perform log2 transformation on the data
+log2_df <- fpkm_df %>%
+  mutate(across(-gene_name, ~ log2(. +1)))
+
+## Calculate Z-score (row-wise standardization)
+zscore_matrix <- log2_df %>%
+  column_to_rownames("gene_name") %>%
+  as.matrix() %>%
+  t() %>%    ## Transpose for row-wise calculation
+  scale() %>%    ## Calculate Z-score
+  t()    ## Transpose back to original orientation
+
+## Add group information (for separator lines)
+group_info <- data.frame(
+  Sample = colnames(zscore_matrix),
+  Group = rep(c("Control", "ICI-AM"), each = 3)
+)
+
+## Convert to long format for ggplot
+zscore_melt <- zscore_matrix %>%
+  as.data.frame() %>%
+  rownames_to_column("Gene") %>%
+  melt(id.vars = "Gene",
+       variable.name = "Sample",
+       value.name = "Zscore"
+       )
+
+## Add group information
+zscore_melt <- zscore_melt %>%
+  left_join(group_info, by = "Sample")
+```
+
+### 6.Creating the Heatmap
+```{r}
+group_data <- data.frame(
+  Sample = unique(zscore_melt$Sample),
+  Group = c(rep("Control", 3), rep("ICI-AM", 3))
+)
+heatmap_plot <- ggplot() +
+  ## Add group labels at the top
+  geom_tile(
+    data = group_data,
+    aes(x = Sample, y = Inf, fill = Group),   ## y=Inf places the tile at the top
+    height = 0.5,    ## Control tile height
+    color = NA    ## Remove borders
+  ) +
+  ## Top label colors
+  scale_fill_manual(
+    name = "Group",    ## Group legend title
+    values = c("Control" = "#4E84C4", "ICI-AM" = "#D16103")
+  ) +
+  ## Declare a new fill scale
+  new_scale_fill() +
+  ## Add cell borders
+  geom_tile(
+    data = zscore_melt,
+    aes(x = Sample, y = Gene, fill = Zscore),
+    color = "black", linewidth = 0.3
+  ) +
+  ## Add group separator line
+  geom_vline(xintercept = 3.5, color = "black", linewidth = 1) +
+  ## Add numeric labels
+  geom_text(data = zscore_melt,
+            aes(x = Sample, y = Gene, label = sprintf("%.1f", Zscore)), 
+            size = 4,
+            color = "black") +
+  ## Set color gradient
+  scale_fill_gradient2(
+    low = "#2166AC",
+    mid = "white",
+    high = "#B2182B",
+    midpoint = 0,
+    name = "Z-score"
+  ) +
+  ## Theme settings - pure white background
+  theme_minimal(base_size = 12) +
+  theme(
+    axis.text.x = element_text(angle = 45, hjust = 1, vjust = 1),
+    panel.grid = element_blank(),
+    plot.title = element_text(hjust = 0.5, size = 15, face = "bold"),
+    legend.position = "right",
+    axis.title = element_blank(),
+    ## Set all backgrounds to pure white
+    plot.background = element_rect(fill = "white", color = NA),
+    panel.background = element_rect(fill = "white", color = NA),
+    legend.background = element_rect(fill = "white", color = NA),
+    ## Remove other background elements
+    strip.background = element_rect(fill = "white", color = NA)
+  ) +
+  ## Label settings
+  labs(
+    title = "Expression of Trim47 and Neurl3 genes",
+    x = NULL, 
+    y = NULL
+  ) +
+  ## Ensure the heatmap is square
+  coord_fixed()
+```
+
+### 7.Saving the Plot
+```{r}
+ggsave("Fig. 1c.pdf", 
+       plot = heatmap_plot,
+       width = 8,
+       height = 6,
+       dpi = 300,
+       bg = "white"
+       )
+```
