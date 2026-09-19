@@ -1,0 +1,2210 @@
+Protein FDR Confidence,Uniprot_ID,Gene_name,Description,Coverage (%),Peptides,Unique Peptides,PSMs,AAs,MW (kDa),calc. pI,Abundance
+High,P35579,MYH9,Myosin-9,72,218,186,1285,1960,226.4,5.6,24805464677.9297
+High,P35580,MYH10,Myosin-10,56,130,104,388,1976,228.9,5.54,1363305631.3125
+High,Q15149,PLEC,Plectin,40,169,162,308,4684,531.5,5.96,534289358.25
+High,Q09666,AHNAK,Neuroblast differentiation-associated protein AHNAK,46,139,139,244,5890,628.7,6.15,304542016.625
+High,P35527,KRT9,"Keratin, type I cytoskeletal 9",87,59,57,274,623,62.0,5.24,3678116095.39063
+High,Q96LD4,TRIM47,E3 ubiquitin-protein ligase TRIM47,58,59,59,747,638,69.5,6.44,34084093811.9688
+High,P21333,FLNA,Filamin-A,43,86,79,179,2647,280.6,6.06,514165127.1875
+High,P04264,KRT1,"Keratin, type II cytoskeletal 1",67,65,59,340,644,66.0,8.12,13433245713.75
+High,Q9UDY2,TJP2,Tight junction protein ZO-2,57,72,71,238,1190,133.9,7.4,2502815804.78906
+High,P35908,KRT2,"Keratin, type II cytoskeletal 2 epidermal",85,58,47,223,639,65.4,8.0,3640285380.40625
+High,O75369,FLNB,Filamin-B,39,82,75,152,2602,278.0,5.73,281087302.5625
+High,Q14152,EIF3A,Eukaryotic translation initiation factor 3 subunit A,44,72,72,200,1382,166.5,6.79,1323448828.42188
+High,Q07157,TJP1,Tight junction protein ZO-1,55,69,68,143,1748,195.3,6.7,601827648
+High,Q13813,SPTAN1,"Spectrin alpha chain, non-erythrocytic 1",42,82,82,149,2472,284.4,5.35,249119302.875
+High,P13645,KRT10,"Keratin, type I cytoskeletal 10",63,51,43,249,584,58.8,5.21,10345150206.4531
+High,Q01082,SPTBN1,"Spectrin beta chain, non-erythrocytic 1",39,70,65,131,2364,274.4,5.57,162336338.1875
+High,Q14315,FLNC,Filamin-C,33,68,60,118,2725,290.8,5.97,217497675.875
+High,P08670,VIM,Vimentin,77,45,43,125,466,53.6,5.12,1138678185.96875
+High,P46939,UTRN,Utrophin,24,70,70,122,3433,394.2,5.33,149144763.625
+High,P55884,EIF3B,Eukaryotic translation initiation factor 3 subunit B,50,43,43,106,814,92.4,5.0,890133674.3125
+High,P02533,KRT14,"Keratin, type I cytoskeletal 14",67,40,17,156,472,51.5,5.16,564212009.359375
+High,P49327,FASN,Fatty acid synthase,33,59,59,110,2511,273.3,6.44,192281855.75
+High,P60709,ACTB,"Actin, cytoplasmic 1",59,24,7,253,375,41.7,5.48,6510037379.125
+High,Q9UPN3,MACF1,"Microtubule-actin cross-linking factor 1, isoforms 1/2/3/4/5",13,80,77,127,7388,837.8,5.39,71487384.78125
+High,Q63HN8,RNF213,E3 ubiquitin-protein ligase RNF213,16,72,71,117,5207,591.0,6.48,99898749.71875
+High,O00571,DDX3X,ATP-dependent RNA helicase DDX3X,55,43,42,235,662,73.2,7.18,3175818824.78125
+High,Q86UP2,KTN1,Kinectin,45,50,50,90,1357,156.2,5.64,173238840.5
+High,Q14247,CTTN,Src substrate cortactin,49,36,36,79,550,61.5,5.4,528832764.75
+High,Q92620,DHX38,Pre-mRNA-splicing factor ATP-dependent RNA helicase PRP16,37,42,42,87,1227,140.4,6.54,243642045.4375
+High,P09874,PARP1,Poly [ADP-ribose] polymerase 1,50,40,40,86,1014,113.0,8.88,206514602.8125
+High,P13647,KRT5,"Keratin, type II cytoskeletal 5",46,36,21,95,590,62.3,7.74,316146684
+High,Q9Y490,TLN1,Talin-1,21,39,39,67,2541,269.6,6.07,86245843.90625
+High,O94832,MYO1D,Unconventional myosin-Id,47,47,47,90,1006,116.1,9.39,261758658.09375
+High,P49750,YLPM1,YLP motif-containing protein 1,25,40,40,80,2146,241.5,6.55,143927954.875
+High,P02538,KRT6A,"Keratin, type II cytoskeletal 6A",50,37,7,93,564,60.0,8.0,349538556.875
+High,O43707,ACTN4,Alpha-actinin-4,45,34,25,68,911,104.8,5.44,159130346.0625
+High,P08779,KRT16,"Keratin, type I cytoskeletal 16",55,31,15,128,473,51.2,5.05,63758804.1875
+High,P07437,TUBB,Tubulin beta chain,51,21,5,73,444,49.6,4.89,696359791.625
+High,Q92499,DDX1,ATP-dependent RNA helicase DDX1,49,35,35,75,740,82.4,7.23,283611302.75
+High,Q08211,DHX9,ATP-dependent RNA helicase A,31,31,31,64,1270,140.9,6.84,160163270.4375
+High,Q99613,EIF3C,Eukaryotic translation initiation factor 3 subunit C,31,29,29,64,913,105.3,5.68,539479470.4375
+High,Q9Y262,EIF3L,Eukaryotic translation initiation factor 3 subunit L,53,30,30,68,564,66.7,6.34,654323502.6875
+High,P78347,GTF2I,General transcription factor II-I,39,38,38,71,998,112.3,6.39,128618442.34375
+High,P68133,ACTA1,"Actin, alpha skeletal muscle",37,18,1,222,377,42.0,5.39,548743086.375
+High,P68371,TUBB4B,Tubulin beta-4B chain,51,20,3,69,445,49.8,4.89,76529482.25
+High,Q14764,MVP,Major vault protein,44,30,30,56,893,99.3,5.48,129368763.375
+High,P27708,CAD,CAD protein,22,41,41,76,2225,242.8,6.46,102358776.5625
+High,P04259,KRT6B,"Keratin, type II cytoskeletal 6B",46,32,3,85,564,60.0,8.0,7654140.25
+High,P35749,MYH11,Myosin-11,13,30,1,104,1972,227.2,5.5,733321.625
+High,P46940,IQGAP1,Ras GTPase-activating-like protein IQGAP1,31,42,41,77,1657,189.1,6.48,110660949.375
+High,P51991,HNRNPA3,Heterogeneous nuclear ribonucleoprotein A3,39,23,21,58,378,39.6,9.01,172076915.46875
+High,Q14204,DYNC1H1,Cytoplasmic dynein 1 heavy chain 1,12,47,47,77,4646,532.1,6.4,52446491.4375
+High,P19474,TRIM21,E3 ubiquitin-protein ligase TRIM21,39,21,21,56,475,54.1,6.38,477143088.023438
+High,Q13885,TUBB2A,Tubulin beta-2A chain,49,19,3,62,445,49.9,4.89,6624396.625
+High,Q9BXP5,SRRT,Serrate RNA effector molecule homolog,30,29,29,61,876,100.6,5.96,257180212.15625
+High,Q13045,FLII,Protein flightless-1 homolog,28,33,33,65,1269,144.7,6.05,130464015.4375
+High,O15371,EIF3D,Eukaryotic translation initiation factor 3 subunit D,46,24,24,56,548,63.9,6.05,373586195.6875
+High,P67936,TPM4,Tropomyosin alpha-4 chain,65,28,16,63,248,28.5,4.69,330341885.1875
+High,P11021,HSPA5,Endoplasmic reticulum chaperone BiP,51,32,30,59,654,72.3,5.16,126730507.875
+High,P12814,ACTN1,Alpha-actinin-1,32,24,15,46,892,103.0,5.41,41394348.9375
+High,P35637,FUS,RNA-binding protein FUS,21,14,11,80,526,53.4,9.36,918494650.25
+High,P07355,ANXA2,Annexin A2,58,25,25,63,339,38.6,7.75,646696424.8125
+High,Q9Y3I0,RTCB,RNA-splicing ligase RtcB homolog,45,21,21,56,505,55.2,7.23,231098253.4375
+High,P62736,ACTA2,"Actin, aortic smooth muscle",37,17,1,198,377,42.0,5.39,1394456.375
+High,P14618,PKM,Pyruvate kinase PKM,52,24,24,51,531,57.9,7.84,249272858.25
+High,Q92841,DDX17,Probable ATP-dependent RNA helicase DDX17,42,31,25,112,729,80.2,8.27,317854958.625
+High,Q07065,CKAP4,Cytoskeleton-associated protein 4,51,26,26,51,602,66.0,5.92,83088391.125
+High,P09651,HNRNPA1,Heterogeneous nuclear ribonucleoprotein A1,42,19,17,52,372,38.7,9.13,221172278.25
+High,O75955,FLOT1,Flotillin-1,63,24,24,43,427,47.3,7.49,136184647.1875
+High,P11142,HSPA8,Heat shock cognate 71 kDa protein,35,22,19,49,646,70.9,5.52,134587127.5625
+High,P53621,COPA,Coatomer subunit alpha,31,32,32,60,1224,138.3,7.66,117981901.625
+High,P08238,HSP90AB1,Heat shock protein HSP 90-beta,30,25,17,52,724,83.2,5.03,105335731.875
+High,P31942,HNRNPH3,Heterogeneous nuclear ribonucleoprotein H3,66,16,16,66,346,36.9,6.87,721935109.375
+High,P61978,HNRNPK,Heterogeneous nuclear ribonucleoprotein K,49,22,22,62,463,50.9,5.54,475497254.96875
+High,P98175,RBM10,RNA-binding protein 10,36,24,23,48,930,103.5,5.97,83416007.1875
+High,Q9Y5X1,SNX9,Sorting nexin-9,40,19,19,42,595,66.6,5.58,89665042.375
+High,P13639,EEF2,Elongation factor 2,30,29,28,65,858,95.3,6.83,247257344.875
+High,P15924,DSP,Desmoplakin,14,36,36,69,2871,331.6,6.81,85600422.875
+High,Q7L2H7,EIF3M,Eukaryotic translation initiation factor 3 subunit M,39,14,14,40,374,42.5,5.63,272723435.1875
+High,P60228,EIF3E,Eukaryotic translation initiation factor 3 subunit E,54,25,25,64,445,52.2,6.04,517789568.375
+High,P60842,EIF4A1,Eukaryotic initiation factor 4A-I,51,22,10,50,406,46.1,5.48,198996620.875
+High,P14866,HNRNPL,Heterogeneous nuclear ribonucleoprotein L,35,14,14,37,589,64.1,8.22,145224713
+High,Q92804,TAF15,TATA-binding protein-associated factor 2N,20,12,9,47,592,61.8,8.02,576842020.75
+High,O43143,DHX15,ATP-dependent RNA helicase DHX15,39,29,28,61,795,90.9,7.46,124602619.625
+High,O15372,EIF3H,Eukaryotic translation initiation factor 3 subunit H,60,21,21,63,352,39.9,6.54,333880391.6875
+High,P22626,HNRNPA2B1,Heterogeneous nuclear ribonucleoproteins A2/B1,56,17,17,40,353,37.4,8.95,345956762.453125
+High,O14950,MYL12B,Myosin regulatory light chain 12B,55,14,5,91,172,19.8,4.84,1579293085.88672
+High,O14647,CHD2,Chromodomain-helicase-DNA-binding protein 2,21,38,27,67,1828,211.2,8.1,79794321.25
+High,P14317,HCLS1,Hematopoietic lineage cell-specific protein,44,18,18,41,486,54.0,4.81,141059658.125
+High,P23246,SFPQ,"Splicing factor, proline- and glutamine-rich",34,21,20,54,707,76.1,9.44,166973527.28125
+High,P31943,HNRNPH1,Heterogeneous nuclear ribonucleoprotein H,35,12,6,43,449,49.2,6.3,510745074.25
+High,Q7Z6Z7,HUWE1,E3 ubiquitin-protein ligase HUWE1,10,34,34,58,4374,481.6,5.22,34558312
+High,P78527,PRKDC,DNA-dependent protein kinase catalytic subunit,11,43,43,68,4128,468.8,7.12,42327554.875
+High,Q9C0J8,WDR33,pre-mRNA 3' end processing protein WDR33,25,25,25,40,1336,145.8,9.17,50398140.6875
+High,Q00610,CLTC,Clathrin heavy chain 1,18,26,26,46,1675,191.5,5.69,53906494.59375
+High,P11940,PABPC1,Polyadenylate-binding protein 1,38,21,12,48,636,70.6,9.5,134747531.3125
+High,Q92900,UPF1,Regulator of nonsense transcripts 1,32,27,27,47,1129,124.3,6.61,52843745.6875
+High,Q13347,EIF3I,Eukaryotic translation initiation factor 3 subunit I,62,16,16,56,325,36.5,5.64,290794930.5
+High,Q9Y5B9,SUPT16H,FACT complex subunit SPT16,22,25,25,48,1047,119.8,5.66,97169604
+High,P78332,RBM6,RNA-binding protein 6,30,28,28,54,1123,128.6,6.32,61334524
+High,P51114,FXR1,RNA-binding protein FXR1,39,25,22,46,621,69.7,6.15,83516466
+High,Q9Y2W1,THRAP3,Thyroid hormone receptor-associated protein 3,25,25,24,58,955,108.6,10.15,304515951.46875
+High,Q10570,CPSF1,Cleavage and polyadenylation specificity factor subunit 1,24,32,32,60,1443,160.8,6.4,105423059.8125
+High,P62987,UBA52,Ubiquitin-60S ribosomal protein L40,56,14,14,98,128,14.7,9.83,1925388037.8125
+High,Q13509,TUBB3,Tubulin beta-3 chain,34,16,2,58,450,50.4,4.93,25829219.25
+High,Q07666,KHDRBS1,"KH domain-containing, RNA-binding, signal transduction-associated protein 1",43,20,18,66,443,48.2,8.66,973000000.8125
+High,Q71U36,TUBA1A,Tubulin alpha-1A chain,45,16,5,45,451,50.1,5.06,421936817.375
+High,P52272,HNRNPM,Heterogeneous nuclear ribonucleoprotein M,42,21,21,52,730,77.5,8.7,86298522.46875
+High,Q00839,HNRNPU,Heterogeneous nuclear ribonucleoprotein U,28,23,23,45,825,90.5,6.0,143170263.6875
+High,Q01813,PFKP,"ATP-dependent 6-phosphofructokinase, platelet type",32,22,20,43,784,85.5,7.55,44210037.3125
+High,P12956,XRCC6,X-ray repair cross-complementing protein 6,46,25,25,42,609,69.8,6.64,121677160.8125
+High,P17844,DDX5,Probable ATP-dependent RNA helicase DDX5,39,29,23,102,614,69.1,8.92,157458119.5625
+High,Q16666,IFI16,Gamma-interferon-inducible protein 16,38,25,25,48,785,88.2,9.28,49512293.5625
+High,Q04695,KRT17,"Keratin, type I cytoskeletal 17",44,24,8,73,432,48.1,5.02,10050277.375
+High,P09493,TPM1,Tropomyosin alpha-1 chain,39,21,9,45,284,32.7,4.74,66903175.625
+High,Q9BUF5,TUBB6,Tubulin beta-6 chain,42,16,7,51,446,49.8,4.88,42290057
+High,P46821,MAP1B,Microtubule-associated protein 1B,14,24,24,39,2468,270.5,4.81,31577490.9375
+High,Q9NYF8,BCLAF1,Bcl-2-associated transcription factor 1,18,21,20,43,920,106.1,9.98,173659618.4375
+High,P23588,EIF4B,Eukaryotic translation initiation factor 4B,28,21,21,68,611,69.1,5.73,622601998.296875
+High,O43852,CALU,Calumenin,58,15,15,31,315,37.1,4.64,122315669.1875
+High,O00303,EIF3F,Eukaryotic translation initiation factor 3 subunit F,41,13,13,47,357,37.5,5.45,422832293.9375
+High,O00159,MYO1C,Unconventional myosin-Ic,28,27,27,51,1063,121.6,9.41,82162575.34375
+High,P13010,XRCC5,X-ray repair cross-complementing protein 5,31,22,22,39,732,82.7,5.81,78943848.5
+High,P07951,TPM2,Tropomyosin beta chain,44,20,6,41,284,32.8,4.7,12239644.75
+High,O14646,CHD1,Chromodomain-helicase-DNA-binding protein 1,19,32,21,62,1710,196.6,7.14,38309999.75
+High,Q7KZF4,SND1,Staphylococcal nuclease domain-containing protein 1,32,25,25,47,910,101.9,7.17,65289577.125
+High,P23396,RPS3,40S ribosomal protein S3,70,20,20,47,243,26.7,9.66,256376057.625
+High,O00267,SUPT5H,Transcription elongation factor SPT5,29,24,24,42,1087,120.9,5.06,39587120.9375
+High,Q07955,SRSF1,Serine/arginine-rich splicing factor 1,47,17,16,66,248,27.7,10.36,538907993.5
+High,Q15393,SF3B3,Splicing factor 3B subunit 3,30,29,29,44,1217,135.5,5.26,57541221
+High,P02545,LMNA,Prelamin-A/C,35,22,22,44,664,74.1,7.02,77224318.875
+High,Q9H2U1,DHX36,ATP-dependent DNA/RNA helicase DHX36,25,20,20,37,1008,114.7,7.68,42760798.875
+High,P07900,HSP90AA1,Heat shock protein HSP 90-alpha,21,15,9,35,732,84.6,5.02,21975198.5625
+High,P08729,KRT7,"Keratin, type II cytoskeletal 7",48,22,16,57,469,51.4,5.48,261411427
+High,Q01844,EWSR1,RNA-binding protein EWS,14,12,12,38,656,68.4,9.33,196629699.1875
+High,P68366,TUBA4A,Tubulin alpha-4A chain,38,14,2,39,448,49.9,5.06,16375147.4375
+High,Q12906,ILF3,Interleukin enhancer-binding factor 3,31,21,21,35,894,95.3,8.76,66311069.3125
+High,P06733,ENO1,Alpha-enolase,47,17,17,29,434,47.1,7.39,97527906.5
+High,P07814,EPRS1,Bifunctional glutamate/proline--tRNA ligase,25,28,28,49,1512,170.5,7.33,40856435.015625
+High,O75533,SF3B1,Splicing factor 3B subunit 1,22,19,19,34,1304,145.7,7.09,25862745.625
+High,P06753,TPM3,Tropomyosin alpha-3 chain,41,18,8,37,285,32.9,4.72,113906050.5
+High,Q9P2E9,RRBP1,Ribosome-binding protein 1,20,21,21,33,1410,152.4,8.6,30992400.59375
+High,P0DMV9,HSPA1B,Heat shock 70 kDa protein 1B,31,17,15,38,641,70.0,5.66,41714104.34375
+High,O60506,SYNCRIP,Heterogeneous nuclear ribonucleoprotein Q,30,17,14,35,623,69.6,8.59,92019996.375
+High,P67809,YBX1,Y-box-binding protein 1,66,13,8,27,324,35.9,9.88,45315017.25
+High,Q5U651,RASIP1,Ras-interacting protein 1,25,15,15,26,963,103.4,7.96,32077201.375
+High,Q8WWM7,ATXN2L,Ataxin-2-like protein,23,19,19,34,1075,113.3,8.59,116710764.875
+High,O15027,SEC16A,Protein transport protein Sec16A,17,25,25,38,2357,251.7,5.8,34293453
+High,Q02413,DSG1,Desmoglein-1,17,15,15,35,1049,113.7,5.03,40337436.5625
+High,Q14254,FLOT2,Flotillin-2,47,20,20,41,428,47.0,5.25,82040536.6875
+High,Q9NVI7,ATAD3A,ATPase family AAA domain-containing protein 3A,31,22,9,41,634,71.3,8.98,89289895.125
+High,P19338,NCL,Nucleolin,29,22,22,37,710,76.6,4.7,114547454.0625
+High,Q16643,DBN1,Drebrin,32,15,15,37,649,71.4,4.45,96985510.625
+High,Q96HP0,DOCK6,Dedicator of cytokinesis protein 6,16,29,26,46,2047,229.4,6.74,31159399.3125
+High,Q15424,SAFB,Scaffold attachment factor B1,20,17,10,29,915,102.6,5.47,35625418.90625
+High,P24844,MYL9,Myosin regulatory light polypeptide 9,55,11,2,62,172,19.8,4.92,5731828.5
+High,P36578,RPL4,60S ribosomal protein L4,33,18,18,36,427,47.7,11.06,163242506
+High,Q8TBC3,SHKBP1,SH3KBP1-binding protein 1,34,18,16,32,707,76.3,8.28,75613828.5
+High,P50454,SERPINH1,Serpin H1,44,15,15,27,418,46.4,8.69,75953092.8125
+High,P61247,RPS3A,40S ribosomal protein S3a,52,19,19,43,264,29.9,9.73,156758268.375
+High,Q93008,USP9X,Probable ubiquitin carboxyl-terminal hydrolase FAF-X,14,34,34,60,2554,290.3,5.8,56932396.0625
+High,O43809,NUDT21,Cleavage and polyadenylation specificity factor subunit 5,57,17,17,44,227,26.2,8.82,370614549.3125
+High,Q8WUM4,PDCD6IP,Programmed cell death 6-interacting protein,28,21,21,40,868,96.0,6.52,45597761.3125
+High,Q99873,PRMT1,Protein arginine N-methyltransferase 1,37,12,12,33,371,42.4,5.35,91671358.875
+High,P13797,PLS3,Plastin-3,32,17,17,31,630,70.8,5.6,44279165.0625
+High,P55265,ADAR,Double-stranded RNA-specific adenosine deaminase,19,20,20,33,1226,136.0,8.65,49415449.5
+High,P53396,ACLY,ATP-citrate synthase,28,25,25,35,1101,120.8,7.33,42540493.1875
+High,P60660,MYL6,Myosin light polypeptide 6,67,13,9,64,151,16.9,4.65,1719987217.8125
+High,Q14151,SAFB2,Scaffold attachment factor B2,18,13,6,23,953,107.4,6.16,5858058.375
+High,Q08945,SSRP1,FACT complex subunit SSRP1,33,22,22,40,709,81.0,6.87,59230034.625
+High,Q8NDA8,MROH1,Maestro heat-like repeat-containing protein family member 1,17,26,26,45,1641,181.1,6.89,64769034.125
+High,Q9UHB6,LIMA1,LIM domain and actin-binding protein 1,28,17,17,34,759,85.2,6.84,32828062.375
+High,P09012,SNRPA,U1 small nuclear ribonucleoprotein A,40,10,7,29,282,31.3,9.83,69378005.25
+High,Q9BUJ2,HNRNPUL1,Heterogeneous nuclear ribonucleoprotein U-like protein 1,19,15,15,29,856,95.7,6.92,55216817.875
+High,P47756,CAPZB,F-actin-capping protein subunit beta,42,15,15,31,272,30.6,6.0,70626450.0625
+High,Q9Y230,RUVBL2,RuvB-like 2,40,16,16,32,463,51.1,5.64,35005658.5
+High,P27816,MAP4,Microtubule-associated protein 4,22,17,17,29,1152,120.9,5.43,35747875.71875
+High,Q562R1,ACTBL2,Beta-actin-like protein 2,22,11,3,105,376,42.0,5.59,10881521.5
+High,Q86YZ3,HRNR,Hornerin,14,8,8,12,2850,282.2,10.04,21070368.25
+High,P52907,CAPZA1,F-actin-capping protein subunit alpha-1,62,12,9,24,286,32.9,5.69,88966308.625
+High,P25705,ATP5F1A,"ATP synthase subunit alpha, mitochondrial",36,18,18,28,553,59.7,9.13,45638434.875
+High,P38919,EIF4A3,Eukaryotic initiation factor 4A-III,42,17,14,33,411,46.8,6.73,29017725.3125
+High,Q9Y608,LRRFIP2,Leucine-rich repeat flightless-interacting protein 2,21,15,14,28,721,82.1,6.95,43250215.1875
+High,Q15293,RCN1,Reticulocalbin-1,54,13,13,22,331,38.9,5.0,70181015.25
+High,Q9NYL9,TMOD3,Tropomodulin-3,44,13,13,29,352,39.6,5.19,82157423.875
+High,Q13435,SF3B2,Splicing factor 3B subunit 2,27,19,19,33,895,100.2,5.67,35690314.125
+High,Q15417,CNN3,Calponin-3,43,8,8,26,329,36.4,6.05,32284372.5
+High,Q13310,PABPC4,Polyadenylate-binding protein 4,31,19,10,37,644,70.7,9.26,36984911.125
+High,O95819,MAP4K4,Mitogen-activated protein kinase kinase kinase kinase 4,17,16,16,31,1239,142.0,7.46,37997512.75
+High,Q13425,SNTB2,Beta-2-syntrophin,34,17,17,37,540,57.9,8.82,73458113.6875
+High,Q9HCE1,MOV10,Helicase MOV-10,21,18,18,32,1003,113.6,8.82,27957185.8125
+High,P68400,CSNK2A1,Casein kinase II subunit alpha,46,13,12,24,391,45.1,7.74,33161533.875
+High,P16403,H1-2,Histone H1.2,34,12,4,36,213,21.4,10.93,96742253.1875
+High,Q16555,DPYSL2,Dihydropyrimidinase-related protein 2,37,15,13,24,572,62.3,6.38,27243222.125
+High,Q99816,TSG101,Tumor susceptibility gene 101 protein,38,18,18,39,390,43.9,6.46,146894542.5
+High,P62701,RPS4X,"40S ribosomal protein S4, X isoform",56,17,17,31,263,29.6,10.15,228181220.625
+High,Q9UN86,G3BP2,Ras GTPase-activating protein-binding protein 2,35,13,12,24,482,54.1,5.55,35425397.25
+High,Q15233,NONO,Non-POU domain-containing octamer-binding protein,33,16,15,40,471,54.2,8.95,89966416.75
+High,P39023,RPL3,60S ribosomal protein L3,35,15,15,24,403,46.1,10.18,96640976.4375
+High,Q14240,EIF4A2,Eukaryotic initiation factor 4A-II,33,14,2,28,407,46.4,5.48,2852180.25
+High,P04406,GAPDH,Glyceraldehyde-3-phosphate dehydrogenase,59,13,12,27,335,36.0,8.46,59556034.6875
+High,Q9P0K7,RAI14,Ankycorbin,24,21,21,37,980,110.0,6.21,33012400.75
+High,Q04637,EIF4G1,Eukaryotic translation initiation factor 4 gamma 1,15,21,17,37,1599,175.4,5.33,43458390.3125
+High,Q9Y224,RTRAF,"RNA transcription, translation and transport factor protein",55,12,12,26,244,28.1,6.65,152829511
+High,P29692,EEF1D,Elongation factor 1-delta,46,11,11,29,281,31.1,5.01,253645694.875
+High,Q00341,HDLBP,Vigilin,19,20,20,30,1268,141.4,6.87,26481858.375
+High,Q7Z417,NUFIP2,FMR1-interacting protein NUFIP2,31,14,14,28,695,76.1,8.7,34883612.5
+High,Q92614,MYO18A,Unconventional myosin-XVIIIa,13,24,24,40,2054,233.0,6.3,31490003.625
+High,P63010,AP2B1,AP-2 complex subunit beta,25,22,13,37,937,104.5,5.38,37909239.65625
+High,Q8NCA5,FAM98A,Protein FAM98A,31,10,7,25,518,55.2,8.95,56741197.75
+High,Q8N684,CPSF7,Cleavage and polyadenylation specificity factor subunit 7,31,13,13,28,471,52.0,8.0,136232156
+High,P62269,RPS18,40S ribosomal protein S18,64,18,18,40,152,17.7,10.99,261889316.75
+High,Q86V48,LUZP1,Leucine zipper protein 1,20,15,15,27,1076,120.2,8.5,15053212.25
+High,O60716,CTNND1,Catenin delta-1,19,14,14,29,968,108.1,6.23,38259153.8125
+High,P04275,VWF,von Willebrand factor,8,14,14,25,2813,309.1,5.48,16393461.3125
+High,P14649,MYL6B,Myosin light chain 6B,66,14,10,31,208,22.8,5.73,551424957
+High,O75821,EIF3G,Eukaryotic translation initiation factor 3 subunit G,51,12,12,21,320,35.6,6.13,305190961.25
+High,P10809,HSPD1,"60 kDa heat shock protein, mitochondrial",28,17,17,32,573,61.0,5.87,43277982.1875
+High,P68104,EEF1A1,Elongation factor 1-alpha 1,37,13,13,35,462,50.1,9.01,352075628.515625
+High,O43390,HNRNPR,Heterogeneous nuclear ribonucleoprotein R,24,15,12,31,633,70.9,8.13,35592465.4375
+High,P41252,IARS1,"Isoleucine--tRNA ligase, cytoplasmic",15,16,16,31,1262,144.4,6.15,33138787.5
+High,P10412,H1-4,Histone H1.4,28,10,2,28,219,21.9,11.03,3990752.875
+High,P55081,MFAP1,Microfibrillar-associated protein 1,26,11,11,23,439,51.9,4.98,50320070.0625
+High,Q8IXT5,RBM12B,RNA-binding protein 12B,23,22,22,36,1001,118.0,6.81,54469313.59375
+High,P14923,JUP,Junction plakoglobin,22,15,14,33,745,81.7,6.14,55844266.4375
+High,P06748,NPM1,Nucleophosmin,33,8,8,17,294,32.6,4.78,101346033.25
+High,P23381,WARS1,"Tryptophan--tRNA ligase, cytoplasmic",40,14,14,26,471,53.1,6.23,38611874.71875
+High,P05388,RPLP0,60S acidic ribosomal protein P0,41,11,11,23,317,34.3,5.97,90222440.5
+High,Q9P2J5,LARS1,"Leucine--tRNA ligase, cytoplasmic",18,19,19,31,1176,134.4,7.3,24012989.75
+High,Q15366,PCBP2,Poly(rC)-binding protein 2,45,9,6,21,365,38.6,6.79,39695597.5
+High,P33176,KIF5B,Kinesin-1 heavy chain,20,17,17,31,963,109.6,6.51,33436957.0625
+High,P52597,HNRNPF,Heterogeneous nuclear ribonucleoprotein F,35,12,10,26,415,45.6,5.58,87920656.25
+High,Q13242,SRSF9,Serine/arginine-rich splicing factor 9,57,16,15,41,221,25.5,8.65,199742523.375
+High,Q06830,PRDX1,Peroxiredoxin-1,61,15,12,35,199,22.1,8.13,205289826.25
+High,P26368,U2AF2,Splicing factor U2AF 65 kDa subunit,38,11,11,18,475,53.5,9.09,56941816.75
+High,Q15365,PCBP1,Poly(rC)-binding protein 1,40,9,6,21,356,37.5,7.09,56612650.75
+High,Q7Z2W4,ZC3HAV1,Zinc finger CCCH-type antiviral protein 1,24,17,16,30,902,101.4,8.4,25772144.40625
+High,Q9BYX7,POTEKP,Putative beta-actin-like protein 3,22,6,2,58,375,42.0,6.33,10863894.75
+High,P21980,TGM2,Protein-glutamine gamma-glutamyltransferase 2,25,14,14,25,687,77.3,5.22,41816630
+High,P16989,YBX3,Y-box-binding protein 3,44,10,5,15,372,40.1,9.77,4452691.125
+High,Q8N1N4,KRT78,"Keratin, type II cytoskeletal 78",29,16,13,27,520,56.8,6.02,30626526.6875
+High,P42224,STAT1,Signal transducer and activator of transcription 1-alpha/beta,24,15,15,23,750,87.3,6.05,13710511.375
+High,P62906,RPL10A,60S ribosomal protein L10a,33,10,10,27,217,24.8,9.94,124390805
+High,O95782,AP2A1,AP-2 complex subunit alpha-1,20,16,11,29,977,107.5,7.03,37653639.1875
+High,P02768,ALB,Albumin,20,15,15,68,609,69.3,6.28,2585278343.75
+High,Q9C0C2,TNKS1BP1,182 kDa tankyrase-1-binding protein,14,16,16,25,1729,181.7,4.86,12856647.125
+High,Q96PK6,RBM14,RNA-binding protein 14,27,15,15,27,669,69.4,9.67,48571464.375
+High,P18124,RPL7,60S ribosomal protein L7,48,15,15,29,248,29.2,10.65,118828655.5
+High,Q69YQ0,SPECC1L,Cytospin-A,19,15,15,26,1117,124.5,5.76,17237337.71875
+High,P62424,RPL7A,60S ribosomal protein L7a,39,13,13,29,266,30.0,10.61,147810315.875
+High,Q9NZB2,FAM120A,Constitutive coactivator of PPAR-gamma-like protein 1,20,15,15,23,1118,121.8,8.88,18061612.3125
+High,Q14444,CAPRIN1,Caprin-1,21,10,10,18,709,78.3,5.25,34421347.125
+High,Q6UN15,FIP1L1,Pre-mRNA 3'-end-processing factor FIP1,25,10,10,20,594,66.5,5.59,75479132.25
+High,O43776,NARS1,"Asparagine--tRNA ligase, cytoplasmic",24,13,13,20,548,62.9,6.25,34110386.125
+High,Q460N5,PARP14,Protein mono-ADP-ribosyltransferase PARP14,11,19,19,31,1801,202.7,7.18,22806447
+High,P17987,TCP1,T-complex protein 1 subunit alpha,29,14,14,30,556,60.3,6.11,27347686.84375
+High,P25205,MCM3,DNA replication licensing factor MCM3,23,15,15,27,808,90.9,5.77,39756665.125
+High,Q16630,CPSF6,Cleavage and polyadenylation specificity factor subunit 6,14,9,9,23,551,59.2,7.15,111095248.25
+High,O15231,ZNF185,Zinc finger protein 185,34,15,15,24,689,73.5,7.01,19881628.25
+High,P19784,CSNK2A2,Casein kinase II subunit alpha',49,13,12,24,350,41.2,8.56,35551276.625
+High,Q9UPQ9,TNRC6B,Trinucleotide repeat-containing gene 6B protein,11,12,12,15,1833,193.9,6.76,8128989.625
+High,P33992,MCM5,DNA replication licensing factor MCM5,35,21,21,30,734,82.2,8.37,43776511.9375
+High,P15880,RPS2,40S ribosomal protein S2,38,9,9,21,293,31.3,10.24,86013007.125
+High,Q9H2D6,TRIOBP,TRIO and F-actin-binding protein,7,15,15,22,2365,261.2,8.48,17719137.5625
+High,Q9BY44,EIF2A,Eukaryotic translation initiation factor 2A,39,16,16,27,585,64.9,8.87,32117049.34375
+High,P62750,RPL23A,60S ribosomal protein L23a,44,11,11,27,156,17.7,10.45,90288248.625
+High,P49411,TUFM,"Elongation factor Tu, mitochondrial",34,14,14,29,455,49.8,7.61,43038834.375
+High,P62244,RPS15A,40S ribosomal protein S15a,59,9,9,26,130,14.8,10.13,155340473.375
+High,Q9NZI8,IGF2BP1,Insulin-like growth factor 2 mRNA-binding protein 1,20,9,7,17,577,63.4,9.2,16143556.25
+High,P15144,ANPEP,Aminopeptidase N,20,17,17,32,967,109.5,5.48,21885878.5625
+High,P62263,RPS14,40S ribosomal protein S14,42,9,9,18,151,16.3,10.05,88130068
+High,O15123,ANGPT2,Angiopoietin-2,31,13,13,22,496,56.9,5.58,50111325.125
+High,Q5T9A4,ATAD3B,ATPase family AAA domain-containing protein 3B,20,15,2,26,648,72.5,9.2,3397680
+High,Q9H223,EHD4,EH domain-containing protein 4,33,15,12,25,541,61.1,6.76,20368702.0625
+High,O00425,IGF2BP3,Insulin-like growth factor 2 mRNA-binding protein 3,22,12,9,26,579,63.7,8.87,46934931.71875
+High,Q52LJ0,FAM98B,Protein FAM98B,20,7,4,17,433,45.5,8.69,11031532.5
+High,Q9Y6M1,IGF2BP2,Insulin-like growth factor 2 mRNA-binding protein 2,26,12,10,22,599,66.1,8.46,16944040.8125
+High,P30153,PPP2R1A,Serine/threonine-protein phosphatase 2A 65 kDa regulatory subunit A alpha isoform,24,12,12,23,589,65.3,5.11,24163722
+High,O15042,U2SURP,U2 snRNP-associated SURP motif-containing protein,19,18,18,31,1029,118.2,8.47,48612177.28125
+High,P20591,MX1,Interferon-induced GTP-binding protein Mx1,26,15,15,26,662,75.5,5.83,25461348.53125
+High,Q9UKF6,CPSF3,Cleavage and polyadenylation specificity factor subunit 3,20,12,12,23,684,77.4,5.6,28532348.75
+High,Q7Z794,KRT77,"Keratin, type II cytoskeletal 1b",23,14,9,62,578,61.9,5.99,19778313.625
+High,Q8NEZ2,VPS37A,Vacuolar protein sorting-associated protein 37A,25,9,9,19,397,44.3,5.57,25184805.5
+High,P05141,SLC25A5,ADP/ATP translocase 2,40,14,5,26,298,32.8,9.69,125981407.359375
+High,P32969,RPL9P9,60S ribosomal protein L9,55,11,11,18,192,21.9,9.95,51272404.375
+High,Q9Y6K5,OAS3,2'-5'-oligoadenylate synthase 3,17,20,20,36,1087,121.1,8.4,40326828.03125
+High,P05783,KRT18,"Keratin, type I cytoskeletal 18",46,17,16,37,430,48.0,5.45,49530651.5
+High,P27635,RPL10,60S ribosomal protein L10,38,11,11,27,214,24.6,10.08,137815133.625
+High,P55072,VCP,Transitional endoplasmic reticulum ATPase,21,12,12,21,806,89.3,5.26,17539396.25
+High,Q7L576,CYFIP1,Cytoplasmic FMR1-interacting protein 1,13,14,14,20,1253,145.1,6.9,23367814.25
+High,Q14103,HNRNPD,Heterogeneous nuclear ribonucleoprotein D0,24,9,7,20,355,38.4,7.81,93108477.0625
+High,Q14697,GANAB,Neutral alpha-glucosidase AB,22,18,18,34,944,106.8,6.14,28442687.625
+High,Q53G44,IFI44L,Interferon-induced protein 44-like,33,11,11,20,452,51.3,6.79,28633048.6875
+High,O95425,SVIL,Supervillin,8,14,14,23,2214,247.6,6.98,10132609.75
+High,P28482,MAPK1,Mitogen-activated protein kinase 1,30,10,8,25,360,41.4,6.98,36414705.375
+High,P12236,SLC25A6,ADP/ATP translocase 3,37,13,4,24,298,32.8,9.74,20629751.375
+High,P23528,CFL1,Cofilin-1,51,8,5,18,166,18.5,8.09,144624425.75
+High,P62995,TRA2B,Transformer-2 protein homolog beta,26,8,8,18,288,33.6,11.25,56894277.5625
+High,Q92974,ARHGEF2,Rho guanine nucleotide exchange factor 2,18,14,14,23,986,111.5,7.27,15167974.9375
+High,O95793,STAU1,Double-stranded RNA-binding protein Staufen homolog 1,32,15,14,23,577,63.1,9.44,27500621.125
+High,P63104,YWHAZ,14-3-3 protein zeta/delta,31,7,5,16,245,27.7,4.79,19674608.25
+High,P62241,RPS8,40S ribosomal protein S8,40,11,11,21,208,24.2,10.32,104944892.3125
+High,O94973,AP2A2,AP-2 complex subunit alpha-2,19,15,10,24,939,103.9,6.96,10006622.0625
+High,Q06210,GFPT1,Glutamine--fructose-6-phosphate aminotransferase [isomerizing] 1,19,11,11,18,699,78.8,7.11,26939158.25
+High,P62140,PPP1CB,Serine/threonine-protein phosphatase PP1-beta catalytic subunit,24,7,4,16,327,37.2,6.19,12895635.9375
+High,P14868,DARS1,"Aspartate--tRNA ligase, cytoplasmic",34,15,15,26,501,57.1,6.55,20392155.6875
+High,P55795,HNRNPH2,Heterogeneous nuclear ribonucleoprotein H2,29,10,5,25,449,49.2,6.3,22980376.4375
+High,P46063,RECQL,ATP-dependent DNA helicase Q1,24,15,15,21,649,73.4,7.88,22984819.125
+High,Q96I24,FUBP3,Far upstream element-binding protein 3,27,12,11,23,572,61.6,8.38,14651545
+High,Q8WUA2,PPIL4,Peptidyl-prolyl cis-trans isomerase-like 4,24,10,10,19,492,57.2,5.92,33452528.1875
+High,Q13283,G3BP1,Ras GTPase-activating protein-binding protein 1,32,9,8,15,466,52.1,5.52,6995283.875
+High,A2NJV5,IGKV2-29,Immunoglobulin kappa variable 2-29,19,5,2,157,120,13.1,7.28,5401078619.875
+High,P63244,RACK1,Receptor of activated protein C kinase 1,30,10,10,23,317,35.1,7.69,34406842.375
+High,Q9H9H4,VPS37B,Vacuolar protein sorting-associated protein 37B,41,7,7,12,285,31.3,7.34,36057040.75
+High,P62805,H4C16,Histone H4,45,9,9,19,103,11.4,11.36,128880109.5625
+High,Q9Y613,FHOD1,FH1/FH2 domain-containing protein 1,17,16,16,26,1164,126.5,6.39,20641761.125
+High,P61204,ARF3,ADP-ribosylation factor 3,46,8,6,16,181,20.6,7.43,20584980.625
+High,P47897,QARS1,Glutamine--tRNA ligase,22,15,15,24,775,87.7,7.15,18287361.1875
+High,P33993,MCM7,DNA replication licensing factor MCM7,24,13,13,17,719,81.3,6.46,17758285.1875
+High,P62136,PPP1CA,Serine/threonine-protein phosphatase PP1-alpha catalytic subunit,24,8,5,14,330,37.5,6.33,24144367.1875
+High,P11387,TOP1,DNA topoisomerase 1,19,14,14,23,765,90.7,9.31,30467252.9375
+High,Q01130,SRSF2,Serine/arginine-rich splicing factor 2,24,5,5,14,221,25.5,11.85,47599357.125
+High,P26641,EEF1G,Elongation factor 1-gamma,27,12,12,25,437,50.1,6.67,60020676.375
+High,Q13201,MMRN1,Multimerin-1,14,13,13,19,1228,138.0,7.93,12813287.4375
+High,Q05682,CALD1,Caldesmon,17,10,10,17,793,93.2,5.66,17454963.125
+High,Q7L2E3,DHX30,ATP-dependent RNA helicase DHX30,14,15,15,24,1194,133.9,8.78,18370186.125
+High,Q8N3C0,ASCC3,Activating signal cointegrator 1 complex subunit 3,10,19,19,25,2202,251.3,7.09,18766950.5625
+High,P38646,HSPA9,"Stress-70 protein, mitochondrial",19,10,10,15,679,73.6,6.16,18382900.3125
+High,P26599,PTBP1,Polypyrimidine tract-binding protein 1,31,10,9,19,557,59.6,9.16,43195221.625
+High,P50453,SERPINB9,Serpin B9,32,9,8,15,376,42.4,5.86,27578441.75
+High,Q96CW1,AP2M1,AP-2 complex subunit mu,28,11,11,20,435,49.6,9.54,18340151.75
+High,Q9P2I0,CPSF2,Cleavage and polyadenylation specificity factor subunit 2,18,13,13,22,782,88.4,5.11,36750260.6875
+High,Q15717,ELAVL1,ELAV-like protein 1,31,8,8,14,326,36.1,9.17,24854685.5625
+High,P63151,PPP2R2A,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform,28,9,7,15,447,51.7,6.2,28174441.5
+High,Q12905,ILF2,Interleukin enhancer-binding factor 2,31,9,9,17,390,43.0,5.26,30283559.875
+High,P05787,KRT8,"Keratin, type II cytoskeletal 8",14,10,1,35,483,53.7,5.59,2082978.25
+High,Q02878,RPL6,60S ribosomal protein L6,38,12,12,19,288,32.7,10.58,73235813.625
+High,P56192,MARS1,"Methionine--tRNA ligase, cytoplasmic",15,11,11,20,900,101.1,6.16,14044946.375
+High,P07910,HNRNPC,Heterogeneous nuclear ribonucleoproteins C1/C2,26,8,8,16,306,33.7,5.08,26491389.75
+High,Q9Y2A7,NCKAP1,Nck-associated protein 1,12,13,13,19,1128,128.7,6.62,11391838.25
+High,Q13263,TRIM28,Transcription intermediary factor 1-beta,17,10,10,17,835,88.5,5.77,18078973.0625
+High,Q6UXN9,WDR82,WD repeat-containing protein 82,35,13,13,24,313,35.1,7.69,39429265.25
+High,P31689,DNAJA1,DnaJ homolog subfamily A member 1,39,12,12,19,397,44.8,7.08,35463787.671875
+High,P98179,RBM3,RNA-binding protein 3,30,4,4,14,157,17.2,8.91,103115706.25
+High,P50402,EMD,Emerin,43,9,9,16,254,29.0,5.5,12760114.15625
+High,P19525,EIF2AK2,"Interferon-induced, double-stranded RNA-activated protein kinase",22,12,12,21,551,62.1,8.4,27741162.625
+High,P78371,CCT2,T-complex protein 1 subunit beta,28,11,11,18,535,57.5,6.46,12166293.34375
+High,Q6PKG0,LARP1,La-related protein 1,10,9,9,17,1096,123.4,8.82,7485823
+High,P62829,RPL23,60S ribosomal protein L23,26,7,7,19,140,14.9,10.51,47261009.0625
+High,P47755,CAPZA2,F-actin-capping protein subunit alpha-2,41,8,5,12,286,32.9,5.85,11975007
+High,P13646,KRT13,"Keratin, type I cytoskeletal 13",19,11,5,31,458,49.6,4.96,10220029.125
+High,O14979,HNRNPDL,Heterogeneous nuclear ribonucleoprotein D-like,19,8,6,18,420,46.4,9.57,40896269.25
+High,P48634,PRRC2A,Protein PRRC2A,10,11,11,16,2157,228.7,9.45,11574193.34375
+High,P48047,ATP5PO,"ATP synthase subunit O, mitochondrial",52,9,9,18,213,23.3,9.96,47133210.75
+High,Q8NC51,SERBP1,Plasminogen activator inhibitor 1 RNA-binding protein,34,13,13,26,408,44.9,8.65,46303524.46875
+High,P27348,YWHAQ,14-3-3 protein theta,21,6,4,13,245,27.7,4.78,9897803.1875
+High,P06396,GSN,Gelsolin,23,12,12,19,782,85.6,6.28,17195590.78125
+High,P50990,CCT8,T-complex protein 1 subunit theta,29,14,14,21,548,59.6,5.6,15964571.9375
+High,O75643,SNRNP200,U5 small nuclear ribonucleoprotein 200 kDa helicase,7,14,14,22,2136,244.4,6.06,12835848.6875
+High,Q9Y3Z3,SAMHD1,Deoxynucleoside triphosphate triphosphohydrolase SAMHD1,18,10,10,17,626,72.2,7.14,22151797.9375
+High,P52732,KIF11,Kinesin-like protein KIF11,15,14,14,21,1056,119.1,5.64,13779514.9375
+High,P11413,G6PD,Glucose-6-phosphate 1-dehydrogenase,28,13,13,21,515,59.2,6.84,14090646
+High,Q8IXQ6,PARP9,Protein mono-ADP-ribosyltransferase PARP9,16,11,11,17,854,96.3,7.91,14691163
+High,Q9UPT8,ZC3H4,Zinc finger CCCH domain-containing protein 4,12,7,7,10,1303,140.2,6.27,10100854.625
+High,Q14847,LASP1,LIM and SH3 domain protein 1,46,8,8,18,261,29.7,7.05,60889590.125
+High,P05121,SERPINE1,Plasminogen activator inhibitor 1,28,9,9,16,402,45.0,7.2,25066224
+High,Q86UX7,FERMT3,Fermitin family homolog 3,21,10,10,18,667,75.9,6.98,15765202.4375
+High,P62753,RPS6,40S ribosomal protein S6,23,10,10,22,249,28.7,10.84,45643268.875
+High,P04843,RPN1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 1,22,10,10,14,607,68.5,6.38,18938502.75
+High,P22234,PAICS,Bifunctional phosphoribosylaminoimidazole carboxylase/phosphoribosylaminoimidazole succinocarboxamide synthetase,20,11,11,21,425,47.0,7.23,51731180.6875
+High,Q8N1I0,DOCK4,Dedicator of cytokinesis protein 4,6,12,12,18,1966,225.1,7.65,11751926.0625
+High,P21127,CDK11B,Cyclin-dependent kinase 11B,18,15,15,24,795,92.6,5.54,63182175.3125
+High,Q9Y520,PRRC2C,Protein PRRC2C,5,11,11,19,2896,316.7,9.13,15312190.09375
+High,Q86UE4,MTDH,Protein LYRIC,20,8,8,14,582,63.8,9.32,6146761.5625
+High,Q9Y265,RUVBL1,RuvB-like 1,27,9,9,15,456,50.2,6.42,47896324.125
+High,P61353,RPL27,60S ribosomal protein L27,52,9,9,23,136,15.8,10.56,92501524.625
+High,Q8TDB6,DTX3L,E3 ubiquitin-protein ligase DTX3L,20,11,11,16,740,83.5,8.06,18982519.375
+High,Q9NR12,PDLIM7,PDZ and LIM domain protein 7,32,10,10,18,457,49.8,8.41,22171030.6875
+High,P61254,RPL26,60S ribosomal protein L26,38,9,9,19,145,17.2,10.55,120494383.8125
+High,P62316,SNRPD2,Small nuclear ribonucleoprotein Sm D2,51,7,7,18,118,13.5,9.91,73036833.375
+High,Q53EZ4,CEP55,Centrosomal protein of 55 kDa,23,9,9,18,464,54.1,7.01,28907704.625
+High,Q86XP3,DDX42,ATP-dependent RNA helicase DDX42,19,12,12,18,938,102.9,7.02,14516899.9375
+High,O95429,BAG4,BAG family molecular chaperone regulator 4,32,9,9,15,457,49.6,5.12,4367870.8125
+High,Q8IZ07,ANKRD13A,Ankyrin repeat domain-containing protein 13A,20,10,10,19,590,67.6,5.02,13541208.875
+High,Q6NZI2,CAVIN1,Caveolae-associated protein 1,29,8,8,14,390,43.5,5.6,26194836.375
+High,P46783,RPS10,40S ribosomal protein S10,46,8,8,17,165,18.9,10.15,82090033
+High,P62258,YWHAE,14-3-3 protein epsilon,42,10,8,20,255,29.2,4.74,56092190.59375
+High,P42285,MTREX,Exosome RNA helicase MTR4,11,10,10,15,1042,117.7,6.52,16678168.25
+High,P62277,RPS13,40S ribosomal protein S13,40,8,8,14,151,17.2,10.54,109655484.375
+High,Q6WCQ1,MPRIP,Myosin phosphatase Rho-interacting protein,12,8,8,11,1025,116.5,6.21,5960992.0625
+High,P46781,RPS9,40S ribosomal protein S9,36,13,13,28,194,22.6,10.65,107201677.25
+High,P62826,RAN,GTP-binding nuclear protein Ran,32,6,6,13,216,24.4,7.49,32359096.75
+High,Q96HS1,PGAM5,"Serine/threonine-protein phosphatase PGAM5, mitochondrial",30,11,11,20,289,32.0,8.68,36952623.5
+High,P26373,RPL13,60S ribosomal protein L13,38,10,10,24,211,24.2,11.65,92289971.5
+High,Q8WVC0,LEO1,RNA polymerase-associated protein LEO1,12,8,8,15,666,75.4,4.51,18074724.3125
+High,P03956,MMP1,Interstitial collagenase,24,10,10,17,469,54.0,6.96,14356440.4375
+High,Q6Y7W6,GIGYF2,GRB10-interacting GYF protein 2,9,8,8,11,1299,150.0,5.54,9926884.375
+High,Q9Y597,KCTD3,BTB/POZ domain-containing protein KCTD3,12,8,6,16,815,88.9,7.03,10890801.5
+High,O75822,EIF3J,Eukaryotic translation initiation factor 3 subunit J,34,9,9,16,258,29.0,4.83,26539434.375
+High,Q6P1J9,CDC73,Parafibromin,22,11,11,18,531,60.5,9.61,13518616.8125
+High,Q14008,CKAP5,Cytoskeleton-associated protein 5,8,14,14,17,2032,225.4,7.8,6032136.28125
+High,Q96QC0,PPP1R10,Serine/threonine-protein phosphatase 1 regulatory subunit 10,14,12,12,20,940,99.0,9.17,10545636.4375
+High,Q16629,SRSF7,Serine/arginine-rich splicing factor 7,27,6,6,14,238,27.4,11.82,64471819.625
+High,Q15084,PDIA6,Protein disulfide-isomerase A6,28,8,8,12,440,48.1,5.08,5545721.625
+High,Q5H9U9,DDX60L,Probable ATP-dependent RNA helicase DDX60-like,6,11,8,20,1706,197.5,8.29,8982522.4375
+High,P41091,EIF2S3,Eukaryotic translation initiation factor 2 subunit 3,17,7,7,14,472,51.1,8.4,38449983.5
+High,P35237,SERPINB6,Serpin B6,25,7,6,12,376,42.6,5.27,9800473.25
+High,P62249,RPS16,40S ribosomal protein S16,59,13,13,24,146,16.4,10.21,197128610.625
+High,P23526,AHCY,Adenosylhomocysteinase,23,10,10,15,432,47.7,6.34,12378831.3125
+High,P17931,LGALS3,Galectin-3,26,5,5,12,250,26.1,8.56,35005965.75
+High,P61221,ABCE1,ATP-binding cassette sub-family E member 1,15,7,7,13,599,67.3,8.34,13310940.9375
+High,Q14258,TRIM25,E3 ubiquitin/ISG15 ligase TRIM25,22,11,11,16,630,70.9,8.09,27898654.875
+High,O14744,PRMT5,Protein arginine N-methyltransferase 5,17,11,11,26,637,72.6,6.29,21791934.375
+High,Q15459,SF3A1,Splicing factor 3A subunit 1,17,11,11,15,793,88.8,5.22,12047246
+High,Q8N1G4,LRRC47,Leucine-rich repeat-containing protein 47,20,10,10,12,583,63.4,8.28,12547579.375
+High,Q9Y3F4,STRAP,Serine-threonine kinase receptor-associated protein,26,7,7,13,350,38.4,5.12,13604767.125
+High,Q13557,CAMK2D,Calcium/calmodulin-dependent protein kinase type II subunit delta,21,11,7,16,499,56.3,7.25,25926429.40625
+High,Q00325,SLC25A3,"Phosphate carrier protein, mitochondrial",28,11,11,21,362,40.1,9.38,55071055
+High,Q13501,SQSTM1,Sequestosome-1,23,6,6,9,440,47.7,5.22,12360777.75
+High,P30041,PRDX6,Peroxiredoxin-6,46,10,10,16,224,25.0,6.38,19127255.8125
+High,O00560,SDCBP,Syntenin-1,25,7,7,12,298,32.4,7.53,21680656.375
+High,Q53GL7,PARP10,Protein mono-ADP-ribosyltransferase PARP10,10,8,8,15,1025,109.9,4.97,7618748.75
+High,Q04837,SSBP1,"Single-stranded DNA-binding protein, mitochondrial",58,8,8,15,148,17.2,9.6,35179757.28125
+High,P62917,RPL8,60S ribosomal protein L8,34,9,9,20,257,28.0,11.03,121255693
+High,Q16891,IMMT,MICOS complex subunit MIC60,14,10,10,18,758,83.6,6.48,12165995.78125
+High,Q9HB71,CACYBP,Calcyclin-binding protein,46,7,7,11,228,26.2,8.25,16500909.6875
+High,P54136,RARS1,"Arginine--tRNA ligase, cytoplasmic",17,10,10,19,660,75.3,6.68,18280427.5
+High,P05387,RPLP2,60S acidic ribosomal protein P2,57,4,4,7,115,11.7,4.54,18859314.625
+High,Q7L014,DDX46,Probable ATP-dependent RNA helicase DDX46,12,13,13,19,1031,117.3,9.29,24266838.625
+High,Q9UKV3,ACIN1,Apoptotic chromatin condensation inducer in the nucleus,9,8,8,16,1341,151.8,6.43,12928400.5625
+High,Q9UHD2,TBK1,Serine/threonine-protein kinase TBK1,13,7,7,12,729,83.6,6.79,6815456.125
+High,P46782,RPS5,40S ribosomal protein S5,28,5,5,14,204,22.9,9.72,36832658.75
+High,P18621,RPL17,60S ribosomal protein L17,33,7,7,17,184,21.4,10.17,68231255.5
+High,A5YKK6,CNOT1,CCR4-NOT transcription complex subunit 1,7,13,13,17,2376,266.8,7.11,12627232.25
+High,Q13151,HNRNPA0,Heterogeneous nuclear ribonucleoprotein A0,25,6,6,10,305,30.8,9.29,29432250.296875
+High,P51116,FXR2,RNA-binding protein FXR2,11,6,2,9,673,74.2,6.23,2600872.875
+High,Q9Y6K9,IKBKG,NF-kappa-B essential modulator,23,7,7,10,419,48.2,5.71,8003888.3125
+High,P01040,CSTA,Cystatin-A,67,5,5,9,98,11.0,5.5,18382523.875
+High,Q5D862,FLG2,Filaggrin-2,6,6,6,9,2391,247.9,8.31,22783333.125
+High,P04899,GNAI2,Guanine nucleotide-binding protein G(i) subunit alpha-2,21,5,5,7,355,40.4,5.54,10261341.1875
+High,P36873,PPP1CC,Serine/threonine-protein phosphatase PP1-gamma catalytic subunit,15,5,2,11,323,37.0,6.54,1037974.515625
+High,P62280,RPS11,40S ribosomal protein S11,42,10,10,19,158,18.4,10.3,99700605.125
+High,P39019,RPS19,40S ribosomal protein S19,43,9,9,19,145,16.1,10.32,80113999.75
+High,P07996,THBS1,Thrombospondin-1,10,9,9,13,1170,129.3,4.94,7647138.5
+High,Q13162,PRDX4,Peroxiredoxin-4,23,6,4,13,271,30.5,6.29,6648797.8125
+High,O75494,SRSF10,Serine/arginine-rich splicing factor 10,18,6,6,14,262,31.3,11.27,39708288.25
+High,Q8WXF1,PSPC1,Paraspeckle component 1,20,8,8,15,523,58.7,6.67,23250302.75
+High,Q13200,PSMD2,26S proteasome non-ATPase regulatory subunit 2,12,9,9,14,908,100.1,5.2,33322428.875
+High,Q92598,HSPH1,Heat shock protein 105 kDa,12,8,7,14,858,96.8,5.39,14765827.375
+High,P14678,SNRPB,Small nuclear ribonucleoprotein-associated proteins B and B',19,6,6,14,240,24.6,11.19,51850954.875
+High,Q9Y285,FARSA,Phenylalanine--tRNA ligase alpha subunit,29,10,10,16,508,57.5,7.8,24198826.125
+High,O75083,WDR1,WD repeat-containing protein 1,15,7,7,12,606,66.2,6.65,10678795.9375
+High,P62847,RPS24,40S ribosomal protein S24,36,6,6,16,133,15.4,10.78,40993367.0625
+High,Q14694,USP10,Ubiquitin carboxyl-terminal hydrolase 10,11,8,8,14,798,87.1,5.31,25250590.25
+High,Q15029,EFTUD2,116 kDa U5 small nuclear ribonucleoprotein component,11,8,7,11,972,109.4,5.0,8307223.9375
+High,P38159,RBMX,"RNA-binding motif protein, X chromosome",20,9,9,15,391,42.3,10.05,54557200.375
+High,Q14195,DPYSL3,Dihydropyrimidinase-related protein 3,22,9,7,16,570,61.9,6.49,5381442.65625
+High,Q96I25,RBM17,Splicing factor 45,28,10,10,14,401,44.9,5.97,12519061.6875
+High,Q9UMS4,PRPF19,Pre-mRNA-processing factor 19,16,7,7,12,504,55.1,6.61,11353336.75
+High,Q96D15,RCN3,Reticulocalbin-3,25,5,5,7,328,37.5,4.89,6707035.5
+High,P62081,RPS7,40S ribosomal protein S7,36,8,8,15,194,22.1,10.1,52656282.125
+High,Q9UM54,MYO6,Unconventional myosin-VI,6,7,7,12,1294,149.6,8.53,5604029.625
+High,Q16531,DDB1,DNA damage-binding protein 1,11,12,12,19,1140,126.9,5.26,10840944.71875
+High,O75116,ROCK2,Rho-associated protein kinase 2,9,7,5,9,1388,160.8,6.02,3142297.25
+High,Q04917,YWHAH,14-3-3 protein eta,26,7,5,12,246,28.2,4.84,9471714.625
+High,P22102,GART,Trifunctional purine biosynthetic protein adenosine-3,16,11,11,15,1010,107.7,6.7,14744008.21875
+High,Q6P2E9,EDC4,Enhancer of mRNA-decapping protein 4,9,8,8,10,1401,151.6,5.86,5255178.375
+High,Q9H3U1,UNC45A,Protein unc-45 homolog A,10,8,8,14,944,103.0,6.07,6428268.125
+High,P31040,SDHA,"Succinate dehydrogenase [ubiquinone] flavoprotein subunit, mitochondrial",13,8,8,12,664,72.6,7.39,15746319.625
+High,Q14257,RCN2,Reticulocalbin-2,34,7,7,12,317,36.9,4.4,29478135.75
+High,Q9UDY4,DNAJB4,DnaJ homolog subfamily B member 4,34,8,8,12,337,37.8,8.5,16731493.25
+High,P61163,ACTR1A,Alpha-centractin,22,6,6,12,376,42.6,6.64,13553655.8125
+High,P08621,SNRNP70,U1 small nuclear ribonucleoprotein 70 kDa,18,8,8,13,437,51.5,9.94,20592749.5
+High,O14639,ABLIM1,Actin-binding LIM protein 1,13,8,8,14,778,87.6,8.59,11980571.875
+High,Q9BWF3,RBM4,RNA-binding protein 4,24,8,2,15,364,40.3,7.08,8546694.1875
+High,P84090,ERH,Enhancer of rudimentary homolog,46,10,10,30,104,12.3,5.92,872127443.0625
+High,P40429,RPL13A,60S ribosomal protein L13a,37,10,10,24,203,23.6,10.93,75933152.6875
+High,P58107,EPPK1,Epiplakin,6,7,1,11,5088,555.3,5.62,1042156
+High,Q9ULA0,DNPEP,Aspartyl aminopeptidase,13,6,6,10,485,53.4,7.58,9459681.875
+High,P24666,ACP1,Low molecular weight phosphotyrosine protein phosphatase,40,7,7,11,158,18.0,6.74,10565436.0625
+High,P62314,SNRPD1,Small nuclear ribonucleoprotein Sm D1,38,4,4,8,119,13.3,11.56,33024999.625
+High,P37108,SRP14,Signal recognition particle 14 kDa protein,59,5,5,10,136,14.6,10.04,33650599.5
+High,Q5SW79,CEP170,Centrosomal protein of 170 kDa,8,10,10,16,1584,175.2,7.11,10411281.1875
+High,Q8WWN8,ARAP3,"Arf-GAP with Rho-GAP domain, ANK repeat and PH domain-containing protein 3",9,10,10,15,1544,169.7,7.08,9097557.3125
+High,P49368,CCT3,T-complex protein 1 subunit gamma,16,8,8,16,545,60.5,6.49,18777037.375
+High,P62841,RPS15,40S ribosomal protein S15,37,4,4,10,145,17.0,10.39,45718569.59375
+High,Q9UHR5,SAP30BP,SAP30-binding protein,23,8,8,11,308,33.9,4.84,14780316.5
+High,Q9NZN4,EHD2,EH domain-containing protein 2,23,10,8,17,543,61.1,6.46,16328499.5
+High,O14579,COPE,Coatomer subunit epsilon,26,8,8,13,308,34.5,5.12,10203720.8125
+High,P16401,H1-5,Histone H1.5,20,6,6,13,226,22.6,10.92,108887453.125
+High,Q9Y4I1,MYO5A,Unconventional myosin-Va,7,11,11,16,1855,215.3,8.48,7164736.34375
+High,P61313,RPL15,60S ribosomal protein L15,44,8,8,13,204,24.1,11.62,17684124.375
+High,Q92945,KHSRP,Far upstream element-binding protein 2,11,6,6,11,711,73.1,7.3,8670918.125
+High,O43175,PHGDH,D-3-phosphoglycerate dehydrogenase,15,7,7,12,533,56.6,6.71,9134940.3125
+High,Q99729,HNRNPAB,Heterogeneous nuclear ribonucleoprotein A/B,18,7,7,14,332,36.2,8.21,17360397.5
+High,P17858,PFKL,"ATP-dependent 6-phosphofructokinase, liver type",6,3,2,7,780,85.0,7.5,1770673.25
+High,P35611,ADD1,Alpha-adducin,17,8,8,10,737,80.9,5.83,6094490.5625
+High,Q8WWP7,GIMAP1,GTPase IMAP family member 1,26,6,6,12,306,34.3,8.87,22993801.125
+High,O75534,CSDE1,Cold shock domain-containing protein E1,14,11,11,17,798,88.8,6.25,14464535.875
+High,Q13148,TARDBP,TAR DNA-binding protein 43,20,6,6,8,414,44.7,6.19,14620989.375
+High,O94929,ABLIM3,Actin-binding LIM protein 3,11,7,7,12,683,77.8,8.54,11720088.375
+High,P49593,PPM1F,Protein phosphatase 1F,17,6,6,9,454,49.8,5.1,6592120.4375
+High,Q9C0D5,TANC1,Protein TANC1,8,12,12,15,1861,202.1,8.32,9673743.375
+High,P53814,SMTN,Smoothelin,11,7,7,11,917,99.0,9.07,4762261.625
+High,Q9BZ29,DOCK9,Dedicator of cytokinesis protein 9,5,9,9,17,2069,236.3,7.49,9532962.0625
+High,P06576,ATP5F1B,"ATP synthase subunit beta, mitochondrial",16,6,6,10,529,56.5,5.4,6879095.75
+High,Q08554,DSC1,Desmocollin-1,10,6,6,10,894,99.9,5.43,14002099.25
+High,Q8IVM0,CCDC50,Coiled-coil domain-containing protein 50,32,7,7,13,306,35.8,6.65,14679380.5625
+High,P11182,DBT,"Lipoamide acyltransferase component of branched-chain alpha-keto acid dehydrogenase complex, mitochondrial",30,12,12,19,482,53.5,8.51,15460504.5
+High,Q13573,SNW1,SNW domain-containing protein 1,15,6,6,8,536,61.5,9.52,2239391.1875
+High,P27694,RPA1,Replication protein A 70 kDa DNA-binding subunit,18,8,8,11,616,68.1,7.21,8780394.375
+High,Q96P63,SERPINB12,Serpin B12,16,7,7,11,405,46.2,5.53,15374165.125
+High,P22695,UQCRC2,"Cytochrome b-c1 complex subunit 2, mitochondrial",21,7,7,11,453,48.4,8.63,9923044.3125
+High,O95573,ACSL3,Fatty acid CoA ligase Acsl3,15,7,5,11,720,80.4,8.38,8422258.625
+High,P11802,CDK4,Cyclin-dependent kinase 4,29,6,6,12,303,33.7,7.01,7194454.75
+High,Q01085,TIAL1,Nucleolysin TIAR,25,7,4,11,375,41.6,7.74,17998692.25
+High,P43243,MATR3,Matrin-3,14,9,9,16,847,94.6,6.25,20591181.375
+High,O95340,PAPSS2,Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 2,14,7,7,12,614,69.5,8.03,4637935.5
+High,O14974,PPP1R12A,Protein phosphatase 1 regulatory subunit 12A,10,9,9,13,1030,115.2,5.4,8241123.6875
+High,P22061,PCMT1,Protein-L-isoaspartate(D-aspartate) O-methyltransferase,37,6,6,12,227,24.6,7.21,13625631.8125
+High,Q16543,CDC37,Hsp90 co-chaperone Cdc37,24,7,7,9,378,44.4,5.25,24795853
+High,Q9UBQ5,EIF3K,Eukaryotic translation initiation factor 3 subunit K,28,6,6,16,218,25.0,4.93,84052199.375
+High,Q86V81,ALYREF,THO complex subunit 4,21,3,3,5,257,26.9,11.15,14254657.5
+High,P27361,MAPK3,Mitogen-activated protein kinase 3,16,6,4,14,379,43.1,6.74,5217963.625
+High,P09661,SNRPA1,U2 small nuclear ribonucleoprotein A',33,6,6,10,255,28.4,8.62,15434074.5
+High,Q92688,ANP32B,Acidic leucine-rich nuclear phosphoprotein 32 family member B,16,6,4,10,251,28.8,4.06,33259639
+High,Q96EK9,KTI12,Protein KTI12 homolog,30,7,7,11,354,38.6,6.95,11282553.28125
+High,Q6IBS0,TWF2,Twinfilin-2,16,4,3,6,349,39.5,6.84,4870930.5625
+High,Q96AG4,LRRC59,Leucine-rich repeat-containing protein 59,24,8,8,13,307,34.9,9.57,37716827
+High,O60884,DNAJA2,DnaJ homolog subfamily A member 2,20,8,8,13,412,45.7,6.48,16311072.6875
+High,P05089,ARG1,Arginase-1,22,6,6,9,322,34.7,7.21,12293039.6875
+High,P11308,ERG,Transcriptional regulator ERG,16,5,5,9,479,53.8,7.65,9262710.375
+High,Q9UBB9,TFIP11,Tuftelin-interacting protein 11,11,6,6,10,837,96.8,5.67,2866993.5
+High,Q99439,CNN2,Calponin-2,24,5,5,8,309,33.7,7.33,10606026.875
+High,O15143,ARPC1B,Actin-related protein 2/3 complex subunit 1B,15,5,5,8,372,40.9,8.35,6276421.125
+High,P40939,HADHA,"Trifunctional enzyme subunit alpha, mitochondrial",11,8,8,13,763,82.9,9.04,10805307.8125
+High,Q6L8Q7,PDE12,"2',5'-phosphodiesterase 12",11,5,5,9,609,67.3,6.57,7634861
+High,Q9UJ70,NAGK,N-acetyl-D-glucosamine kinase,22,6,6,10,344,37.4,6.24,6742254.25
+High,P42166,TMPO,"Lamina-associated polypeptide 2, isoform alpha",11,5,5,8,694,75.4,7.66,7353583.1875
+High,P08708,RPS17,40S ribosomal protein S17,40,3,3,9,135,15.5,9.85,41928339.5
+High,Q10567,AP1B1,AP-1 complex subunit beta-1,10,10,1,14,949,104.5,5.06,915971.1875
+High,P40227,CCT6A,T-complex protein 1 subunit zeta,15,7,7,12,531,58.0,6.68,9431698.875
+High,P32119,PRDX2,Peroxiredoxin-2,33,7,6,13,198,21.9,5.97,14011275.75
+High,Q99700,ATXN2,Ataxin-2,7,7,7,10,1313,140.2,9.57,3758316.1875
+High,Q9Y2D5,AKAP2,A-kinase anchor protein 2,14,8,8,12,859,94.6,5.11,2618922.625
+High,P06310,IGKV2-30,Immunoglobulin kappa variable 2-30,20,3,1,85,120,13.2,8.51,762014.5
+High,Q9H3S7,PTPN23,Tyrosine-protein phosphatase non-receptor type 23,6,9,9,14,1636,178.9,6.92,7036654.78125
+High,P23258,TUBG1,Tubulin gamma-1 chain,19,5,5,8,451,51.1,6.14,3803789.71875
+High,Q8WUQ7,CACTIN,Splicing factor Cactin,10,5,5,8,758,88.6,9.14,6940989.4375
+High,P29508,SERPINB3,Serpin B3,17,7,7,10,390,44.5,6.81,9045231.3125
+High,Q92616,GCN1,eIF-2-alpha kinase activator GCN1,4,11,11,14,2671,292.5,7.43,5163031.5
+High,P84098,RPL19,60S ribosomal protein L19,27,6,6,9,196,23.5,11.47,26232373.1875
+High,P04040,CAT,Catalase,14,5,5,9,527,59.7,7.39,4711175.6875
+High,P45880,VDAC2,Voltage-dependent anion-selective channel protein 2,24,6,6,11,294,31.5,7.56,19533265
+High,Q9BYK8,HELZ2,Helicase with zinc finger domain 2,5,10,10,12,2649,294.5,7.49,4424193.8125
+High,P18085,ARF4,ADP-ribosylation factor 4,33,6,4,12,180,20.5,7.14,12819324
+High,P30876,POLR2B,DNA-directed RNA polymerase II subunit RPB2,9,11,11,17,1174,133.8,6.87,3855591.5
+High,Q9NSB2,KRT84,"Keratin, type II cuticular Hb4",7,6,1,22,600,64.8,7.56,1919925.25
+High,P50991,CCT4,T-complex protein 1 subunit delta,18,8,8,13,539,57.9,7.83,17555917.875
+High,P62913,RPL11,60S ribosomal protein L11,28,5,5,10,178,20.2,9.6,104079348.40625
+High,Q3SY84,KRT71,"Keratin, type II cytoskeletal 71",11,6,3,28,523,57.3,6.61,17895703.8125
+High,P50914,RPL14,60S ribosomal protein L14,15,3,3,8,215,23.4,10.93,80553759.75
+High,P04792,HSPB1,Heat shock protein beta-1,26,4,4,8,205,22.8,6.4,5541811.125
+High,P60866,RPS20,40S ribosomal protein S20,37,6,6,10,119,13.4,9.94,101517303.75
+High,P08865,RPSA,40S ribosomal protein SA,18,4,4,8,295,32.8,4.87,12435271.25
+High,Q96IZ0,PAWR,PRKC apoptosis WT1 regulator protein,17,5,5,10,340,36.5,5.41,9698147.25
+High,Q9HA64,FN3KRP,Ketosamine-3-kinase,23,7,7,10,309,34.4,7.33,12292741.75
+High,P35609,ACTN2,Alpha-actinin-2,7,5,1,9,894,103.8,5.45,2852381.25
+High,Q9Y5S2,CDC42BPB,Serine/threonine-protein kinase MRCK beta,6,8,4,13,1711,194.2,6.37,5171715.8125
+High,P84103,SRSF3,Serine/arginine-rich splicing factor 3,35,6,6,12,164,19.3,11.65,95523061
+High,Q96QK1,VPS35,Vacuolar protein sorting-associated protein 35,9,7,7,12,796,91.6,5.49,8432208.5
+High,Q02978,SLC25A11,Mitochondrial 2-oxoglutarate/malate carrier protein,21,5,5,10,314,34.0,9.91,10479840.875
+High,Q9UK41,VPS28,Vacuolar protein sorting-associated protein 28 homolog,21,3,3,6,221,25.4,5.54,12331322.5625
+High,P26640,VARS1,Valine--tRNA ligase,10,8,8,12,1264,140.4,7.59,4777962.1875
+High,P0DP24,CALM2,Calmodulin-2,40,4,4,7,149,16.8,4.22,11583987.875
+High,A6NFQ2,TCAF2,TRPM8 channel-associated factor 2,11,9,8,11,919,100.8,7.17,7414131.25
+High,P40763,STAT3,Signal transducer and activator of transcription 3,11,6,6,10,770,88.0,6.3,3260840.5
+High,Q7Z392,TRAPPC11,Trafficking protein particle complex subunit 11,6,7,7,10,1133,128.8,7.14,2765808.875
+High,P36542,ATP5F1C,"ATP synthase subunit gamma, mitochondrial",20,6,6,11,298,33.0,9.22,12876465.6875
+High,Q15046,KARS1,Lysine--tRNA ligase,13,6,6,10,597,68.0,6.35,6042092.625
+High,P35221,CTNNA1,Catenin alpha-1,11,7,6,9,906,100.0,6.29,5549289.125
+High,O76094,SRP72,Signal recognition particle subunit SRP72,13,7,7,9,671,74.6,9.26,4941679.8125
+High,Q9H4M9,EHD1,EH domain-containing protein 1,12,6,3,14,534,60.6,6.83,3689587.1875
+High,P31944,CASP14,Caspase-14,17,4,4,5,242,27.7,5.58,5582753.40625
+High,Q6KB66,KRT80,"Keratin, type II cytoskeletal 80",17,7,6,14,452,50.5,5.67,3588600.25
+High,P78344,EIF4G2,Eukaryotic translation initiation factor 4 gamma 2,9,8,8,13,907,102.3,7.14,6462652.25
+High,Q96EY5,MVB12A,Multivesicular body subunit 12A,20,4,4,8,273,28.8,8.91,18751290.5
+High,O75436,VPS26A,Vacuolar protein sorting-associated protein 26A,25,6,6,10,327,38.1,6.57,4594352.53125
+High,P25311,AZGP1,Zinc-alpha-2-glycoprotein,17,3,3,6,298,34.2,6.05,6095481.125
+High,P81605,DCD,Dermcidin,36,4,4,8,110,11.3,6.54,20517635.25
+High,Q07020,RPL18,60S ribosomal protein L18,20,4,4,8,188,21.6,11.72,30440666
+High,O60488,ACSL4,Long-chain-fatty-acid--CoA ligase 4,13,8,6,10,711,79.1,8.38,20265541.375
+High,Q8N1W1,ARHGEF28,Rho guanine nucleotide exchange factor 28,6,6,6,10,1705,191.8,6.04,2499524.75
+High,Q6PD62,CTR9,RNA polymerase-associated protein CTR9 homolog,6,7,7,12,1173,133.4,6.77,8204041.125
+High,Q06787,FMR1,Fragile X messenger ribonucleoprotein 1,10,6,4,9,632,71.1,7.42,4780841.75
+High,Q99832,CCT7,T-complex protein 1 subunit eta,19,9,9,14,543,59.3,7.65,16144738
+High,Q9UJV9,DDX41,Probable ATP-dependent RNA helicase DDX41,14,7,7,12,622,69.8,6.84,4728912.03125
+High,P83731,RPL24,60S ribosomal protein L24,22,4,4,7,157,17.8,11.25,71011353.5
+High,Q16777,H2AC20,Histone H2A type 2-C,36,5,1,12,129,14.0,10.9,2729212.25
+High,Q9Y580,RBM7,RNA-binding protein 7,26,5,5,7,266,30.5,9.57,9233421.625
+High,Q32MZ4,LRRFIP1,Leucine-rich repeat flightless-interacting protein 1,7,5,4,8,808,89.2,4.65,4745220.375
+High,Q13243,SRSF5,Serine/arginine-rich splicing factor 5,22,5,4,7,272,31.2,11.59,28521340.625
+High,Q9BZF9,UACA,Uveal autoantigen with coiled-coil domains and ankyrin repeats,5,6,6,10,1416,162.4,7.03,4458422.8125
+High,Q8IWX8,CHERP,Calcium homeostasis endoplasmic reticulum protein,8,6,6,10,916,103.6,9.04,8763488.375
+High,Q99623,PHB2,Prohibitin-2,23,5,5,6,299,33.3,9.83,3033078
+High,O60343,TBC1D4,TBC1 domain family member 4,6,7,7,11,1298,146.5,7.01,4707100.8125
+High,O75909,CCNK,Cyclin-K,10,3,3,5,580,64.2,8.41,5037154.25
+High,P42677,RPS27,40S ribosomal protein S27,31,3,3,8,84,9.5,9.45,14754545.875
+High,Q15637,SF1,Splicing factor 1,13,5,5,8,639,68.3,8.98,9021186.625
+High,Q9Y2X7,GIT1,ARF GTPase-activating protein GIT1,13,7,5,12,761,84.3,6.8,7815991.5
+High,O00299,CLIC1,Chloride intracellular channel protein 1,31,6,5,9,241,26.9,5.17,16762748.625
+High,P48735,IDH2,"Isocitrate dehydrogenase [NADP], mitochondrial",15,6,6,11,452,50.9,8.69,8082251.5
+High,P62879,GNB2,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-2,13,4,1,7,340,37.3,6.0,4439897
+High,P15170,GSPT1,Eukaryotic peptide chain release factor GTP-binding subunit ERF3A,20,8,8,14,499,55.7,5.62,9404985.1875
+High,P50452,SERPINB8,Serpin B8,18,7,5,12,374,42.7,5.57,6143477.1875
+High,Q9BWM7,SFXN3,Sideroflexin-3,26,6,6,12,321,35.5,9.1,3945058.1875
+High,P42771,CDKN2A,Cyclin-dependent kinase inhibitor 2A,26,3,3,5,156,16.5,5.81,7303373
+High,Q6NZY4,ZCCHC8,Zinc finger CCHC domain-containing protein 8,14,7,7,13,707,78.5,4.87,10555102.125
+High,Q7L7L0,H2AC25,Histone H2A type 3,35,5,1,11,130,14.1,11.05,204616354.75
+High,P51570,GALK1,Galactokinase,19,6,6,11,392,42.2,6.46,5486032.0625
+High,P42766,RPL35,60S ribosomal protein L35,30,5,5,10,123,14.5,11.05,64178083.75
+High,Q9H0D6,XRN2,5'-3' exoribonuclease 2,9,7,7,12,950,108.5,7.47,7637073.375
+High,P12268,IMPDH2,Inosine-5'-monophosphate dehydrogenase 2,13,5,5,10,514,55.8,6.9,9192445.625
+High,P13861,PRKAR2A,cAMP-dependent protein kinase type II-alpha regulatory subunit,17,5,3,7,404,45.5,5.07,3733021.5
+High,Q53GQ0,HSD17B12,Very-long-chain 3-oxoacyl-CoA reductase,29,7,7,11,312,34.3,9.32,5748234.5
+High,P61158,ACTR3,Actin-related protein 3,19,6,6,8,418,47.3,5.88,9796235.875
+High,Q8TCB0,IFI44,Interferon-induced protein 44,18,7,7,10,444,50.5,6.89,23030074.0625
+High,P42566,EPS15,Epidermal growth factor receptor substrate 15,12,8,8,12,896,98.6,4.64,11158902.5
+High,P39060,COL18A1,Collagen alpha-1(XVIII) chain,3,4,4,7,1754,178.1,6.01,4774371.25
+High,O15020,SPTBN2,"Spectrin beta chain, non-erythrocytic 2",4,7,2,10,2390,271.2,6.11,445599.5625
+High,P61160,ACTR2,Actin-related protein 2,21,6,6,9,394,44.7,6.74,6852306.75
+High,P50479,PDLIM4,PDZ and LIM domain protein 4,22,6,6,9,330,35.4,7.91,209291920.4375
+High,P04080,CSTB,Cystatin-B,52,4,4,7,98,11.1,7.56,26501625.5
+High,Q6NYC8,PPP1R18,Phostensin,10,6,6,8,613,67.9,5.4,4942168.5625
+High,Q2TAY7,SMU1,WD40 repeat-containing protein SMU1,14,6,6,7,513,57.5,7.18,8007572.3125
+High,O75165,DNAJC13,DnaJ homolog subfamily C member 13,5,9,9,10,2243,254.3,6.74,2895940.78125
+High,P09543,CNP,"2',3'-cyclic-nucleotide 3'-phosphodiesterase",18,8,8,13,421,47.5,9.07,4728436.875
+High,Q96MU7,YTHDC1,YTH domain-containing protein 1,11,10,10,13,727,84.6,6.23,16728020.625
+High,Q96CW5,TUBGCP3,Gamma-tubulin complex component 3,7,5,5,7,907,103.5,8.12,3913361.75
+High,O43684,BUB3,Mitotic checkpoint protein BUB3,17,5,5,9,328,37.1,6.84,7782903.625
+High,P61981,YWHAG,14-3-3 protein gamma,23,6,2,11,247,28.3,4.89,8113278
+High,Q8IY21,DDX60,Probable ATP-dependent RNA helicase DDX60,4,7,4,12,1712,197.7,7.59,2598368.875
+High,Q9BQ04,RBM4B,RNA-binding protein 4B,17,7,1,13,359,40.1,6.74,
+High,O60841,EIF5B,Eukaryotic translation initiation factor 5B,7,4,4,6,1220,138.7,5.49,7296509.625
+High,P09382,LGALS1,Galectin-1,21,3,3,9,135,14.7,5.5,23830421.25
+High,P48643,CCT5,T-complex protein 1 subunit epsilon,15,7,7,11,541,59.6,5.66,23345363.71875
+High,Q8WUP2,FBLIM1,Filamin-binding LIM protein 1,9,3,3,6,373,40.6,6.02,6551005
+High,Q9BY77,POLDIP3,Polymerase delta-interacting protein 3,16,5,5,8,421,46.1,9.99,5561644.5
+High,Q9P035,HACD3,Very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase 3,19,5,5,6,362,43.1,8.94,6680224.96875
+High,Q13796,SHROOM2,Protein Shroom2,3,4,4,5,1616,176.3,7.09,5972811.5
+High,P35251,RFC1,Replication factor C subunit 1,7,7,7,12,1148,128.2,9.36,6663103.375
+High,Q5QNW6,H2BC18,Histone H2B type 2-F,27,4,2,7,126,13.9,10.32,16363093
+High,Q16512,PKN1,Serine/threonine-protein kinase N1,9,6,6,8,942,103.9,6.37,4067157.96875
+High,Q6XZF7,DNMBP,Dynamin-binding protein,5,6,6,8,1577,177.2,5.39,80244798.875
+High,Q9Y3U8,RPL36,60S ribosomal protein L36,24,4,4,6,105,12.2,11.59,12537462.75
+High,Q9ULV4,CORO1C,Coronin-1C,9,4,4,6,474,53.2,7.08,23955755.4375
+High,P21291,CSRP1,Cysteine and glycine-rich protein 1,19,3,3,5,193,20.6,8.57,18206099.75
+High,Q07866,KLC1,Kinesin light chain 1,18,8,8,11,573,65.3,6.2,8415841.46875
+High,Q92522,H1-10,Histone H1.10,18,4,4,8,213,22.5,10.76,7297032.1875
+High,P22735,TGM1,Protein-glutamine gamma-glutamyltransferase K,9,5,5,8,817,89.7,6.04,3036103.25
+High,Q96AQ6,PBXIP1,Pre-B-cell leukemia transcription factor-interacting protein 1,8,5,5,7,731,80.6,5.33,4372710.625
+High,Q8TD19,NEK9,Serine/threonine-protein kinase Nek9,9,6,6,10,979,107.1,5.74,3814835.4375
+High,Q96KG9,SCYL1,N-terminal kinase-like protein,11,7,7,13,808,89.6,6.3,22171600.5625
+High,Q13555,CAMK2G,Calcium/calmodulin-dependent protein kinase type II subunit gamma,11,6,2,12,558,62.6,7.83,3029519.375
+High,O95299,NDUFA10,"NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 10, mitochondrial",16,5,5,7,355,40.7,8.48,8133526.3125
+High,Q16778,H2BC21,Histone H2B type 2-E,27,4,2,7,126,13.9,10.32,77332734
+High,Q6GPH4,XAF1,XIAP-associated factor 1,16,3,3,4,301,34.6,8.19,5725962.6875
+High,O14818,PSMA7,Proteasome subunit alpha type-7,27,5,5,6,248,27.9,8.46,3342621.5
+High,O00148,DDX39A,ATP-dependent RNA helicase DDX39A,14,6,6,9,427,49.1,5.68,5073116.8125
+High,Q08J23,NSUN2,RNA cytosine C(5)-methyltransferase NSUN2,11,6,6,9,767,86.4,6.77,4418673.5625
+High,P35268,RPL22,60S ribosomal protein L22,26,4,4,7,128,14.8,9.19,43014569.75
+High,Q709C8,VPS13C,Intermembrane lipid transfer protein VPS13C,3,9,9,9,3753,422.1,6.83,2463727.625
+High,Q9ULX3,NOB1,RNA-binding protein NOB1,12,4,4,6,412,46.6,7.18,4311241.25
+High,Q9Y6A4,CFAP20,Cilia- and flagella-associated protein 20,21,4,4,7,193,22.8,9.76,34450877
+High,Q13595,TRA2A,Transformer-2 protein homolog alpha,19,7,7,11,282,32.7,11.27,18954808.5
+High,Q8NFW8,CMAS,N-acylneuraminate cytidylyltransferase,12,3,3,5,434,48.3,7.93,5235413.625
+High,Q9Y5X2,SNX8,Sorting nexin-8,16,6,6,8,465,52.5,7.39,7299658.0625
+High,Q3MHD2,LSM12,Protein LSM12,19,2,2,4,195,21.7,7.74,9409374.75
+High,P62873,GNB1,Guanine nucleotide-binding protein G(I)/G(S)/G(T) subunit beta-1,13,4,1,7,340,37.4,6.0,15052749.3125
+High,Q9H0G5,NSRP1,Nuclear speckle splicing regulatory protein 1,12,6,6,11,558,66.4,8.84,13328430.375
+High,Q96II8,LRCH3,DISP complex protein LRCH3,9,4,4,6,777,86.0,6.71,2130212.625
+High,Q9UEY8,ADD3,Gamma-adducin,10,6,6,11,706,79.1,6.32,6715974.5
+High,Q9H0J9,PARP12,Protein mono-ADP-ribosyltransferase PARP12,10,8,7,14,701,79.0,8.51,5286408.75
+High,P13489,RNH1,Ribonuclease inhibitor,9,3,3,6,461,49.9,4.82,11017258.5
+High,P01876,IGHA1,Immunoglobulin heavy constant alpha 1,13,4,4,7,398,42.8,5.64,6717206
+High,P21912,SDHB,"Succinate dehydrogenase [ubiquinone] iron-sulfur subunit, mitochondrial",21,6,6,10,280,31.6,8.76,6544155.09375
+High,Q96ST2,IWS1,Protein IWS1 homolog,8,5,5,7,819,91.9,4.69,11443267.25
+High,P13807,GYS1,"Glycogen [starch] synthase, muscle",10,5,5,9,737,83.7,6.18,5495889.625
+High,P62937,PPIA,Peptidyl-prolyl cis-trans isomerase A,30,5,5,11,165,18.0,7.81,5424136.625
+High,Q9NR30,DDX21,Nucleolar RNA helicase 2,11,6,6,9,783,87.3,9.28,2551285.1875
+High,O95639,CPSF4,Cleavage and polyadenylation specificity factor subunit 4,18,3,3,5,269,30.2,8.31,7433261.25
+High,Q8IXB1,DNAJC10,DnaJ homolog subfamily C member 10,6,3,3,4,793,91.0,7.18,1300111.25
+High,P62851,RPS25,40S ribosomal protein S25,28,5,5,11,125,13.7,10.11,87745629.25
+High,P51148,RAB5C,Ras-related protein Rab-5C,22,4,4,7,216,23.5,8.41,4598861.3125
+High,P04632,CAPNS1,Calpain small subunit 1,22,5,5,8,268,28.3,5.2,9981553.75
+High,P41250,GARS1,Glycine--tRNA ligase,9,5,5,5,739,83.1,7.03,4386760.625
+High,Q09161,NCBP1,Nuclear cap-binding protein subunit 1,7,5,5,8,790,91.8,6.43,3795259.0625
+High,Q9Y2T2,AP3M1,AP-3 complex subunit mu-1,18,6,6,7,418,46.9,6.93,3355627.5625
+High,Q13526,PIN1,Peptidyl-prolyl cis-trans isomerase NIMA-interacting 1,30,3,3,6,163,18.2,8.82,4451363.3125
+High,Q8NEY8,PPHLN1,Periphilin-1,22,10,10,21,458,52.7,9.11,29949923.875
+High,P26038,MSN,Moesin,12,9,9,14,577,67.8,6.4,11936553.625
+High,Q9UKV8,AGO2,Protein argonaute-2,7,5,3,9,859,97.1,9.19,5097523.625
+High,Q5JSZ5,PRRC2B,Protein PRRC2B,4,6,6,10,2229,242.8,8.34,3862297.125
+High,Q9UJU6,DBNL,Drebrin-like protein,10,3,3,4,430,48.2,5.05,2464907.25
+High,O14880,MGST3,Microsomal glutathione S-transferase 3,18,3,3,5,152,16.5,9.38,2075195.5625
+High,Q6P2Q9,PRPF8,Pre-mRNA-processing-splicing factor 8,4,9,9,14,2335,273.4,8.84,6235264.0625
+High,Q8IZ83,ALDH16A1,Aldehyde dehydrogenase family 16 member A1,9,5,5,6,802,85.1,6.79,4157082.875
+High,P30050,RPL12,60S ribosomal protein L12,24,3,3,7,165,17.8,9.42,53812504
+High,P14625,HSP90B1,Endoplasmin,3,3,1,6,803,92.4,4.84,795904.0625
+High,Q9NQX3,GPHN,Gephyrin,9,5,5,6,736,79.7,5.43,3959771.3125
+High,A1X283,SH3PXD2B,SH3 and PX domain-containing protein 2B,8,5,5,8,911,101.5,8.69,8201555.375
+High,Q15517,CDSN,Corneodesmosin,10,3,3,6,529,51.5,8.35,5540173.625
+High,P11586,MTHFD1,"C-1-tetrahydrofolate synthase, cytoplasmic",7,6,6,8,935,101.5,7.3,7348251.3125
+High,P20042,EIF2S2,Eukaryotic translation initiation factor 2 subunit 2,17,5,5,9,333,38.4,5.8,8732970.625
+High,Q14671,PUM1,Pumilio homolog 1,6,6,6,8,1186,126.4,6.84,4405158.3125
+High,Q9H853,TUBA4B,Putative tubulin-like protein alpha-4B,11,2,1,5,241,27.5,7.83,26235487
+High,P53618,COPB1,Coatomer subunit beta,8,6,6,7,953,107.1,6.05,4777308.5625
+High,P31946,YWHAB,14-3-3 protein beta/alpha,28,6,2,9,246,28.1,4.83,
+High,P24534,EEF1B2,Elongation factor 1-beta,16,3,3,6,225,24.7,4.67,9589172.75
+High,Q9UHI6,DDX20,Probable ATP-dependent RNA helicase DDX20,10,5,5,7,824,92.2,6.95,7257813.125
+High,P52943,CRIP2,Cysteine-rich protein 2,28,3,3,6,208,22.5,8.72,33579684.75
+High,Q53EP0,FNDC3B,Fibronectin type III domain-containing protein 3B,5,4,4,7,1204,132.8,5.95,3288202.6875
+High,Q9NZ09,UBAP1,Ubiquitin-associated protein 1,17,5,5,8,502,55.0,5.11,8810734.125
+High,Q15942,ZYX,Zyxin,12,6,6,9,572,61.2,6.67,7437049.5
+High,Q9GZS3,SKIC8,SKI8 subunit of superkiller complex protein,16,4,4,6,305,33.6,5.47,5004593.875
+High,P02751,FN1,Fibronectin,3,6,6,7,2477,272.2,5.5,1598029.25
+High,P46777,RPL5,60S ribosomal protein L5,15,4,4,9,297,34.3,9.72,12163588.75
+High,P53041,PPP5C,Serine/threonine-protein phosphatase 5,12,4,4,6,499,56.8,6.28,2415606.125
+High,P00492,HPRT1,Hypoxanthine-guanine phosphoribosyltransferase,23,5,4,9,218,24.6,6.68,9675246.4375
+High,O75525,KHDRBS3,"KH domain-containing, RNA-binding, signal transduction-associated protein 3",14,5,3,15,346,38.8,7.61,3653275.375
+High,Q96P70,IPO9,Importin-9,5,4,4,5,1041,115.9,4.81,854069.90625
+High,Q13724,MOGS,Mannosyl-oligosaccharide glucosidase,10,6,6,9,837,91.9,8.9,31468832.5625
+High,O43488,AKR7A2,Aflatoxin B1 aldehyde reductase member 2,15,4,4,8,359,39.6,7.17,5540980.875
+High,O14920,IKBKB,Inhibitor of nuclear factor kappa-B kinase subunit beta,7,5,5,11,756,86.5,5.78,5460340
+High,Q8N7H5,PAF1,RNA polymerase II-associated factor 1 homolog,11,5,5,10,531,59.9,4.63,12333729.625
+High,P60891,PRPS1,Ribose-phosphate pyrophosphokinase 1,11,3,3,6,318,34.8,6.98,3099770.5
+High,Q02809,PLOD1,"Procollagen-lysine,2-oxoglutarate 5-dioxygenase 1",10,5,5,5,727,83.5,6.95,3726187.75
+High,Q13131,PRKAA1,5'-AMP-activated protein kinase catalytic subunit alpha-1,11,6,6,9,559,64.0,8.12,7000249.375
+High,Q96N67,DOCK7,Dedicator of cytokinesis protein 7,3,6,3,9,2140,242.4,6.8,1073869.375
+High,Q15007,WTAP,Pre-mRNA-splicing regulator WTAP,13,4,4,7,396,44.2,5.19,2424559.21875
+High,Q96HC4,PDLIM5,PDZ and LIM domain protein 5,13,6,6,8,596,63.9,8.21,6579382.0625
+High,Q16658,FSCN1,Fascin,12,5,5,9,493,54.5,7.24,7753727.375
+High,Q6UWP8,SBSN,Suprabasin,14,2,2,3,590,60.5,7.01,2520974.15625
+High,P62910,RPL32,60S ribosomal protein L32,27,4,4,8,135,15.9,11.33,20322793.0625
+High,Q96EP5,DAZAP1,DAZ-associated protein 1,9,3,3,5,407,43.4,8.56,3562766
+High,Q9UG63,ABCF2,ATP-binding cassette sub-family F member 2,7,4,4,5,623,71.2,7.37,1473692.625
+High,O60664,PLIN3,Perilipin-3,11,3,3,5,434,47.0,5.44,835704
+High,O60762,DPM1,Dolichol-phosphate mannosyltransferase subunit 1,18,4,4,7,260,29.6,9.57,2591056.875
+High,P52294,KPNA1,Importin subunit alpha-5,10,5,3,7,538,60.2,5.01,1810535.875
+High,P46779,RPL28,60S ribosomal protein L28,23,5,5,12,137,15.7,12.02,33900131.15625
+High,Q9P258,RCC2,Protein RCC2,14,7,7,12,522,56.0,8.78,4480114.5625
+High,Q15427,SF3B4,Splicing factor 3B subunit 4,9,3,3,6,424,44.4,8.56,1861745.625
+High,Q96QA5,GSDMA,Gasdermin-A,10,4,4,8,445,49.3,5.29,6155685.5
+High,Q9BWH6,RPAP1,RNA polymerase II-associated protein 1,3,4,4,7,1393,152.7,6.38,3178589.375
+High,P17612,PRKACA,cAMP-dependent protein kinase catalytic subunit alpha,12,5,5,9,351,40.6,8.79,6168837.75
+High,O00154,ACOT7,Cytosolic acyl coenzyme A thioester hydrolase,16,4,4,6,380,41.8,8.54,4005416.375
+High,P04075,ALDOA,Fructose-bisphosphate aldolase A,19,5,5,8,364,39.4,8.09,4930546.125
+High,Q7Z7L1,SLFN11,Schlafen family member 11,7,7,6,11,901,102.8,7.77,6644447.875
+High,Q9UBQ0,VPS29,Vacuolar protein sorting-associated protein 29,24,4,4,7,182,20.5,6.79,5751170
+High,Q08188,TGM3,Protein-glutamine gamma-glutamyltransferase E,9,6,6,8,693,76.6,5.86,4050462.9375
+High,Q03001,DST,Dystonin,1,8,5,10,7570,860.1,5.25,565307.5625
+High,O95168,NDUFB4,NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 4,48,5,5,8,129,15.2,9.85,5541172.0625
+High,P51659,HSD17B4,Peroxisomal multifunctional enzyme type 2,11,5,5,7,736,79.6,8.84,5376414.0625
+High,O43813,LANCL1,Glutathione S-transferase LANCL1,13,5,5,10,399,45.3,7.75,8450454.875
+High,Q03135,CAV1,Caveolin-1,13,2,2,3,178,20.5,6.02,5640425.125
+High,Q13155,AIMP2,Aminoacyl tRNA synthase complex-interacting multifunctional protein 2,13,3,3,5,320,35.3,8.22,5543149.3125
+High,Q12904,AIMP1,Aminoacyl tRNA synthase complex-interacting multifunctional protein 1,20,5,5,8,312,34.3,8.43,9688653.25
+High,Q9P0L0,VAPA,Vesicle-associated membrane protein-associated protein A,12,4,3,7,249,27.9,8.62,6275527.5
+High,Q02543,RPL18A,60S ribosomal protein L18a,22,6,6,12,176,20.7,10.71,54827358
+High,P29353,SHC1,SHC-transforming protein 1,10,4,4,8,583,62.8,6.44,1835821.6875
+High,P67870,CSNK2B,Casein kinase II subunit beta,22,4,4,7,215,24.9,5.55,14701763.25
+High,O60573,EIF4E2,Eukaryotic translation initiation factor 4E type 2,24,4,4,6,245,28.3,8.88,4443640.5625
+High,P22392,NME2,Nucleoside diphosphate kinase B,31,4,4,7,152,17.3,8.41,8068301.75
+High,Q9Y281,CFL2,Cofilin-2,27,4,1,7,166,18.7,7.88,716654
+High,Q13123,IK,Protein Red,10,6,6,10,557,65.6,6.64,9751199.875
+High,P62854,RPS26,40S ribosomal protein S26,26,2,2,4,115,13.0,11.0,29742307
+High,Q9UJS0,SLC25A13,"Electrogenic aspartate/glutamate antiporter SLC25A13, mitochondrial",9,5,2,6,675,74.1,8.62,4394969.3125
+High,Q96CX2,KCTD12,BTB/POZ domain-containing protein KCTD12,18,4,4,6,325,35.7,5.64,1384976.25
+High,O75477,ERLIN1,Erlin-1,13,4,1,6,348,39.1,7.87,
+High,Q15785,TOMM34,Mitochondrial import receptor subunit TOM34,12,3,3,6,309,34.5,8.98,3138424.8125
+High,P48729,CSNK1A1,Casein kinase I isoform alpha,21,6,6,9,337,38.9,9.57,5053123.5625
+High,P47914,RPL29,60S ribosomal protein L29,15,3,3,6,159,17.7,11.66,21697806.75
+High,O94906,PRPF6,Pre-mRNA-processing factor 6,7,6,6,8,941,106.9,8.25,4864236.59375
+High,Q13835,PKP1,Plakophilin-1,4,3,3,3,747,82.8,9.13,1930882.8125
+High,P07203,GPX1,Glutathione peroxidase 1,20,3,3,5,203,22.1,6.55,3562530.75
+High,O00178,GTPBP1,GTP-binding protein 1,7,4,4,6,669,72.4,8.34,5910087.5
+High,Q9GZT3,SLIRP,"SRA stem-loop-interacting RNA-binding protein, mitochondrial",44,4,4,7,109,12.3,10.24,4834471.75
+High,Q12874,SF3A3,Splicing factor 3A subunit 3,10,4,4,7,501,58.8,5.38,5051548.875
+High,Q52LW3,ARHGAP29,Rho GTPase-activating protein 29,5,5,5,6,1261,142.0,6.74,4811819.5625
+High,P17812,CTPS1,CTP synthase 1,7,4,4,7,591,66.6,6.46,4738370.5625
+High,Q9H7D7,WDR26,WD repeat-containing protein 26,8,5,5,8,661,72.1,6.16,4529194.625
+High,Q13085,ACACA,Acetyl-CoA carboxylase 1,3,6,6,9,2346,265.4,6.37,4749909.125
+High,P25398,RPS12,40S ribosomal protein S12,34,4,4,6,132,14.5,7.21,15664146.75
+High,A0A075B6R9,IGKV2D-24,Probable non-functional immunoglobulin kappa variable 2D-24,24,6,5,54,120,13.1,8.87,5984760356.5
+High,Q71UI9,H2AZ2,Histone H2A.V,31,4,2,10,128,13.5,10.58,4224502.3125
+High,Q9UKU9,ANGPTL2,Angiopoietin-related protein 2,11,4,4,5,493,57.1,7.53,1988327
+High,Q9UQ80,PA2G4,Proliferation-associated protein 2G4,20,7,7,9,394,43.8,6.55,6852626.125
+High,Q86U42,PABPN1,Polyadenylate-binding protein 2,9,2,2,3,306,32.7,5.06,3646396.375
+High,Q07021,C1QBP,"Complement component 1 Q subcomponent-binding protein, mitochondrial",10,2,2,3,282,31.3,4.84,995855
+High,Q00577,PURA,Transcriptional activator protein Pur-alpha,15,4,4,7,322,34.9,6.44,4821898.875
+High,Q9UL18,AGO1,Protein argonaute-1,5,4,2,7,857,97.2,9.16,2350591.875
+High,P04844,RPN2,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit 2,8,3,3,5,631,69.2,5.69,3080332.875
+High,Q96JJ3,ELMO2,Engulfment and cell motility protein 2,8,6,6,9,720,82.6,5.9,6353181.96875
+High,Q9NNW5,WDR6,WD repeat-containing protein 6,7,4,4,6,1121,121.6,6.87,2273387.0625
+High,P49588,AARS1,"Alanine--tRNA ligase, cytoplasmic",7,5,5,9,968,106.7,5.53,673450.3125
+High,Q86Y56,DNAAF5,Dynein axonemal assembly factor 5,8,5,5,6,855,93.5,6.42,3770526.5
+High,O75962,TRIO,Triple functional domain protein,2,6,6,10,3097,346.7,6.37,2473951.125
+High,Q9UKK3,PARP4,Protein mono-ADP-ribosyltransferase PARP4,3,5,5,8,1724,192.5,5.66,4162700.875
+High,P37802,TAGLN2,Transgelin-2,22,4,4,8,199,22.4,8.25,3541381.125
+High,Q7Z434,MAVS,Mitochondrial antiviral-signaling protein,11,3,3,4,540,56.5,5.52,3751309.875
+High,Q93052,LPP,Lipoma-preferred partner,10,4,4,6,612,65.7,7.37,4515147.3125
+High,P09211,GSTP1,Glutathione S-transferase P,20,3,3,4,210,23.3,5.64,3827279
+High,Q2M1P5,KIF7,Kinesin-like protein KIF7,5,5,5,7,1343,150.5,6.79,3144040.625
+High,O95816,BAG2,BAG family molecular chaperone regulator 2,24,5,5,7,211,23.8,6.7,8588055.75
+High,P04637,TP53,Cellular tumor antigen p53,17,6,6,9,393,43.6,6.79,5982806.0625
+High,Q9NVR0,KLHL11,Kelch-like protein 11,7,4,4,8,708,80.1,6.16,4108891.125
+High,Q15436,SEC23A,Protein transport protein Sec23A,4,2,2,4,765,86.1,7.08,3266662.375
+High,Q9NRX4,PHPT1,14 kDa phosphohistidine phosphatase,17,1,1,1,125,13.8,6.07,1685178.75
+High,O00139,KIF2A,Kinesin-like protein KIF2A,8,5,5,7,706,79.9,6.68,4278390.21875
+High,Q92973,TNPO1,Transportin-1,5,5,5,9,898,102.3,4.98,6513815.125
+High,P35232,PHB1,Prohibitin 1,16,4,4,6,272,29.8,5.76,3287916.875
+High,Q96A72,MAGOHB,Protein mago nashi homolog 2,43,5,5,8,148,17.3,6.39,3877892.8125
+High,Q9UMR2,DDX19B,ATP-dependent RNA helicase DDX19B,7,3,3,4,479,53.9,6.3,1581716.75
+High,P31323,PRKAR2B,cAMP-dependent protein kinase type II-beta regulatory subunit,11,4,2,6,418,46.3,4.92,664563.625
+High,Q8N0X7,SPART,Spartin,5,3,3,5,666,72.8,5.91,1841574.3125
+High,O94905,ERLIN2,Erlin-2,11,4,1,6,339,37.8,5.62,7923443.75
+High,P28066,PSMA5,Proteasome subunit alpha type-5,17,3,3,5,241,26.4,4.79,657173.625
+High,P60903,S100A10,Protein S100-A10,45,3,3,4,97,11.2,7.37,58146596.5
+High,O43432,EIF4G3,Eukaryotic translation initiation factor 4 gamma 3,3,6,2,11,1585,176.5,5.38,6884133.375
+High,Q7Z3Y9,KRT26,"Keratin, type I cytoskeletal 26",9,3,2,33,468,51.9,4.92,3782748.75
+High,Q9BRF8,CPPED1,Serine/threonine-protein phosphatase CPPED1,10,3,3,5,314,35.5,6.2,5329322.9375
+High,O15145,ARPC3,Actin-related protein 2/3 complex subunit 3,27,5,5,8,178,20.5,8.59,11926482
+High,P26196,DDX6,Probable ATP-dependent RNA helicase DDX6,9,3,3,5,483,54.4,8.66,2553837.5
+High,P11274,BCR,Breakpoint cluster region protein,5,5,5,7,1271,142.7,7.03,3840996.375
+High,P22087,FBL,rRNA 2'-O-methyltransferase fibrillarin,15,4,4,4,321,33.8,10.18,8921045.25
+High,Q86X55,CARM1,Histone-arginine methyltransferase CARM1,8,4,4,7,608,65.8,6.73,5482547
+High,Q14498,RBM39,RNA-binding protein 39,9,4,4,6,530,59.3,10.1,4191897.75
+High,Q9UN37,VPS4A,Vacuolar protein sorting-associated protein 4A,10,3,3,5,437,48.9,7.8,4053925.375
+High,O14617,AP3D1,AP-3 complex subunit delta-1,4,4,4,6,1153,130.1,8.48,1364871.0625
+High,Q9Y3A5,SBDS,Ribosome maturation protein SBDS,15,5,5,8,250,28.7,8.75,7709804.25
+High,Q14573,ITPR3,"Inositol 1,4,5-trisphosphate receptor type 3",2,4,3,8,2671,303.9,6.48,2855954.1875
+High,Q16576,RBBP7,Histone-binding protein RBBP7,11,3,3,4,425,47.8,5.05,2209018.375
+High,O15144,ARPC2,Actin-related protein 2/3 complex subunit 2,14,4,4,6,300,34.3,7.36,3500105.0625
+High,Q9NSD9,FARSB,Phenylalanine--tRNA ligase beta subunit,9,5,5,8,589,66.1,6.84,5593144.1875
+High,O15258,RER1,Protein RER1,19,3,3,4,196,22.9,9.54,3773842.75
+High,P12273,PIP,Prolactin-inducible protein,19,4,3,7,146,16.6,8.05,17392552.75
+High,Q9Y3B7,MRPL11,"39S ribosomal protein L11, mitochondrial",34,5,5,8,192,20.7,9.91,4517519.625
+High,Q9H5V9,STEEP1,STING ER exit protein,15,2,2,4,222,25.6,8.73,6188338
+High,P31151,S100A7,Protein S100-A7,24,3,3,8,101,11.5,6.77,6375712.5
+High,O94927,HAUS5,HAUS augmin-like complex subunit 5,9,4,4,4,633,71.6,8.51,4374968.8125
+High,Q8N5H7,SH2D3C,SH2 domain-containing protein 3C,5,3,3,5,860,94.4,8.07,1664023.25
+High,P09914,IFIT1,Interferon-induced protein with tetratricopeptide repeats 1,9,4,3,6,478,55.3,7.2,4495986.25
+High,O75175,CNOT3,CCR4-NOT transcription complex subunit 3,5,2,2,3,753,81.8,6.2,1746343.5625
+High,P17655,CAPN2,Calpain-2 catalytic subunit,6,5,5,9,700,79.9,4.98,8803121.6875
+High,P10599,TXN,Thioredoxin,20,2,2,5,105,11.7,4.92,11466487.125
+High,P59998,ARPC4,Actin-related protein 2/3 complex subunit 4,23,4,4,7,168,19.7,8.43,10658796
+High,Q15654,TRIP6,Thyroid receptor-interacting protein 6,7,2,2,3,476,50.3,7.37,2261516.5625
+High,Q9BS26,ERP44,Endoplasmic reticulum resident protein 44,11,4,4,6,406,46.9,5.26,4212362.75
+High,P39687,ANP32A,Acidic leucine-rich nuclear phosphoprotein 32 family member A,15,5,3,9,249,28.6,4.09,4001476.375
+High,Q66LE6,PPP2R2D,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B delta isoform,11,3,1,4,453,52.0,6.39,
+High,P62318,SNRPD3,Small nuclear ribonucleoprotein Sm D3,15,2,2,4,126,13.9,10.32,66895894.75
+High,Q16698,DECR1,"2,4-dienoyl-CoA reductase [(3E)-enoyl-CoA-producing], mitochondrial",10,2,2,4,335,36.0,9.28,1011422.5
+High,O75179,ANKRD17,Ankyrin repeat domain-containing protein 17,2,3,3,5,2603,274.1,6.52,884091.0625
+High,Q8IZH2,XRN1,5'-3' exoribonuclease 1,3,4,4,7,1706,194.0,7.21,2167317.75
+High,P01857,IGHG1,Immunoglobulin heavy constant gamma 1,15,5,4,8,399,43.9,6.96,13033694.75
+High,Q9Y383,LUC7L2,Putative RNA-binding protein Luc7-like 2,9,3,3,5,392,46.5,10.01,4989552.9375
+High,P35222,CTNNB1,Catenin beta-1,6,5,4,7,781,85.4,5.86,1726758.8125
+High,O14578,CIT,Citron Rho-interacting kinase,2,4,4,5,2027,231.3,6.57,2038607.875
+High,O76013,KRT36,"Keratin, type I cuticular Ha6",6,3,2,14,467,52.2,4.94,2498280.75
+High,Q86W92,PPFIBP1,Liprin-beta-1,4,4,4,7,1011,114.0,5.55,3937384.125
+High,Q92626,PXDN,Peroxidasin homolog,4,4,4,6,1479,165.2,7.17,609500.5
+High,Q8NAV1,PRPF38A,Pre-mRNA-splicing factor 38A,9,2,2,5,312,37.5,9.96,2328860.125
+High,Q92572,AP3S1,AP-3 complex subunit sigma-1,14,2,2,2,193,21.7,5.39,3439617.75
+High,Q9P270,SLAIN2,SLAIN motif-containing protein 2,9,4,4,6,581,62.5,9.45,1634041.5625
+High,Q9NYJ8,TAB2,TGF-beta-activated kinase 1 and MAP3K7-binding protein 2,7,3,3,4,693,76.4,8.54,1565062.4375
+High,Q9ULJ7,ANKRD50,Ankyrin repeat domain-containing protein 50,4,4,4,6,1429,155.8,6.6,1279361
+High,P46776,RPL27A,60S ribosomal protein L27a,22,3,3,5,148,16.6,11.0,13407222.9140625
+High,Q14574,DSC3,Desmocollin-3,5,4,4,4,896,99.9,6.1,2864920
+High,Q8WVT3,TRAPPC12,Trafficking protein particle complex subunit 12,7,4,4,5,735,79.3,4.91,15212846
+High,Q92504,SLC39A7,Zinc transporter SLC39A7,8,2,2,4,469,50.1,6.87,2109666.6875
+High,O00422,SAP18,Histone deacetylase complex subunit SAP18,38,4,4,5,153,17.6,9.35,4958403.5
+High,P49589,CARS1,"Cysteine--tRNA ligase, cytoplasmic",7,4,4,7,748,85.4,6.76,3119200.0625
+High,Q14974,KPNB1,Importin subunit beta-1,5,4,4,6,876,97.1,4.78,3280750.0625
+High,P18077,RPL35A,60S ribosomal protein L35a,24,6,6,12,110,12.5,11.06,41030222.875
+High,Q9NS86,LANCL2,LanC-like protein 2,12,4,4,6,450,50.8,7.43,4387147.125
+High,Q08AF3,SLFN5,Schlafen family member 5,5,4,3,7,891,101.0,8.22,2047907.375
+High,P60468,SEC61B,Protein transport protein Sec61 subunit beta,38,3,3,5,96,10.0,11.56,5756052.125
+High,Q17RY0,CPEB4,Cytoplasmic polyadenylation element-binding protein 4,6,3,3,4,729,80.1,7.18,837034.3125
+High,Q00059,TFAM,"Transcription factor A, mitochondrial",15,3,3,5,246,29.1,9.72,5509421.875
+High,Q9NQW6,ANLN,Anillin,4,4,4,7,1124,124.1,8.07,1296061.5
+High,Q9UK61,TASOR,Protein TASOR,3,6,6,11,1670,188.9,5.8,2842588.3125
+High,P63241,EIF5A,Eukaryotic translation initiation factor 5A-1,31,4,4,7,154,16.8,5.24,10336968.34375
+High,O75746,SLC25A12,"Electrogenic aspartate/glutamate antiporter SLC25A12, mitochondrial",6,4,1,6,678,74.7,8.38,10112110
+High,Q9H0U3,MAGT1,Magnesium transporter protein 1,10,4,4,6,335,38.0,9.63,4259264.4375
+High,Q14011,CIRBP,Cold-inducible RNA-binding protein,8,1,1,2,172,18.6,9.51,2491384.75
+High,P35998,PSMC2,26S proteasome regulatory subunit 7,11,4,4,6,433,48.6,5.95,3511257.3125
+High,P31153,MAT2A,S-adenosylmethionine synthase isoform type-2,7,2,2,3,395,43.6,6.48,2158272.1875
+High,O94842,TOX4,TOX high mobility group box family member 4,6,3,3,5,621,66.2,5.06,4076313.6875
+High,P60900,PSMA6,Proteasome subunit alpha type-6,10,2,2,3,246,27.4,6.76,3048857.625
+High,P62888,RPL30,60S ribosomal protein L30,18,4,4,6,115,12.8,9.63,17697337.375
+High,P15153,RAC2,Ras-related C3 botulinum toxin substrate 2,15,4,3,9,192,21.4,7.61,8691535.625
+High,Q9Y3Y2,CHTOP,Chromatin target of PRMT1 protein,16,3,3,4,248,26.4,12.23,3009313.5
+High,Q9Y4E8,USP15,Ubiquitin carboxyl-terminal hydrolase 15,4,4,4,9,981,112.3,5.22,6822675.875
+High,P49756,RBM25,RNA-binding protein 25,5,3,3,5,843,100.1,6.32,9813301.75
+High,Q15646,OASL,2'-5'-oligoadenylate synthase-like protein,5,2,2,4,514,59.2,7.87,1829328.625
+High,P25685,DNAJB1,DnaJ homolog subfamily B member 1,14,4,4,7,340,38.0,8.63,2754819.21875
+High,Q99459,CDC5L,Cell division cycle 5-like protein,7,5,5,6,802,92.2,8.18,1985244.8125
+High,Q14C86,GAPVD1,GTPase-activating protein and VPS9 domain-containing protein 1,3,4,4,7,1478,164.9,5.22,3318043.5625
+High,P39656,DDOST,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase 48 kDa subunit,11,5,5,8,456,50.8,6.55,6881459
+High,Q16527,CSRP2,Cysteine and glycine-rich protein 2,21,3,3,5,193,20.9,8.62,4175499
+High,Q8WVV9,HNRNPLL,Heterogeneous nuclear ribonucleoprotein L-like,10,4,4,6,542,60.0,7.72,4672715.0625
+High,O14980,XPO1,Exportin-1,6,5,5,5,1071,123.3,6.06,2137196.875
+High,Q63ZY3,KANK2,KN motif and ankyrin repeat domain-containing protein 2,6,4,3,5,851,91.1,5.63,1275787.6875
+High,P05198,EIF2S1,Eukaryotic translation initiation factor 2 subunit 1,12,4,4,7,315,36.1,5.08,6961328.5
+High,O43293,DAPK3,Death-associated protein kinase 3,8,3,3,5,454,52.5,6.89,3547306.6875
+High,P40222,TXLNA,Alpha-taxilin,10,3,3,3,546,61.9,6.52,465205.53125
+High,P06702,S100A9,Protein S100-A9,31,3,3,5,114,13.2,6.13,17652370.75
+High,P08237,PFKM,"ATP-dependent 6-phosphofructokinase, muscle type",6,4,3,4,780,85.1,7.99,1498155.8125
+High,Q9H269,VPS16,Vacuolar protein sorting-associated protein 16 homolog,3,2,2,4,839,94.6,6.77,855821.4375
+High,P36915,GNL1,Guanine nucleotide-binding protein-like 1,8,4,4,4,607,68.6,5.8,1533396.875
+High,Q96SB4,SRPK1,SRSF protein kinase 1,9,4,4,6,655,74.3,6.16,3876326.0625
+High,Q9Y315,DERA,Deoxyribose-phosphate aldolase,7,2,2,3,318,35.2,8.94,3409885.75
+High,Q8NE71,ABCF1,ATP-binding cassette sub-family F member 1,5,3,3,4,845,95.9,6.8,1271954
+High,P27105,STOM,Stomatin,15,3,3,4,288,31.7,7.88,2344108
+High,O60504,SORBS3,Vinexin,4,1,1,2,671,75.3,9.45,1000724.125
+High,P07947,YES1,Tyrosine-protein kinase Yes,9,5,5,7,543,60.8,6.74,15034758.25
+High,P23921,RRM1,Ribonucleoside-diphosphate reductase large subunit,6,3,3,3,792,90.0,7.15,1276478.875
+High,P01008,SERPINC1,Antithrombin-III,7,4,4,9,464,52.6,6.71,41281970.5
+High,Q9Y3B4,SF3B6,Splicing factor 3B subunit 6,26,3,3,5,125,14.6,9.38,1447221.375
+High,P63167,DYNLL1,"Dynein light chain 1, cytoplasmic",26,2,2,4,89,10.4,7.4,4891407.5
+High,P01834,IGKC,Immunoglobulin kappa constant,32,2,2,4,107,11.8,6.52,1873752
+High,P61513,RPL37A,60S ribosomal protein L37a,20,1,1,2,92,10.3,10.43,4964251.5
+High,P62495,ETF1,Eukaryotic peptide chain release factor subunit 1,7,3,3,5,437,49.0,5.71,2769929.375
+High,Q9NSB4,KRT82,"Keratin, type II cuticular Hb2",4,1,1,2,513,56.6,6.74,1204719
+High,P63173,RPL38,60S ribosomal protein L38,50,3,3,5,70,8.2,10.1,6609525.875
+High,P00338,LDHA,L-lactate dehydrogenase A chain,10,4,3,4,332,36.7,8.27,8335285.875
+High,Q9NUL3,STAU2,Double-stranded RNA-binding protein Staufen homolog 2,11,5,4,6,570,62.6,9.61,3504272.5
+High,Q6ZS17,RIPOR1,Rho family-interacting cell polarization regulator 1,4,4,4,6,1223,132.2,6.28,611213.1875
+High,O00743,PPP6C,Serine/threonine-protein phosphatase 6 catalytic subunit,8,2,2,4,305,35.1,5.69,2899950.25
+High,P48507,GCLM,Glutamate--cysteine ligase regulatory subunit,11,2,2,3,274,30.7,6.02,1193341.625
+High,P62191,PSMC1,26S proteasome regulatory subunit 4,8,3,3,6,440,49.2,6.21,4644213.125
+High,P50416,CPT1A,"Carnitine O-palmitoyltransferase 1, liver isoform",7,4,4,5,773,88.3,8.65,2706643.375
+High,Q9UHB9,SRP68,Signal recognition particle subunit SRP68,4,3,3,5,627,70.7,8.56,1697787.125
+High,P61962,DCAF7,DDB1- and CUL4-associated factor 7,14,3,3,4,342,38.9,5.52,1122401.5
+High,Q96N66,MBOAT7,Lysophospholipid acyltransferase 7,6,2,2,3,472,52.7,8.97,948035.9375
+High,P07384,CAPN1,Calpain-1 catalytic subunit,4,2,2,4,714,81.8,5.67,12494672
+High,P46778,RPL21,60S ribosomal protein L21,18,5,5,11,160,18.6,10.49,24432723.625
+High,O14773,TPP1,Tripeptidyl-peptidase 1,5,2,2,4,563,61.2,6.48,2229832.5
+High,P09234,SNRPC,U1 small nuclear ribonucleoprotein C,13,2,2,4,159,17.4,9.67,4277639.5625
+High,Q6VN20,RANBP10,Ran-binding protein 10,7,4,3,5,620,67.2,6.77,1121709.53125
+High,P01889,HLA-B,"HLA class I histocompatibility antigen, B alpha chain",7,2,1,3,362,40.4,5.85,
+High,P46109,CRKL,Crk-like protein,16,4,4,5,303,33.8,6.74,2846285.1875
+High,Q13588,GRAP,GRB2-related adapter protein,15,3,3,6,217,25.3,7.03,3328505.6875
+High,Q53H12,AGK,"Acylglycerol kinase, mitochondrial",10,4,4,4,422,47.1,8.09,2121363.8125
+High,Q02952,AKAP12,A-kinase anchor protein 12,4,4,4,5,1782,191.4,4.41,3822643.0625
+High,P82650,MRPS22,"28S ribosomal protein S22, mitochondrial",14,4,4,5,360,41.3,7.9,469039.96875
+High,O95373,IPO7,Importin-7,3,2,2,3,1038,119.4,4.82,2439236.5
+High,P28074,PSMB5,Proteasome subunit beta type-5,10,2,2,4,263,28.5,6.92,
+High,Q96T37,RBM15,RNA-binding protein 15,5,4,4,6,977,107.1,10.08,2529189.4375
+High,P55084,HADHB,"Trifunctional enzyme subunit beta, mitochondrial",10,4,4,5,474,51.3,9.41,5074966
+High,O60784,TOM1,Target of Myb1 membrane trafficking protein,8,2,2,3,492,53.8,4.7,739809.6875
+High,P62899,RPL31,60S ribosomal protein L31,29,4,4,6,125,14.5,10.54,48094481.5
+High,Q1KMD3,HNRNPUL2,Heterogeneous nuclear ribonucleoprotein U-like protein 2,4,3,3,4,747,85.1,4.91,2453066.25
+High,Q9UHV9,PFDN2,Prefoldin subunit 2,17,2,2,4,154,16.6,6.58,901701.3125
+High,O43396,TXNL1,Thioredoxin-like protein 1,13,2,2,3,289,32.2,4.96,
+High,Q06203,PPAT,Amidophosphoribosyltransferase,6,2,2,2,517,57.4,6.76,1108663.25
+High,O76003,GLRX3,Glutaredoxin-3,10,3,3,6,335,37.4,5.39,4097421.375
+High,P31483,TIA1,Cytotoxic granule associated RNA binding protein TIA1,11,4,1,7,386,42.9,7.74,988048.6875
+High,P62861,FAU,FAU ubiquitin-like and ribosomal protein S30,8,2,2,4,133,14.4,10.17,17314682.5
+High,Q9H6S0,YTHDC2,3'-5' RNA helicase YTHDC2,3,3,3,5,1430,160.1,8.4,2393828.625
+High,Q9P253,VPS18,Vacuolar protein sorting-associated protein 18 homolog,5,4,4,6,973,110.1,6.07,3392972.78125
+High,Q70UQ0,IKBIP,Inhibitor of nuclear factor kappa-B kinase-interacting protein,8,3,3,5,350,39.3,9.17,1258022.75
+High,O95295,SNAPIN,SNARE-associated protein Snapin,23,2,2,2,136,14.9,9.31,
+High,Q01804,OTUD4,OTU domain-containing protein 4,4,4,4,7,1114,124.0,6.71,5053276.75
+High,Q14161,GIT2,ARF GTPase-activating protein GIT2,4,3,1,6,759,84.5,7.23,1034425.625
+High,Q92743,HTRA1,Serine protease HTRA1,7,3,3,5,480,51.3,7.83,1080318.09375
+High,O15037,KHNYN,Protein KHNYN,5,2,2,3,678,74.5,7.02,1664176.8125
+High,O15269,SPTLC1,Serine palmitoyltransferase 1,5,2,2,3,473,52.7,6.01,1522030.25
+High,Q9BPW8,NIPSNAP1,Protein NipSnap homolog 1,11,3,2,4,284,33.3,9.31,4238009.625
+High,P05161,ISG15,Ubiquitin-like protein ISG15,23,4,4,8,165,17.9,7.44,41741302.5
+High,P47929,LGALS7B,Galectin-7,24,3,3,4,136,15.1,7.62,3939152.125
+High,P50552,VASP,Vasodilator-stimulated phosphoprotein,7,2,2,4,380,39.8,8.94,2215988.625
+High,P07858,CTSB,Cathepsin B,5,1,1,2,339,37.8,6.3,1476060
+High,Q15056,EIF4H,Eukaryotic translation initiation factor 4H,13,2,2,4,248,27.4,7.23,3206423.9375
+High,Q5VT25,CDC42BPA,Serine/threonine-protein kinase MRCK alpha,4,6,2,7,1732,197.2,6.58,1408576.84375
+High,Q9H4G4,GLIPR2,Golgi-associated plant pathogenesis-related protein 1,17,2,2,2,154,17.2,9.41,1002813.3125
+High,P62266,RPS23,40S ribosomal protein S23,16,3,3,5,143,15.8,10.49,34796259
+High,O14879,IFIT3,Interferon-induced protein with tetratricopeptide repeats 3,7,4,3,6,490,56.0,5.2,6615557.5
+High,Q14678,KANK1,KN motif and ankyrin repeat domain-containing protein 1,2,2,1,2,1352,147.2,5.3,799959.4375
+High,Q2M2I5,KRT24,"Keratin, type I cytoskeletal 24",6,3,1,14,525,55.1,4.96,
+High,Q01081,U2AF1,Splicing factor U2AF 35 kDa subunit,8,1,1,2,240,27.9,8.81,5407877
+High,P78386,KRT85,"Keratin, type II cuticular Hb5",6,3,2,4,507,55.8,6.55,4885428.375
+High,O00231,PSMD11,26S proteasome non-ATPase regulatory subunit 11,9,4,4,7,422,47.4,6.48,5107397.125
+High,Q96EP0,RNF31,E3 ubiquitin-protein ligase RNF31,4,4,4,6,1072,119.6,6.57,2193703.3125
+High,Q5SSJ5,HP1BP3,Heterochromatin protein 1-binding protein 3,7,3,3,4,553,61.2,9.67,4482291.625
+High,P49591,SARS1,"Serine--tRNA ligase, cytoplasmic",7,3,3,4,514,58.7,6.43,3265272
+High,P51617,IRAK1,Interleukin-1 receptor-associated kinase 1,4,2,2,3,712,76.5,6.62,490235.78125
+High,Q96PU8,QKI,KH domain-containing RNA-binding protein QKI,11,4,4,6,341,37.6,8.56,1126070
+High,P05023,ATP1A1,Sodium/potassium-transporting ATPase subunit alpha-1,3,2,2,3,1023,112.8,5.49,6772699.25
+High,Q9BR76,CORO1B,Coronin-1B,10,2,2,3,489,54.2,5.88,1311654.375
+High,P14324,FDPS,Farnesyl pyrophosphate synthase,10,3,3,5,419,48.2,6.15,1446964
+High,O60684,KPNA6,Importin subunit alpha-7,4,3,1,4,536,60.0,4.98,
+High,Q15428,SF3A2,Splicing factor 3A subunit 2,8,3,3,4,464,49.2,9.64,2908304.625
+High,Q13049,TRIM32,E3 ubiquitin-protein ligase TRIM32,4,2,2,4,653,71.9,6.98,3537800.625
+High,Q92600,CNOT9,CCR4-NOT transcription complex subunit 9,11,3,3,5,299,33.6,8.03,1789173.1875
+High,P49585,PCYT1A,Choline-phosphate cytidylyltransferase A,14,3,3,3,367,41.7,7.25,1901695.9375
+High,Q86VI3,IQGAP3,Ras GTPase-activating-like protein IQGAP3,2,3,2,6,1631,184.6,7.65,926237.125
+High,O95757,HSPA4L,Heat shock 70 kDa protein 4L,2,2,1,5,839,94.5,5.88,12812447.25
+High,O43617,TRAPPC3,Trafficking protein particle complex subunit 3,19,3,3,6,180,20.3,4.96,2975372.1875
+High,Q9Y450,HBS1L,HBS1-like protein,6,3,3,4,684,75.4,6.61,1404832.625
+High,P02792,FTL,Ferritin light chain,9,1,1,2,175,20.0,5.78,1454472.5
+High,O95801,TTC4,Tetratricopeptide repeat protein 4,8,3,3,5,387,44.7,5.6,6761446.5625
+High,P04439,HLA-A,"HLA class I histocompatibility antigen, A alpha chain",7,2,1,3,365,40.8,6.0,
+High,Q13247,SRSF6,Serine/arginine-rich splicing factor 6,11,4,3,6,344,39.6,11.43,8534648.25
+High,Q99961,SH3GL1,Endophilin-A2,5,2,2,3,368,41.5,5.43,3623415.625
+High,Q9BUQ8,DDX23,Probable ATP-dependent RNA helicase DDX23,5,4,4,5,820,95.5,9.55,4276904.3125
+High,P57088,TMEM33,Transmembrane protein 33,12,3,3,6,247,28.0,9.7,4585695.125
+High,O95400,CD2BP2,CD2 antigen cytoplasmic tail-binding protein 2,7,2,2,4,341,37.6,4.61,2110810.3125
+High,P52756,RBM5,RNA-binding protein 5,6,5,4,7,815,92.1,6.28,3940014.25
+High,P08574,CYC1,"Cytochrome c1, heme protein, mitochondrial",9,2,2,3,325,35.4,9.0,5690267.75
+High,Q9BYM8,RBCK1,RanBP-type and C3HC4-type zinc finger-containing protein 1,5,2,2,2,510,57.5,5.67,2283156.5625
+High,P11217,PYGM,"Glycogen phosphorylase, muscle form",4,4,4,7,842,97.0,7.03,2693356.125
+High,P49458,SRP9,Signal recognition particle 9 kDa protein,22,2,2,4,86,10.1,7.97,4131186.5
+High,P07339,CTSD,Cathepsin D,7,3,3,5,412,44.5,6.54,5979379.875
+High,O94875,SORBS2,Sorbin and SH3 domain-containing protein 2,4,2,2,2,1100,124.0,8.31,
+High,Q9Y316,MEMO1,Protein MEMO1,7,3,3,4,297,33.7,7.14,2273392.75
+High,O43324,EEF1E1,Eukaryotic translation elongation factor 1 epsilon-1,12,2,2,3,174,19.8,8.54,5167195
+High,P24928,POLR2A,DNA-directed RNA polymerase II subunit RPB1,3,3,3,4,1970,217.0,7.37,1247616.75
+High,P84095,RHOG,Rho-related GTP-binding protein RhoG,10,1,1,2,191,21.3,8.12,
+High,Q8N3V7,SYNPO,Synaptopodin,4,3,3,4,929,99.4,8.72,1649170.875
+High,P31025,LCN1,Lipocalin-1,13,2,2,5,176,19.2,5.58,8520884.375
+High,Q15019,SEPTIN2,Septin-2,12,2,2,2,361,41.5,6.6,1191314.5
+High,Q7L5Y9,MAEA,E3 ubiquitin-protein transferase MAEA,5,2,2,3,396,45.3,8.69,710326
+High,P25789,PSMA4,Proteasome subunit alpha type-4,11,3,3,4,261,29.5,7.72,2238269.875
+High,Q96AZ6,ISG20,Interferon-stimulated gene 20 kDa protein,15,2,2,2,181,20.4,8.92,1910167.375
+High,P49247,RPIA,Ribose-5-phosphate isomerase,6,1,1,2,311,33.2,8.54,
+High,Q14155,ARHGEF7,Rho guanine nucleotide exchange factor 7,6,3,3,6,803,90.0,7.09,5188786.5
+High,P00387,CYB5R3,NADH-cytochrome b5 reductase 3,9,2,2,3,301,34.2,7.59,2207146.5
+High,P06493,CDK1,Cyclin-dependent kinase 1,12,3,3,4,297,34.1,8.4,3351832.25
+High,P62714,PPP2CB,Serine/threonine-protein phosphatase 2A catalytic subunit beta isoform,7,2,2,4,309,35.6,5.43,3843578.375
+High,P49915,GMPS,GMP synthase [glutamine-hydrolyzing],3,2,2,3,693,76.7,6.87,1989931.0625
+High,Q6P158,DHX57,Putative ATP-dependent RNA helicase DHX57,5,5,5,6,1386,155.5,7.71,588734.1875
+High,Q9NX58,LYAR,Cell growth-regulating nucleolar protein,6,2,2,3,379,43.6,9.57,2368100.0625
+High,P17096,HMGA1,High mobility group protein HMG-I/HMG-Y,23,1,1,2,107,11.7,10.32,2317264.5
+High,Q13546,RIPK1,Receptor-interacting serine/threonine-protein kinase 1,4,2,2,3,671,75.9,6.33,773230.1875
+High,P08579,SNRPB2,U2 small nuclear ribonucleoprotein B'',18,4,1,8,225,25.5,9.72,
+High,Q5JQF8,PABPC1L2B,Polyadenylate-binding protein 1-like 2,21,4,1,7,200,22.8,9.1,
+High,P53992,SEC24C,Protein transport protein Sec24C,3,3,2,4,1094,118.2,7.06,1684796.9375
+High,Q9NXV2,KCTD5,BTB/POZ domain-containing protein KCTD5,12,2,2,2,234,26.1,6.24,650362.4375
+High,Q9P2N5,RBM27,RNA-binding protein 27,3,3,2,5,1060,118.6,9.19,1069333.75
+High,Q9Y4C2,TCAF1,TRPM8 channel-associated factor 1,4,4,3,5,921,102.1,6.54,624067.25
+High,Q8IZP0,ABI1,Abl interactor 1,5,2,2,4,508,55.0,7.06,1920440.1875
+High,O76015,KRT38,"Keratin, type I cuticular Ha8",2,2,1,13,456,50.4,4.84,2672377
+High,Q8N2M8,CLASRP,CLK4-associating serine/arginine rich protein,5,3,3,5,674,77.1,10.45,2339905.625
+High,P35269,GTF2F1,General transcription factor IIF subunit 1,3,1,1,2,517,58.2,7.49,1186108.875
+High,P62195,PSMC5,26S proteasome regulatory subunit 8,12,3,3,4,406,45.6,7.55,1176931.75
+High,Q9BTV4,TMEM43,Transmembrane protein 43,9,3,3,4,400,44.8,8.13,3756452.3125
+High,Q9Y678,COPG1,Coatomer subunit gamma-1,3,2,2,3,874,97.7,5.47,1290039.875
+High,P02788,LTF,Lactotransferrin,3,2,2,4,710,78.1,8.12,7942144.25
+High,Q12931,TRAP1,"Heat shock protein 75 kDa, mitochondrial",2,1,1,1,704,80.1,8.21,17379172
+High,Q99615,DNAJC7,DnaJ homolog subfamily C member 7,4,2,2,3,494,56.4,6.96,747611.25
+High,Q8TCG1,CIP2A,Protein CIP2A,3,3,3,3,905,102.1,6.23,552582.875
+High,O00429,DNM1L,Dynamin-1-like protein,3,2,2,2,736,81.8,6.81,1306773.40625
+High,Q14157,UBAP2L,Ubiquitin-associated protein 2-like,3,2,2,4,1087,114.5,7.11,1622897.375
+High,Q9Y295,DRG1,Developmentally-regulated GTP-binding protein 1,6,2,2,3,367,40.5,8.9,1710620.875
+High,Q2M2I8,AAK1,AP2-associated protein kinase 1,3,2,2,3,961,103.8,6.6,781533.625
+High,O95292,VAPB,Vesicle-associated membrane protein-associated protein B/C,12,3,2,5,243,27.2,7.3,596748.9375
+High,O75874,IDH1,Isocitrate dehydrogenase [NADP] cytoplasmic,6,2,2,3,414,46.6,7.01,2170739.6875
+High,O95817,BAG3,BAG family molecular chaperone regulator 3,6,3,3,4,575,61.6,6.95,2827427.25
+High,Q9UM00,TMCO1,Calcium load-activated calcium channel,12,2,2,3,239,27.1,10.26,7008597.125
+High,P17480,UBTF,Nucleolar transcription factor 1,4,3,3,4,764,89.4,5.81,3249180.8125
+High,Q16875,PFKFB3,"6-phosphofructo-2-kinase/fructose-2,6-bisphosphatase 3",6,3,3,3,520,59.6,8.21,433672.375
+High,O75063,FAM20B,Glycosaminoglycan xylosylkinase,8,3,3,4,409,46.4,6.87,1755765.9375
+High,P61081,UBE2M,NEDD8-conjugating enzyme Ubc12,20,4,4,6,183,20.9,7.69,4172566.625
+High,P05109,S100A8,Protein S100-A8,32,3,3,5,93,10.8,7.03,10107516.875
+High,Q86SQ0,PHLDB2,Pleckstrin homology-like domain family B member 2,2,3,2,4,1253,142.1,7.43,1893034.875
+High,P49916,LIG3,DNA ligase 3,2,2,2,4,1009,112.8,9.01,1206760.5
+High,P53007,SLC25A1,"Tricarboxylate transport protein, mitochondrial",6,2,2,3,311,34.0,9.89,5247363.25
+High,Q86VM9,ZC3H18,Zinc finger CCCH domain-containing protein 18,3,2,2,3,953,106.3,8.32,1190414.125
+High,P06730,EIF4E,Eukaryotic translation initiation factor 4E,23,2,2,3,217,25.1,6.15,3826722.75
+High,P49023,PXN,Paxillin,6,3,3,6,591,64.5,6.19,2759495.3125
+High,O95218,ZRANB2,Zinc finger Ran-binding domain-containing protein 2,6,2,2,4,330,37.4,10.01,14932606.5
+High,Q9UQ35,SRRM2,Serine/arginine repetitive matrix protein 2,1,3,3,4,2752,299.4,12.06,982881.5625
+High,O15234,CASC3,Protein CASC3,3,2,2,2,703,76.2,6.48,971831.4375
+High,P35030,PRSS3,Trypsin-3,4,1,1,2,304,32.5,7.49,4492362.5
+High,P23284,PPIB,Peptidyl-prolyl cis-trans isomerase B,13,2,2,3,216,23.7,9.41,2178246.9375
+High,P62304,SNRPE,Small nuclear ribonucleoprotein E,42,3,3,5,92,10.8,9.44,23075899.625
+High,Q9NZT1,CALML5,Calmodulin-like protein 5,15,2,2,3,146,15.9,4.44,4781430.625
+High,Q05209,PTPN12,Tyrosine-protein phosphatase non-receptor type 12,4,3,3,4,780,88.1,5.62,994751.75
+High,P56537,EIF6,Eukaryotic translation initiation factor 6,7,1,1,2,245,26.6,4.68,1387881.625
+High,O15111,CHUK,Inhibitor of nuclear factor kappa-B kinase subunit alpha,4,3,3,6,745,84.6,6.73,1644565.4375
+High,Q8IV48,ERI1,3'-5' exoribonuclease 1,4,1,1,1,349,40.0,6.7,
+High,P57678,GEMIN4,Gem-associated protein 4,3,3,3,4,1058,120.0,6.04,3253675.625
+High,Q06124,PTPN11,Tyrosine-protein phosphatase non-receptor type 11,5,3,3,4,593,68.0,7.3,2971437.4375
+High,Q14571,ITPR2,"Inositol 1,4,5-trisphosphate receptor type 2",1,3,2,5,2701,307.9,6.43,545962.3125
+High,A5D8V6,VPS37C,Vacuolar protein sorting-associated protein 37C,5,2,2,4,355,38.6,5.21,3929693.625
+High,P28331,NDUFS1,"NADH-ubiquinone oxidoreductase 75 kDa subunit, mitochondrial",5,3,3,5,727,79.4,6.23,1315400.84375
+High,P07305,H1-0,Histone H1.0,7,1,1,2,194,20.9,10.84,2033697.75
+High,Q9NX20,MRPL16,"39S ribosomal protein L16, mitochondrial",6,2,2,4,251,28.4,10.13,2398293
+High,Q9H307,PNN,Pinin,4,3,3,5,717,81.6,7.14,4672310.75
+High,Q63HR2,TNS2,Tensin-2,2,2,2,3,1409,152.5,8.35,1050584.125
+High,Q02750,MAP2K1,Dual specificity mitogen-activated protein kinase kinase 1,10,4,4,6,393,43.4,6.62,3001827.5625
+High,Q9HCN4,GPN1,GPN-loop GTPase 1,4,1,1,2,374,41.7,4.92,967097.5625
+High,P23458,JAK1,Tyrosine-protein kinase JAK1,3,3,3,5,1154,133.2,7.55,1255344.75
+High,P60953,CDC42,Cell division control protein 42 homolog,9,1,1,2,191,21.2,6.55,1493038.625
+High,Q9UNL2,SSR3,Translocon-associated protein subunit gamma,8,1,1,2,185,21.1,9.61,886358.75
+High,Q9NYV4,CDK12,Cyclin-dependent kinase 12,2,2,2,3,1490,164.1,9.44,1698986.5625
+High,Q9Y2V2,CARHSP1,Calcium-regulated heat-stable protein 1,11,1,1,2,147,15.9,8.21,833449.4375
+High,O00170,AIP,AH receptor-interacting protein,12,3,3,5,330,37.6,6.42,3042781.125
+High,P62308,SNRPG,Small nuclear ribonucleoprotein G,17,2,2,3,76,8.5,8.88,6147733.625
+High,P52209,PGD,"6-phosphogluconate dehydrogenase, decarboxylating",5,2,2,3,483,53.1,7.23,1909315.375
+High,Q9NXS2,QPCTL,Glutaminyl-peptide cyclotransferase-like protein,7,2,2,3,382,42.9,9.82,1411336.875
+High,Q9Y2R9,MRPS7,"28S ribosomal protein S7, mitochondrial",14,3,3,3,242,28.1,9.99,1616137.875
+High,Q14739,LBR,Delta(14)-sterol reductase LBR,4,2,2,4,615,70.7,9.36,3156063.5
+High,Q9Y4B5,MTCL1,Microtubule cross-linking factor 1,2,3,3,4,1905,209.4,6.43,1341041.5
+High,P61626,LYZ,Lysozyme C,12,2,2,3,148,16.5,9.16,6530365.75
+High,P58546,MTPN,Myotrophin,14,1,1,2,118,12.9,5.52,1376398.75
+High,Q9UH99,SUN2,SUN domain-containing protein 2,9,4,4,4,717,80.3,6.73,635734.375
+High,Q9NVH1,DNAJC11,DnaJ homolog subfamily C member 11,6,3,3,4,559,63.2,8.4,1338426.125
+High,Q66K74,MAP1S,Microtubule-associated protein 1S,3,2,2,3,1059,112.1,7.3,1581842.75
+High,O00214,LGALS8,Galectin-8,6,2,2,2,317,35.8,8.25,1475075.75
+High,Q15650,TRIP4,Activating signal cointegrator 1,4,2,2,3,581,66.1,7.85,
+High,P56945,BCAR1,Breast cancer anti-estrogen resistance protein 1,4,3,3,5,870,93.3,5.67,1696211
+High,P25786,PSMA1,Proteasome subunit alpha type-1,13,3,3,4,263,29.5,6.61,4179173.125
+High,Q99829,CPNE1,Copine-1,4,2,2,6,537,59.0,5.83,2493540.625
+High,P30740,SERPINB1,Leukocyte elastase inhibitor,6,2,1,3,379,42.7,6.28,
+High,Q9NZJ4,SACS,Sacsin,1,4,4,4,4579,520.8,7.05,981756.59375
+High,P08559,PDHA1,"Pyruvate dehydrogenase E1 component subunit alpha, somatic form, mitochondrial",6,2,2,3,390,43.3,8.06,768453.9375
+High,Q9NUQ6,SPATS2L,SPATS2-like protein,4,2,2,3,558,61.7,9.64,1721249.75
+High,O00182,LGALS9,Galectin-9,6,2,2,4,355,39.5,9.17,12661642.5
+High,O14976,GAK,Cyclin-G-associated kinase,3,3,3,4,1311,143.1,5.73,1551717.375
+High,P63272,SUPT4H1,Transcription elongation factor SPT4,20,2,2,3,117,13.2,8.06,10058476.75
+High,P49207,RPL34,60S ribosomal protein L34,14,3,3,7,117,13.3,11.47,21443944.375
+High,Q9Y2V7,COG6,Conserved oligomeric Golgi complex subunit 6,3,2,2,2,657,73.2,5.76,1774800.25
+High,Q8NHV4,NEDD1,Protein NEDD1,5,2,2,4,660,71.9,7.97,427776.1875
+High,Q96T60,PNKP,Bifunctional polynucleotide phosphatase/kinase,4,2,2,3,521,57.0,8.46,1188556.9375
+High,Q8TEQ6,GEMIN5,Gem-associated protein 5,2,2,2,2,1508,168.5,6.62,966398.125
+High,O75569,PRKRA,Interferon-inducible double-stranded RNA-dependent protein kinase activator A,7,2,2,4,313,34.4,8.41,1373407.5
+High,Q14166,TTLL12,Tubulin--tyrosine ligase-like protein 12,5,2,2,4,644,74.4,5.53,1066786.375
+High,P40616,ARL1,ADP-ribosylation factor-like protein 1,11,2,2,3,181,20.4,5.72,2078116.5625
+High,O75223,GGCT,Gamma-glutamylcyclotransferase,13,2,2,4,188,21.0,5.14,1338408.90625
+High,P12004,PCNA,Proliferating cell nuclear antigen,10,2,2,3,261,28.8,4.69,2096295.125
+High,Q9NZT2,OGFR,Opioid growth factor receptor,4,2,2,3,677,73.3,4.84,1569314.53125
+High,Q96EV8,DTNBP1,Dysbindin,4,1,1,2,351,39.5,4.67,
+High,Q5VWZ2,LYPLAL1,Lysophospholipase-like protein 1,7,2,2,3,237,26.3,7.84,1335852.65625
+High,Q9Y5B6,PAXBP1,PAX3- and PAX7-binding protein 1,2,2,2,4,917,104.7,5.68,2352428.4375
+High,P52815,MRPL12,"39S ribosomal protein L12, mitochondrial",11,2,2,4,198,21.3,8.87,2447288.75
+High,P68036,UBE2L3,Ubiquitin-conjugating enzyme E2 L3,10,1,1,2,154,17.9,8.51,1864571.75
+High,Q92896,GLG1,Golgi apparatus protein 1,2,2,2,2,1179,134.5,6.9,719050
+High,Q14145,KEAP1,Kelch-like ECH-associated protein 1,4,2,2,4,624,69.6,6.44,7894490.9375
+High,Q9UKA9,PTBP2,Polypyrimidine tract-binding protein 2,3,2,1,7,531,57.5,8.66,5890097
+High,P55735,SEC13,Protein SEC13 homolog,6,2,2,2,322,35.5,5.48,2166384.9375
+High,O75828,CBR3,Carbonyl reductase [NADPH] 3,6,1,1,1,277,30.8,6.18,
+High,O95352,ATG7,Ubiquitin-like modifier-activating enzyme ATG7,5,3,3,3,703,77.9,6.24,1626133.4375
+High,Q9Y277,VDAC3,Voltage-dependent anion-selective channel protein 3,7,2,2,4,283,30.6,8.66,2806890.0625
+High,O95671,ASMTL,Probable bifunctional dTTP/UTP pyrophosphatase/methyltransferase protein,5,3,3,3,621,68.8,6.07,2977341.5
+High,O14874,BCKDK,"[3-methyl-2-oxobutanoate dehydrogenase [lipoamide]] kinase, mitochondrial",6,3,3,7,412,46.3,8.82,8999247.125
+High,P53634,CTSC,Dipeptidyl peptidase 1,5,2,2,4,463,51.8,6.99,2853948.0625
+High,Q6PJ69,TRIM65,E3 ubiquitin-protein ligase TRIM65,4,2,2,3,517,57.3,6.7,695635.8125
+High,Q9NPD3,EXOSC4,Exosome complex component RRP41,9,2,2,3,245,26.4,6.52,1750234.25
+High,Q9NRN7,AASDHPPT,L-aminoadipate-semialdehyde dehydrogenase-phosphopantetheinyl transferase,5,2,2,4,309,35.8,6.8,1805382.8125
+High,Q92615,LARP4B,La-related protein 4B,4,2,2,2,738,80.5,6.92,582428.875
+High,Q13464,ROCK1,Rho-associated protein kinase 1,3,3,1,3,1354,158.1,5.9,
+High,P05386,RPLP1,60S acidic ribosomal protein P1,14,1,1,1,114,11.5,4.32,36168236
+High,Q96AE4,FUBP1,Far upstream element-binding protein 1,3,2,1,3,644,67.5,7.61,
+High,Q9BTT0,ANP32E,Acidic leucine-rich nuclear phosphoprotein 32 family member E,5,2,2,4,268,30.7,3.85,5551603.5
+High,P84243,H3-3B,Histone H3.3,20,3,3,6,136,15.3,11.27,61498247
+High,Q9UNM6,PSMD13,26S proteasome non-ATPase regulatory subunit 13,9,3,3,3,376,42.9,5.81,1513363.875
+High,P51398,DAP3,"28S ribosomal protein S29, mitochondrial",6,2,2,2,398,45.5,8.88,474468.34375
+High,Q96C19,EFHD2,EF-hand domain-containing protein D2,10,3,3,4,240,26.7,5.2,2268706.1875
+High,Q6ZVX7,NCCRP1,F-box only protein 50,14,2,2,2,275,30.8,6.62,2948828.125
+High,Q13637,RAB32,Ras-related protein Rab-32,10,2,2,4,225,25.0,6.54,2233320.25
+High,O75663,TIPRL,TIP41-like protein,9,2,2,3,272,31.4,5.91,2322735.3125
+High,P54105,CLNS1A,Methylosome subunit pICln,5,1,1,1,237,26.2,4.11,758983.625
+High,Q8TDX7,NEK7,Serine/threonine-protein kinase Nek7,8,2,2,4,302,34.5,8.25,2401398.125
+High,Q9UH65,SWAP70,Switch-associated protein 70,6,3,3,5,585,69.0,5.87,3044137.9375
+High,P14174,MIF,Macrophage migration inhibitory factor,10,1,1,2,115,12.5,7.88,3591872
+High,Q12965,MYO1E,Unconventional myosin-Ie,3,3,3,4,1108,127.0,8.92,736807.9375
+High,O75396,SEC22B,Vesicle-trafficking protein SEC22b,8,2,2,4,215,24.7,8.51,1657440.875
+High,Q8N699,MYCT1,Myc target protein 1,12,2,2,3,235,26.6,9.83,401744.5
+High,Q9Y6G9,DYNC1LI1,Cytoplasmic dynein 1 light intermediate chain 1,6,2,2,3,523,56.5,6.42,651222
+High,O75131,CPNE3,Copine-3,5,3,3,3,537,60.1,5.85,5692297.625
+High,Q9NZN8,CNOT2,CCR4-NOT transcription complex subunit 2,5,2,2,3,540,59.7,7.66,1362938.25
+High,P08754,GNAI3,Guanine nucleotide-binding protein G(i) subunit alpha-3,4,1,1,2,354,40.5,5.69,
+High,Q9H9A6,LRRC40,Leucine-rich repeat-containing protein 40,7,4,4,6,602,68.2,6.43,1806673.3125
+High,Q16881,TXNRD1,"Thioredoxin reductase 1, cytoplasmic",5,2,2,2,649,70.9,7.39,
+High,Q9UPN7,PPP6R1,Serine/threonine-protein phosphatase 6 regulatory subunit 1,2,1,1,1,881,96.7,4.55,
+High,P21266,GSTM3,Glutathione S-transferase Mu 3,8,2,2,4,225,26.5,5.54,2423380.875
+High,P16070,CD44,CD44 antigen,2,1,1,2,742,81.5,5.33,1028479.25
+High,Q01469,FABP5,Fatty acid-binding protein 5,13,2,2,3,135,15.2,7.01,6270317.75
+High,Q9HCD5,NCOA5,Nuclear receptor coactivator 5,3,1,1,1,579,65.5,9.6,745533.9375
+High,Q86UK7,ZNF598,E3 ubiquitin-protein ligase ZNF598,1,1,1,2,904,98.6,8.4,1378379.5
+High,O00418,EEF2K,Eukaryotic elongation factor 2 kinase,3,2,2,3,725,82.1,5.33,1756364.4375
+High,Q9Y266,NUDC,Nuclear migration protein nudC,3,1,1,2,331,38.2,5.38,1458146.375
+High,P63279,UBE2I,SUMO-conjugating enzyme UBC9,15,2,2,2,158,18.0,8.66,419308.21875
+High,Q8TC12,RDH11,Retinol dehydrogenase 11,8,2,2,3,318,35.4,8.82,1613618.375
+High,Q08170,SRSF4,Serine/arginine-rich splicing factor 4,3,2,1,4,494,56.6,11.52,4061987.5
+High,P36969,GPX4,Phospholipid hydroperoxide glutathione peroxidase,17,2,2,2,197,22.2,8.37,5159950.5
+High,Q8TCJ2,STT3B,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3B,2,2,2,3,826,93.6,8.91,668980.25
+High,P01859,IGHG2,Immunoglobulin heavy constant gamma 2,11,3,2,4,395,43.8,6.52,11348776
+High,Q99717,SMAD5,Mothers against decapentaplegic homolog 5,3,2,2,3,465,52.2,7.71,1952557.4375
+High,P54840,GYS2,"Glycogen [starch] synthase, liver",2,1,1,2,703,80.9,6.83,2085408.25
+High,P43034,PAFAH1B1,Platelet-activating factor acetylhydrolase IB subunit beta,5,2,2,4,410,46.6,7.37,2240536.25
+High,Q96EK7,FAM120B,Constitutive coactivator of peroxisome proliferator-activated receptor gamma,2,1,1,2,910,103.7,5.69,
+High,Q9BVP2,GNL3,Guanine nucleotide-binding protein-like 3,2,1,1,2,549,62.0,9.16,695947.125
+High,O43837,IDH3B,"Isocitrate dehydrogenase [NAD] subunit beta, mitochondrial",7,3,3,5,385,42.2,8.46,1868949.625
+High,P20618,PSMB1,Proteasome subunit beta type-1,8,2,2,3,241,26.5,8.13,881703.4375
+High,O60783,MRPS14,"28S ribosomal protein S14, mitochondrial",10,1,1,2,128,15.1,11.41,1088444.375
+High,P52926,HMGA2,High mobility group protein HMGI-C,21,1,1,2,109,11.8,10.62,1754325.375
+High,Q9Y2L5,TRAPPC8,Trafficking protein particle complex subunit 8,4,4,4,4,1435,160.9,6.87,679644.3125
+High,O95249,GOSR1,Golgi SNAP receptor complex member 1,5,1,1,1,250,28.6,9.42,514746
+High,Q9NX63,CHCHD3,MICOS complex subunit MIC19,12,2,2,3,227,26.1,8.28,975985.4375
+High,Q12899,TRIM26,Tripartite motif-containing protein 26,2,1,1,2,539,62.1,5.03,866787.125
+High,Q9BSJ2,TUBGCP2,Gamma-tubulin complex component 2,4,3,3,5,902,102.5,6.84,2606551.6875
+High,O43242,PSMD3,26S proteasome non-ATPase regulatory subunit 3,5,3,3,3,534,60.9,8.44,624069.75
+High,Q9P0J0,NDUFA13,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 13,7,1,1,2,144,16.7,8.43,1028935.875
+High,P53680,AP2S1,AP-2 complex subunit sigma,11,2,2,4,142,17.0,6.18,7194551.75
+High,P53999,SUB1,Activated RNA polymerase II transcriptional coactivator p15,15,2,2,4,127,14.4,9.6,4493347.375
+High,Q99735,MGST2,Microsomal glutathione S-transferase 2,10,1,1,2,147,16.6,9.55,2404392.25
+High,Q14331,FRG1,Protein FRG1,5,1,1,1,258,29.2,9.01,
+High,Q9BTE3,MCMBP,Mini-chromosome maintenance complex-binding protein,4,2,2,2,642,72.9,5.87,1230427.875
+High,Q9BVC6,TMEM109,Transmembrane protein 109,5,1,1,2,243,26.2,10.48,882225.875
+High,Q15008,PSMD6,26S proteasome non-ATPase regulatory subunit 6,5,2,2,3,389,45.5,5.62,2502757.5
+High,O95810,CAVIN2,Caveolae-associated protein 2,4,2,2,4,425,47.1,5.21,3942260
+High,Q99536,VAT1,Synaptic vesicle membrane protein VAT-1 homolog,6,2,2,3,393,41.9,6.29,
+High,P51452,DUSP3,Dual specificity protein phosphatase 3,7,1,1,2,185,20.5,7.8,687127.875
+High,Q9NZ01,TECR,Very-long-chain enoyl-CoA reductase,7,2,2,3,308,36.0,9.45,2465438.25
+High,O75044,SRGAP2,SLIT-ROBO Rho GTPase-activating protein 2,2,2,2,2,1071,120.8,6.7,707476.8125
+High,P62273,RPS29,40S ribosomal protein S29,20,1,1,2,56,6.7,10.13,11020245
+High,Q9BT78,COPS4,COP9 signalosome complex subunit 4,3,1,1,2,406,46.2,5.83,1092423.75
+High,Q96S59,RANBP9,Ran-binding protein 9,2,2,1,3,729,77.8,6.79,872546.25
+High,Q9NR56,MBNL1,Muscleblind-like protein 1,3,1,1,2,388,41.8,8.9,3009306.25
+High,P43487,RANBP1,Ran-specific GTPase-activating protein,5,1,1,1,201,23.3,5.29,
+High,Q9NS69,TOMM22,Mitochondrial import receptor subunit TOM22 homolog,15,1,1,2,142,15.5,4.34,
+High,Q9BPX5,ARPC5L,Actin-related protein 2/3 complex subunit 5-like protein,16,2,2,3,153,16.9,6.6,1940271.75
+High,Q969T9,WBP2,WW domain-binding protein 2,6,2,2,3,261,28.1,5.91,2202335.3125
+High,O75964,ATP5MG,"ATP synthase subunit g, mitochondrial",36,3,3,5,103,11.4,9.64,4346687.25
+High,P29728,OAS2,2'-5'-oligoadenylate synthase 2,4,3,3,4,719,82.4,8.25,3435061.25
+High,Q9UH77,KLHL3,Kelch-like protein 3,3,2,2,2,587,64.9,5.45,1598880.6875
+High,O95433,AHSA1,Activator of 90 kDa heat shock protein ATPase homolog 1,14,3,3,4,338,38.3,5.53,1118257.25
+High,Q15208,STK38,Serine/threonine-protein kinase 38,2,1,1,1,465,54.2,7.15,413797.40625
+High,O14530,TXNDC9,Thioredoxin domain-containing protein 9,5,1,1,1,226,26.5,5.88,648103.0625
+High,Q96T76,MMS19,MMS19 nucleotide excision repair protein homolog,1,1,1,1,1030,113.2,6.35,964930
+High,Q9Y2Z0,SUGT1,Protein SGT1 homolog,3,1,1,2,365,41.0,5.16,1536547.375
+High,Q9BTC0,DIDO1,Death-inducer obliterator 1,1,2,2,2,2240,243.7,7.88,
+High,Q93009,USP7,Ubiquitin carboxyl-terminal hydrolase 7,3,2,2,2,1102,128.2,5.55,3558905
+High,Q9H9B4,SFXN1,Sideroflexin-1,3,1,1,2,322,35.6,9.07,1068415.25
+High,Q9H1I8,ASCC2,Activating signal cointegrator 1 complex subunit 2,3,2,2,3,757,86.3,5.16,1033138.1875
+High,Q9NVJ2,ARL8B,ADP-ribosylation factor-like protein 8B,10,2,2,3,186,21.5,8.43,1240062.625
+High,O14545,TRAFD1,TRAF-type zinc finger domain-containing protein 1,2,1,1,1,582,64.8,5.29,903552.4375
+High,Q6QNY1,BLOC1S2,Biogenesis of lysosome-related organelles complex 1 subunit 2,8,1,1,1,142,16.0,4.86,1036901.9375
+High,Q5T8P6,RBM26,RNA-binding protein 26,2,2,1,3,1007,113.5,9.16,1064891.125
+High,O00506,STK25,Serine/threonine-protein kinase 25,6,2,2,3,426,48.1,6.74,1689157.5625
+High,P19623,SRM,Spermidine synthase,6,2,2,3,302,33.8,5.49,1818843.5625
+High,P00390,GSR,"Glutathione reductase, mitochondrial",4,2,2,3,522,56.2,8.5,2004472.5625
+High,P60981,DSTN,Destrin,16,3,3,5,165,18.5,7.85,7873457
+High,Q12802,AKAP13,A-kinase anchor protein 13,1,3,3,4,2813,307.4,5.24,1838434.3125
+High,Q8NDZ4,DIPK2A,Divergent protein kinase domain 2A,3,1,1,2,430,49.5,8.53,932003.6875
+High,Q96DI7,SNRNP40,U5 small nuclear ribonucleoprotein 40 kDa protein,6,2,2,3,357,39.3,8.1,1023340.125
+High,Q12891,HYAL2,Hyaluronidase-2,8,2,2,3,473,53.8,8.19,2136407.9375
+High,Q15286,RAB35,Ras-related protein Rab-35,5,1,1,2,201,23.0,8.29,3792124.25
+High,Q9Y5R8,TRAPPC1,Trafficking protein particle complex subunit 1,12,2,2,3,145,16.8,9.16,1742397.0625
+High,Q9UGJ0,PRKAG2,5'-AMP-activated protein kinase subunit gamma-2,2,1,1,2,569,63.0,9.35,715574.8125
+High,Q86XZ4,SPATS2,Spermatogenesis-associated serine-rich protein 2,2,1,1,2,545,59.5,8.9,652327
+High,Q9BRZ2,TRIM56,E3 ubiquitin-protein ligase TRIM56,4,2,2,3,755,81.4,7.74,1149157.125
+High,O94967,WDR47,WD repeat-containing protein 47,2,1,1,1,919,101.9,5.94,473483.125
+High,Q8NHP8,PLBD2,Putative phospholipase B-like 2,3,2,2,2,589,65.4,6.8,1939060.125
+High,O75190,DNAJB6,DnaJ homolog subfamily B member 6,3,1,1,2,326,36.1,9.16,948654.5
+High,Q6ZNL6,FGD5,"FYVE, RhoGEF and PH domain-containing protein 5",1,2,2,4,1462,159.8,5.01,1486055.1875
+High,P19387,POLR2C,DNA-directed RNA polymerase II subunit RPB3,13,3,3,3,275,31.4,4.92,1482445.625
+High,P28300,LOX,Protein-lysine 6-oxidase,6,2,2,3,417,46.9,8.09,
+High,Q04323,UBXN1,UBX domain-containing protein 1,10,1,1,1,297,33.3,5.25,1131955.25
+High,P18031,PTPN1,Tyrosine-protein phosphatase non-receptor type 1,3,1,1,1,435,49.9,6.27,
+High,Q9H089,LSG1,Large subunit GTPase 1 homolog,3,2,2,2,658,75.2,6.38,
+High,Q03113,GNA12,Guanine nucleotide-binding protein subunit alpha-12,3,1,1,2,381,44.3,9.83,5463538
+High,Q9UKM9,RALY,RNA-binding protein Raly,5,2,2,3,306,32.4,9.17,1975127.875
+High,Q7Z3U7,MON2,Protein MON2 homolog,2,3,3,4,1717,190.2,6.06,1857717.75
+High,Q5VYK3,ECPAS,Proteasome adapter and scaffold protein ECM29,1,2,2,3,1845,204.2,7.12,1234092.375
+High,Q9Y6W5,WASF2,Actin-binding protein WASF2,3,1,1,1,498,54.3,5.53,
+High,O95372,LYPLA2,Acyl-protein thioesterase 2,7,2,2,3,231,24.7,7.23,4192681.625
+High,P83111,LACTB,"Serine beta-lactamase-like protein LACTB, mitochondrial",2,1,1,2,547,60.7,8.53,1656430.25
+High,O00487,PSMD14,26S proteasome non-ATPase regulatory subunit 14,7,2,2,3,310,34.6,6.52,1112479.125
+High,Q7Z6E9,RBBP6,E3 ubiquitin-protein ligase RBBP6,1,2,2,2,1792,201.4,9.64,1682776.25
+High,P62993,GRB2,Growth factor receptor-bound protein 2,6,1,1,2,217,25.2,6.32,990171.625
+High,Q15404,RSU1,Ras suppressor protein 1,6,2,2,3,277,31.5,8.65,2868436.875
+High,P61803,DAD1,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit DAD1,9,1,1,1,113,12.5,7.08,2212328
+High,P63000,RAC1,Ras-related C3 botulinum toxin substrate 1,11,2,1,4,192,21.4,8.5,1934077.75
+High,Q9H0U4,RAB1B,Ras-related protein Rab-1B,7,1,1,2,201,22.2,5.73,800954.5625
+High,P46736,BRCC3,Lys-63-specific deubiquitinase BRCC36,5,1,1,2,316,36.0,5.92,1117335.125
+High,Q9UEE9,CFDP1,Craniofacial development protein 1,3,1,1,2,299,33.6,4.81,1706066.75
+High,O00203,AP3B1,AP-3 complex subunit beta-1,3,3,3,3,1094,121.2,6.04,551138.75
+High,Q96EY1,DNAJA3,"DnaJ homolog subfamily A member 3, mitochondrial",4,2,2,3,480,52.5,9.26,2309745.75
+High,Q9Y4K4,MAP4K5,Mitogen-activated protein kinase kinase kinase kinase 5,1,1,1,2,846,95.0,7.83,413519.28125
+High,Q7Z739,YTHDF3,YTH domain-containing family protein 3,2,1,1,2,585,63.8,9.04,624135.1875
+High,O00232,PSMD12,26S proteasome non-ATPase regulatory subunit 12,4,2,2,3,456,52.9,7.65,1074909.65625
+High,Q9Y4X5,ARIH1,E3 ubiquitin-protein ligase ARIH1,3,1,1,1,557,64.1,5.08,417854.46875
+High,Q08380,LGALS3BP,Galectin-3-binding protein,4,2,2,3,585,65.3,5.27,
+High,Q9HC38,GLOD4,Glyoxalase domain-containing protein 4,4,1,1,1,313,34.8,5.6,
+High,P51665,PSMD7,26S proteasome non-ATPase regulatory subunit 7,3,1,1,2,324,37.0,6.77,703978.75
+High,P50995,ANXA11,Annexin A11,4,2,2,3,505,54.4,7.65,1351799.125
+High,Q3KQU3,MAP7D1,MAP7 domain-containing protein 1,1,1,1,2,841,92.8,10.11,984099.625
+High,P30520,ADSS2,Adenylosuccinate synthetase isozyme 2,3,1,1,1,456,50.1,6.55,
+High,O75323,NIPSNAP2,Protein NipSnap homolog 2,5,2,1,2,286,33.7,9.36,1625022.375
+High,P04183,TK1,"Thymidine kinase, cytosolic",6,1,1,3,234,25.5,8.51,1009006.0625
+High,Q7L5N1,COPS6,COP9 signalosome complex subunit 6,5,1,1,2,327,36.1,5.73,
+High,Q9NPQ8,RIC8A,Synembryn-A,3,1,1,2,531,59.7,5.33,474238.65625
+High,Q15369,ELOC,Elongin-C,12,1,1,2,112,12.5,4.78,898318.5
+High,Q16186,ADRM1,Proteasomal ubiquitin receptor ADRM1,5,2,2,3,407,42.1,5.07,1566952.375
+High,Q05193,DNM1,Dynamin-1,2,2,2,3,864,97.3,7.17,2192469.25
+High,P82930,MRPS34,"28S ribosomal protein S34, mitochondrial",11,3,3,5,218,25.6,9.98,1905210.0625
+High,P00450,CP,Ceruloplasmin,1,1,1,1,1065,122.1,5.72,1359447.875
+High,O43896,KIF1C,Kinesin-like protein KIF1C,1,1,1,5,1103,122.9,6.9,2877864.4375
+High,Q13404,UBE2V1,Ubiquitin-conjugating enzyme E2 variant 1,13,2,2,3,147,16.5,7.93,1931821.375
+High,Q9H479,FN3K,Fructosamine-3-kinase,4,1,1,2,309,35.1,7.55,
+High,Q9NSV4,DIAPH3,Protein diaphanous homolog 3,3,3,3,3,1193,136.8,7.03,1088399.375
+High,Q9Y5A9,YTHDF2,YTH domain-containing family protein 2,2,1,1,2,579,62.3,8.79,624819
+High,O43148,RNMT,mRNA cap guanine-N7 methyltransferase,4,2,2,2,476,54.8,6.61,1934305
+High,P04004,VTN,Vitronectin,3,1,1,1,478,54.3,5.8,3385837
+High,P55036,PSMD4,26S proteasome non-ATPase regulatory subunit 4,3,1,1,1,377,40.7,4.79,
+High,Q13418,ILK,Integrin-linked protein kinase,7,3,3,4,452,51.4,8.07,1981020.75
+High,Q9Y2X3,NOP58,Nucleolar protein 58,4,2,2,2,529,59.5,8.92,514319.28125
+High,Q71RC2,LARP4,La-related protein 4,3,2,2,3,724,80.5,6.61,
+High,P69905,HBA2,Hemoglobin subunit alpha,6,1,1,3,142,15.2,8.68,887833.3125
+High,Q9GZR7,DDX24,ATP-dependent RNA helicase DDX24,2,2,2,4,859,96.3,9.06,1680654.5
+High,O94972,TRIM37,E3 ubiquitin-protein ligase TRIM37,3,3,3,4,964,107.8,5.15,3048612.9375
+High,Q5SQS8,C10orf120,Uncharacterized protein C10orf120,4,1,1,2,335,39.2,9.44,15782204
+High,Q9UK59,DBR1,Lariat debranching enzyme,6,3,3,4,544,61.5,5.47,1940029.25
+High,Q14562,DHX8,ATP-dependent RNA helicase DHX8,2,2,1,3,1220,139.2,8.32,
+High,Q9BYB0,SHANK3,SH3 and multiple ankyrin repeat domains protein 3,2,3,2,5,1731,184.6,8.88,478057.53125
+High,P61077,UBE2D3,Ubiquitin-conjugating enzyme E2 D3,7,1,1,2,147,16.7,7.8,2335064.75
+High,Q9UBB6,NCDN,Neurochondrin,2,1,1,2,729,78.8,5.48,360452.875
+High,Q9BZH6,WDR11,WD repeat-containing protein 11,2,2,2,2,1224,136.6,6.92,620547
+High,Q16610,ECM1,Extracellular matrix protein 1,4,1,1,2,540,60.6,6.71,
+High,A0A3B3IU46,RAMACL,RNA guanine-N7 methyltransferase-activating subunit-like protein,18,2,2,3,118,14.4,8.4,563708.75
+High,O15427,SLC16A3,Monocarboxylate transporter 4,3,1,1,1,465,49.4,7.96,1405645.875
+High,Q9BU76,MMTAG2,Multiple myeloma tumor-associated protein 2,5,1,1,2,263,29.4,10.02,1392304.625
+High,Q15027,ACAP1,"Arf-GAP with coiled-coil, ANK repeat and PH domain-containing protein 1",2,1,1,2,740,81.5,7.66,5901265.5
+High,Q16513,PKN2,Serine/threonine-protein kinase N2,2,2,2,2,984,112.0,6.3,1608517.625
+High,P82979,SARNP,SAP domain-containing ribonucleoprotein,9,2,2,2,210,23.7,6.42,852002.5625
+High,O75940,SMNDC1,Survival of motor neuron-related-splicing factor 30,5,1,1,2,238,26.7,7.24,1013619.0625
+High,Q8IWS0,PHF6,PHD finger protein 6,5,2,2,2,365,41.3,8.68,986394.8125
+High,Q9NVZ3,NECAP2,Adaptin ear-binding coat-associated protein 2,7,1,1,2,263,28.3,8.38,1004548.8125
+High,Q9UI47,CTNNA3,Catenin alpha-3,2,2,1,2,895,99.7,6.16,940907.5
+High,Q5HYI8,RABL3,Rab-like protein 3,5,1,1,1,236,26.4,7.11,
+High,P98170,XIAP,E3 ubiquitin-protein ligase XIAP,3,1,1,1,497,56.6,6.65,
+High,Q13409,DYNC1I2,Cytoplasmic dynein 1 intermediate chain 2,3,1,1,1,638,71.4,5.2,677746.1875
+High,P62857,RPS28,40S ribosomal protein S28,30,2,2,2,69,7.8,10.7,2404023.9375
+High,O75342,ALOX12B,"Arachidonate 12-lipoxygenase, 12R-type",3,2,2,3,701,80.3,7.64,1543200.625
+High,P30566,ADSL,Adenylosuccinate lyase,5,2,2,2,484,54.9,7.11,2252317.625
+High,O75400,PRPF40A,Pre-mRNA-processing factor 40 homolog A,1,1,1,2,957,108.7,7.56,1315331.75
+High,P07737,PFN1,Profilin-1,10,1,1,2,140,15.0,8.27,1298368.625
+High,Q04206,RELA,Transcription factor p65,3,1,1,2,551,60.2,5.68,970034.25
+High,Q96L92,SNX27,Sorting nexin-27,4,2,2,3,541,61.2,6.49,1314461.125
+High,Q96FW1,OTUB1,Ubiquitin thioesterase OTUB1,10,2,2,2,271,31.3,4.94,
+High,P55196,AFDN,Afadin,1,1,1,1,1824,206.7,6.47,
+High,O60678,PRMT3,Protein arginine N-methyltransferase 3,5,2,2,2,531,59.9,5.35,499679.3125
+High,Q9BZG1,RAB34,Ras-related protein Rab-34,9,2,2,2,259,29.0,7.88,
+High,Q92882,OSTF1,Osteoclast-stimulating factor 1,10,2,2,2,214,23.8,5.68,1438959.3125
+High,P55039,DRG2,Developmentally-regulated GTP-binding protein 2,3,1,1,2,364,40.7,8.88,581021.25
+High,Q13642,FHL1,Four and a half LIM domains protein 1,3,1,1,2,323,36.2,8.97,1108977
+High,Q9BX69,CARD6,Caspase recruitment domain-containing protein 6,2,2,2,3,1037,116.4,6.37,1057089.8125
+High,Q9BX10,GTPBP2,GTP-binding protein 2,2,1,1,2,602,65.7,8.05,
+High,P08134,RHOC,Rho-related GTP-binding protein RhoC,7,2,2,4,193,22.0,6.58,4001225.625
+High,P51571,SSR4,Translocon-associated protein subunit delta,6,1,1,1,173,19.0,6.15,5624747
+High,P52298,NCBP2,Nuclear cap-binding protein subunit 2,7,1,1,2,156,18.0,8.21,1472958.375
+High,Q9H930,SP140L,Nuclear body protein SP140-like protein,6,3,3,4,580,67.0,8.48,2613674.1640625
+High,O15067,PFAS,Phosphoribosylformylglycinamidine synthase,1,1,1,1,1338,144.6,5.76,820483.3125
+High,Q13287,NMI,N-myc-interactor,4,1,1,1,307,35.0,5.34,1435830.375
+High,Q96EY7,PTCD3,"Pentatricopeptide repeat domain-containing protein 3, mitochondrial",3,2,2,3,689,78.5,6.42,1510196.25
+High,Q9BZI7,UPF3B,Regulator of nonsense transcripts 3B,2,1,1,2,483,57.7,9.48,520377.0625
+High,Q9NP61,ARFGAP3,ADP-ribosylation factor GTPase-activating protein 3,4,2,2,3,516,56.9,7.36,1321577.625
+High,Q15678,PTPN14,Tyrosine-protein phosphatase non-receptor type 14,2,1,1,1,1187,135.2,8.31,
+High,P45974,USP5,Ubiquitin carboxyl-terminal hydrolase 5,3,2,2,3,858,95.7,5.03,
+High,Q9Y570,PPME1,Protein phosphatase methylesterase 1,3,1,1,2,386,42.3,5.97,531608.25
+High,Q9BT40,INPP5K,Inositol polyphosphate 5-phosphatase K,2,1,1,2,448,51.1,6.54,963749
+High,Q96HU8,DIRAS2,GTP-binding protein Di-Ras2,6,1,1,2,199,22.5,8.76,2394862.5
+High,O43252,PAPSS1,Bifunctional 3'-phosphoadenosine 5'-phosphosulfate synthase 1,5,3,3,3,624,70.8,6.86,763523.5
+High,Q9NUD5,ZCCHC3,Zinc finger CCHC domain-containing protein 3,6,3,3,4,403,43.5,8.53,2650782.4375
+High,O00629,KPNA4,Importin subunit alpha-3,3,1,1,2,521,57.9,4.96,1136361.5
+High,O60687,SRPX2,Sushi repeat-containing protein SRPX2,5,2,2,3,465,52.9,7.25,2297968.375
+High,P49757,NUMB,Protein numb homolog,2,1,1,2,651,70.8,8.51,1027296
+High,Q6YHK3,CD109,CD109 antigen,2,2,2,2,1445,161.6,5.85,1821482.9375
+High,Q9H1C7,CYSTM1,Cysteine-rich and transmembrane domain-containing protein 1,10,1,1,2,97,10.6,4.32,1094474.75
+High,P19838,NFKB1,Nuclear factor NF-kappa-B p105 subunit,2,1,1,2,968,105.3,5.4,
+High,Q9H5N1,RABEP2,Rab GTPase-binding effector protein 2,3,2,2,2,569,63.5,4.78,13584908
+High,O00151,PDLIM1,PDZ and LIM domain protein 1,5,1,1,1,329,36.0,7.02,588051.625
+High,P25788,PSMA3,Proteasome subunit alpha type-3,4,1,1,1,255,28.4,5.33,
+High,Q8WWY3,PRPF31,U4/U6 small nuclear ribonucleoprotein Prp31,3,1,1,1,499,55.4,5.78,950047.875
+High,P48730,CSNK1D,Casein kinase I isoform delta,3,1,1,1,415,47.3,9.74,1907837.375
+High,Q96B54,ZNF428,Zinc finger protein 428,6,1,1,2,188,20.5,4.17,977566.8125
+High,Q8N4P2,TTC30B,Tetratricopeptide repeat protein 30B,2,1,1,2,665,76.1,5.2,
+High,P19429,TNNI3,"Troponin I, cardiac muscle",9,2,2,3,210,24.0,9.86,2984632.125
+High,P17980,PSMC3,26S proteasome regulatory subunit 6A,4,1,1,2,439,49.2,5.24,1175156.25
+High,O00161,SNAP23,Synaptosomal-associated protein 23,12,2,2,2,211,23.3,5.01,878604.1875
+High,Q99426,TBCB,Tubulin-folding cofactor B,9,2,2,2,244,27.3,5.15,919490.3125
+High,O43815,STRN,Striatin,3,1,1,1,780,86.1,5.27,641787.375
+High,Q9HCY8,S100A14,Protein S100-A14,14,1,1,2,104,11.7,5.24,2482378.75
+High,Q8TD26,CHD6,Chromodomain-helicase-DNA-binding protein 6,1,2,1,2,2715,305.2,6.27,853014.4375
+High,O95391,SLU7,Pre-mRNA-splicing factor SLU7,3,1,1,1,586,68.3,7.14,2050354.875
+High,Q13547,HDAC1,Histone deacetylase 1,2,1,1,2,482,55.1,5.48,993011.6875
+High,P29401,TKT,Transketolase,2,1,1,1,623,67.8,7.66,584600.8125
+High,P59190,RAB15,Ras-related protein Rab-15,5,1,1,2,212,24.4,5.71,3546707
+High,P61201,COPS2,COP9 signalosome complex subunit 2,3,1,1,1,443,51.6,5.53,380086.71875
+High,P57723,PCBP4,Poly(rC)-binding protein 4,4,2,1,4,403,41.5,8.16,
+High,P30040,ERP29,Endoplasmic reticulum resident protein 29,5,1,1,1,261,29.0,7.31,947430.0625
+High,Q6NY19,KANK3,KN motif and ankyrin repeat domain-containing protein 3,1,1,1,1,821,85.8,5.02,300109.28125
+High,P18615,NELFE,Negative elongation factor E,3,1,1,2,380,43.2,9.33,1046700.75
+High,O43290,SART1,U4/U6.U5 tri-snRNP-associated protein 1,3,2,2,4,800,90.2,6.13,37788770.09375
+High,Q9Y696,CLIC4,Chloride intracellular channel protein 4,9,3,1,5,253,28.8,5.59,740456.0625
+High,Q12792,TWF1,Twinfilin-1,7,2,1,2,350,40.3,6.96,
+High,Q15018,ABRAXAS2,BRISC complex subunit Abraxas 2,7,2,2,3,415,46.9,6.21,
+High,P22314,UBA1,Ubiquitin-like modifier-activating enzyme 1,2,2,2,2,1058,117.8,5.76,
+High,O14556,GAPDHS,"Glyceraldehyde-3-phosphate dehydrogenase, testis-specific",4,2,1,4,408,44.5,8.19,2746639.5
+High,O75608,LYPLA1,Acyl-protein thioesterase 1,10,2,2,2,230,24.7,6.77,1417151.59375
+High,Q9ULL1,PLEKHG1,Pleckstrin homology domain-containing family G member 1,1,2,2,3,1385,155.3,6.24,1719994.5625
+High,P48556,PSMD8,26S proteasome non-ATPase regulatory subunit 8,3,1,1,2,350,39.6,9.7,943696.375
+High,P25490,YY1,Transcriptional repressor protein YY1,4,2,2,3,414,44.7,6.25,3171245.75
+High,Q8N2K0,ABHD12,Lysophosphatidylserine lipase ABHD12,3,1,1,2,398,45.1,8.65,841513.25
+High,Q9P2A4,ABI3,ABI gene family member 3,7,2,2,3,366,39.0,5.08,1339460.5
+High,P43490,NAMPT,Nicotinamide phosphoribosyltransferase,2,1,1,1,491,55.5,7.15,797615.625
+High,Q16637,SMN2,Survival motor neuron protein,3,1,1,1,294,31.8,6.55,1422724.75
+High,Q3SXM5,HSDL1,Inactive hydroxysteroid dehydrogenase-like protein 1,4,1,1,1,330,37.0,8.72,
+High,Q8IUD2,ERC1,ELKS/Rab6-interacting/CAST family member 1,1,1,1,1,1116,128.0,5.97,
+High,P49821,NDUFV1,"NADH dehydrogenase [ubiquinone] flavoprotein 1, mitochondrial",4,2,2,2,464,50.8,8.21,1259010.1875
+High,Q9NZD2,GLTP,Glycolipid transfer protein,6,1,1,1,209,23.8,7.39,
+High,Q9NUQ8,ABCF3,ATP-binding cassette sub-family F member 3,1,1,1,2,709,79.7,6.34,605077.625
+High,Q9UQE7,SMC3,Structural maintenance of chromosomes protein 3,2,2,2,3,1217,141.5,7.18,745479.5625
+High,Q9NQ29,LUC7L,Putative RNA-binding protein Luc7-like 1,3,1,1,2,371,43.7,9.92,638096.5625
+High,Q15750,TAB1,TGF-beta-activated kinase 1 and MAP3K7-binding protein 1,2,1,1,2,504,54.6,5.52,843846.8125
+High,Q9H0E2,TOLLIP,Toll-interacting protein,3,1,1,2,274,30.3,5.97,971194.8125
+High,Q99575,POP1,Ribonucleases P/MRP protein subunit POP1,1,1,1,1,1024,114.6,9.22,
+High,Q9BXJ9,NAA15,"N-alpha-acetyltransferase 15, NatA auxiliary subunit",1,1,1,2,866,101.2,7.42,671192.0625
+High,P46459,NSF,Vesicle-fusing ATPase,1,1,1,1,744,82.5,6.95,
+High,P25787,PSMA2,Proteasome subunit alpha type-2,9,1,1,1,234,25.9,7.43,
+High,O60701,UGDH,UDP-glucose 6-dehydrogenase,2,1,1,1,494,55.0,7.12,851828.5625
+High,Q8IW35,CEP97,Centrosomal protein of 97 kDa,1,1,1,1,865,96.9,5.02,
+High,Q5VWN6,TASOR2,Protein TASOR 2,1,1,1,1,2430,268.7,5.9,1083272.75
+High,Q9BYC5,FUT8,"Alpha-(1,6)-fucosyltransferase",2,1,1,1,575,66.5,7.66,
+High,Q14683,SMC1A,Structural maintenance of chromosomes protein 1A,1,1,1,2,1233,143.1,7.64,1270551.875
+High,Q49A26,GLYR1,Cytokine-like nuclear factor N-PAC,3,1,1,1,553,60.5,9.17,435216.59375
+High,Q13325,IFIT5,Interferon-induced protein with tetratricopeptide repeats 5,4,2,1,2,482,55.8,7.4,1008413
+High,Q92888,ARHGEF1,Rho guanine nucleotide exchange factor 1,4,3,3,4,912,102.4,5.66,913801.0625
+High,P09936,UCHL1,Ubiquitin carboxyl-terminal hydrolase isozyme L1,11,2,2,2,223,24.8,5.48,1175511.375
+High,P34897,SHMT2,"Serine hydroxymethyltransferase, mitochondrial",4,2,2,2,504,56.0,8.53,717597.875
+High,Q96A33,CCDC47,PAT complex subunit CCDC47,2,1,1,2,483,55.8,4.87,873559.75
+High,Q9Y314,NOSIP,Nitric oxide synthase-interacting protein,6,1,1,1,301,33.2,8.82,
+High,A0FGR8,ESYT2,Extended synaptotagmin-2,1,1,1,1,921,102.3,9.26,656064.5
+High,O60828,PQBP1,Polyglutamine-binding protein 1,9,1,1,1,265,30.5,6.33,
+High,P54578,USP14,Ubiquitin carboxyl-terminal hydrolase 14,3,1,1,2,494,56.0,5.3,
+High,P29372,MPG,DNA-3-methyladenine glycosylase,5,1,1,2,298,32.8,9.57,585814.3125
+High,Q9UI12,ATP6V1H,V-type proton ATPase subunit H,7,2,2,2,483,55.8,6.48,783424.25
+High,Q13643,FHL3,Four and a half LIM domains protein 3,4,1,1,1,280,31.2,6.2,830693.9375
+High,Q5RKV6,EXOSC6,Exosome complex component MTR3,6,1,1,1,272,28.2,6.28,
+High,O00483,NDUFA4,Cytochrome c oxidase subunit NDUFA4,12,1,1,2,81,9.4,9.38,2098715
+High,Q13671,RIN1,Ras and Rab interactor 1,2,1,1,1,783,84.0,8.02,803906.4375
+High,P08493,MGP,Matrix Gla protein,11,1,1,1,103,12.3,9.67,578705.125
+High,Q99759,MAP3K3,Mitogen-activated protein kinase kinase kinase 3,1,1,1,1,626,70.9,8.84,1223436.5
+High,Q8WWI1,LMO7,LIM domain only protein 7,1,1,1,1,1683,192.6,8.09,
+High,P61769,B2M,Beta-2-microglobulin,8,1,1,2,119,13.7,6.52,1172384
+High,Q8NDT2,RBM15B,Putative RNA-binding protein 15B,3,2,2,2,890,97.1,9.85,
+High,P62699,YPEL5,Protein yippee-like 5,8,1,1,1,121,13.8,7.31,945625.1875
+High,Q96T51,RUFY1,RUN and FYVE domain-containing protein 1,3,2,2,2,708,79.8,5.74,753425.6875
+High,Q96CS3,FAF2,FAS-associated factor 2,2,1,1,2,445,52.6,5.62,821358.875
+High,Q8IW75,SERPINA12,Serpin A12,2,2,2,3,414,47.1,9.29,1789378.125
+High,P42574,CASP3,Caspase-3,4,1,1,1,277,31.6,6.54,
+High,Q13561,DCTN2,Dynactin subunit 2,2,1,1,2,401,44.2,5.21,1187907.375
+High,Q9NXW2,DNAJB12,DnaJ homolog subfamily B member 12,4,1,1,1,375,41.8,8.69,
+High,Q8NB90,SPATA5,Ribosome biogenesis protein SPATA5,1,1,1,1,893,97.8,5.66,
+High,P00750,PLAT,Tissue-type plasminogen activator,2,1,1,1,562,62.9,7.8,510682.8125
+High,P61224,RAP1B,Ras-related protein Rap-1b,6,1,1,1,184,20.8,5.78,1261813.875
+High,Q12797,ASPH,Aspartyl/asparaginyl beta-hydroxylase,2,2,1,2,758,85.8,5.01,916070.875
+High,Q92530,PSMF1,Proteasome inhibitor PI31 subunit,6,1,1,1,271,29.8,5.74,903733.9375
+High,P16615,ATP2A2,Sarcoplasmic/endoplasmic reticulum calcium ATPase 2,2,2,2,3,1042,114.7,5.34,1456218.4375
+High,P39748,FEN1,Flap endonuclease 1,6,2,2,3,380,42.6,8.62,2159936.1875
+High,Q9UJZ1,STOML2,"Stomatin-like protein 2, mitochondrial",4,1,1,2,356,38.5,7.39,924983.5625
+High,Q12907,LMAN2,Vesicular integral-membrane protein VIP36,10,2,2,2,356,40.2,6.95,1386607.375
+High,Q13098,GPS1,COP9 signalosome complex subunit 1,3,1,1,1,491,55.5,6.74,878012.625
+High,P98160,HSPG2,Basement membrane-specific heparan sulfate proteoglycan core protein,1,2,2,2,4391,468.5,6.51,185414.0625
+High,P62333,PSMC6,26S proteasome regulatory subunit 10B,4,1,1,1,389,44.1,7.49,
+High,Q9NX02,NLRP2,"NACHT, LRR and PYD domains-containing protein 2",2,2,2,2,1062,120.4,6.07,932559.875
+High,Q06265,EXOSC9,Exosome complex component RRP45,2,1,1,1,439,48.9,5.29,549373.25
+High,Q13190,STX5,Syntaxin-5,3,1,1,1,355,39.6,9.16,
+High,O75554,WBP4,WW domain-binding protein 4,3,1,1,1,376,42.5,5.57,
+High,O15533,TAPBP,Tapasin,2,1,1,1,448,47.5,6.99,907940.0625
+High,Q16537,PPP2R5E,Serine/threonine-protein phosphatase 2A 56 kDa regulatory subunit epsilon isoform,2,1,1,2,467,54.7,6.95,718225.875
+High,O43318,MAP3K7,Mitogen-activated protein kinase kinase kinase 7,2,1,1,2,606,67.2,7.11,716511.4375
+High,P50579,METAP2,Methionine aminopeptidase 2,4,1,1,1,478,52.9,5.82,
+High,O43660,PLRG1,Pleiotropic regulator 1,4,2,2,2,514,57.2,9.17,1414816.03125
+High,P35250,RFC2,Replication factor C subunit 2,4,1,1,1,354,39.1,6.44,
+High,Q9H8L6,MMRN2,Multimerin-2,1,1,1,1,949,104.3,5.86,877442.8125
+High,P40938,RFC3,Replication factor C subunit 3,3,1,1,2,356,40.5,8.34,546432.25
+High,P48444,ARCN1,Coatomer subunit delta,2,1,1,2,511,57.2,6.21,
+High,P55209,NAP1L1,Nucleosome assembly protein 1-like 1,3,2,2,2,391,45.3,4.46,592348.5625
+High,A0AVT1,UBA6,Ubiquitin-like modifier-activating enzyme 6,1,1,1,2,1052,117.9,6.14,713979.875
+High,P42704,LRPPRC,"Leucine-rich PPR motif-containing protein, mitochondrial",1,1,1,1,1394,157.8,6.13,981137.8125
+High,Q5T749,KPRP,Keratinocyte proline-rich protein,1,1,1,4,579,64.1,8.27,4674928.5
+High,Q9BWJ5,SF3B5,Splicing factor 3B subunit 5,19,1,1,1,86,10.1,6.35,823067.875
+High,O94979,SEC31A,Protein transport protein Sec31A,1,1,1,1,1220,132.9,6.89,322474.21875
+High,Q8IUR0,TRAPPC5,Trafficking protein particle complex subunit 5,4,1,1,2,188,20.8,9.66,647826.75
+High,O60610,DIAPH1,Protein diaphanous homolog 1,1,1,1,1,1272,141.3,5.41,652090.0625
+High,O75306,NDUFS2,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 2, mitochondrial",2,1,1,2,463,52.5,7.55,804847.8125
+High,Q3LFD5,USP41,Putative ubiquitin carboxyl-terminal hydrolase 41,4,1,1,2,358,41.4,8.03,694622.75
+High,Q8TF09,DYNLRB2,Dynein light chain roadblock-type 2,13,1,1,1,96,10.8,7.5,
+High,P35659,DEK,Protein DEK,3,1,1,2,375,42.6,8.56,844631.125
+High,Q9UBB4,ATXN10,Ataxin-10,4,2,2,2,475,53.5,5.25,931728.03125
+High,Q7LGA3,HS2ST1,Heparan sulfate 2-O-sulfotransferase 1,3,1,1,1,356,41.9,8.69,612793
+High,O60306,AQR,RNA helicase aquarius,1,1,1,1,1485,171.2,6.37,
+High,P07195,LDHB,L-lactate dehydrogenase B chain,4,2,1,3,334,36.6,6.05,840557.625
+High,Q5T750,XP32,Skin-specific protein 32,3,1,1,2,250,26.2,7.97,2272476.25
+High,Q14192,FHL2,Four and a half LIM domains protein 2,4,1,1,2,279,32.2,7.55,2748523
+High,O43865,AHCYL1,S-adenosylhomocysteine hydrolase-like protein 1,2,1,1,1,530,58.9,6.89,658503.75
+High,P48060,GLIPR1,Glioma pathogenesis-related protein 1,6,1,1,4,266,30.3,8.48,17400371.75
+High,Q99714,HSD17B10,3-hydroxyacyl-CoA dehydrogenase type-2,8,2,2,3,261,26.9,7.78,1172208.0625
+High,Q969M3,YIPF5,Protein YIPF5,4,1,1,1,257,28.0,4.36,1140451
+High,P82675,MRPS5,"28S ribosomal protein S5, mitochondrial",6,2,2,3,430,48.0,9.92,527611.125
+High,Q9UBX3,SLC25A10,Mitochondrial dicarboxylate carrier,3,1,1,1,287,31.3,9.54,
+High,Q9H1K4,SLC25A18,Mitochondrial glutamate carrier 2,3,1,1,2,315,33.8,9.25,934595.6875
+High,Q9Y2H6,FNDC3A,Fibronectin type-III domain-containing protein 3A,1,1,1,1,1198,131.8,6.71,
+High,Q6PGP7,SKIC3,SKI3 subunit of superkiller complex protein,2,1,1,1,1564,175.4,7.53,
+High,O43237,DYNC1LI2,Cytoplasmic dynein 1 light intermediate chain 2,2,1,1,2,492,54.1,6.38,824556.8125
+High,O75880,SCO1,"Protein SCO1 homolog, mitochondrial",7,1,1,1,301,33.8,8.88,
+High,P55060,CSE1L,Exportin-2,1,1,1,1,971,110.3,5.77,727404.5
+High,Q9UNF1,MAGED2,Melanoma-associated antigen D2,1,1,1,2,606,64.9,9.32,1093681.625
+High,Q9UFW8,CGGBP1,CGG triplet repeat-binding protein 1,5,1,1,1,167,18.8,8.95,561900.0625
+High,Q16322,KCNA10,Potassium voltage-gated channel subfamily A member 10,2,1,1,1,511,57.7,4.93,828386.4375
+High,Q5T200,ZC3H13,Zinc finger CCCH domain-containing protein 13,2,2,2,3,1668,196.5,9.42,2689911.84375
+High,Q9P2B4,CTTNBP2NL,CTTNBP2 N-terminal-like protein,1,1,1,1,639,70.1,8.06,
+High,P18887,XRCC1,DNA repair protein XRCC1,2,1,1,2,633,69.5,6.28,1376041.25
+High,Q6P1N0,CC2D1A,Coiled-coil and C2 domain-containing protein 1A,1,1,1,1,951,104.0,8.09,
+High,Q99733,NAP1L4,Nucleosome assembly protein 1-like 4,5,1,1,1,375,42.8,4.69,
+High,O00233,PSMD9,26S proteasome non-ATPase regulatory subunit 9,4,1,1,1,223,24.7,6.95,1308737.875
+High,P21796,VDAC1,Voltage-dependent anion-selective channel protein 1,7,2,2,2,283,30.8,8.54,1505509.125
+High,Q9Y241,HIGD1A,"HIG1 domain family member 1A, mitochondrial",19,1,1,1,93,10.1,9.79,
+High,Q9NQC3,RTN4,Reticulon-4,1,1,1,1,1192,129.9,4.5,1102061.75
+High,Q9H2U2,PPA2,"Inorganic pyrophosphatase 2, mitochondrial",3,1,1,1,334,37.9,7.39,660423.6875
+High,Q9NRG1,PRTFDC1,Phosphoribosyltransferase domain-containing protein 1,13,2,1,2,225,25.7,6.15,
+High,P43307,SSR1,Translocon-associated protein subunit alpha,3,1,1,1,286,32.2,4.49,2001370.875
+High,P62891,RPL39,60S ribosomal protein L39,20,1,1,1,51,6.4,12.56,9433219
+High,Q9BZL4,PPP1R12C,Protein phosphatase 1 regulatory subunit 12C,2,1,1,1,782,84.8,5.57,
+High,Q9BRD0,BUD13,BUD13 homolog,2,1,1,2,619,70.5,9.86,2688754.9375
+High,P46087,NOP2,Probable 28S rRNA (cytosine(4447)-C(5))-methyltransferase,1,1,1,1,812,89.2,9.23,
+High,P22681,CBL,E3 ubiquitin-protein ligase CBL,2,1,1,1,906,99.6,6.54,
+High,O75330,HMMR,Hyaluronan mediated motility receptor,2,1,1,1,724,84.0,5.83,
+High,Q9NQH7,XPNPEP3,Xaa-Pro aminopeptidase 3,3,2,2,4,507,57.0,6.83,5219142.75
+High,P09496,CLTA,Clathrin light chain A,4,1,1,1,248,27.1,4.51,1428750.75
+High,O00410,IPO5,Importin-5,1,1,1,1,1097,123.6,4.94,
+High,Q13610,PWP1,Periodic tryptophan protein 1 homolog,3,1,1,1,501,55.8,4.77,
+High,P80217,IFI35,Interferon-induced 35 kDa protein,6,2,2,3,286,31.5,6.09,2472809.875
+High,Q8N1G2,CMTR1,Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1,2,1,1,1,835,95.3,7.05,445733.1875
+High,O00443,PIK3C2A,Phosphatidylinositol 4-phosphate 3-kinase C2 domain-containing subunit alpha,1,1,1,1,1686,190.6,8.02,395356.5
+High,Q9HCG8,CWC22,Pre-mRNA-splicing factor CWC22 homolog,1,1,1,2,908,105.4,7.03,758335.875
+High,P28072,PSMB6,Proteasome subunit beta type-6,5,1,1,1,239,25.3,4.92,657219.0625
+High,Q92609,TBC1D5,TBC1 domain family member 5,1,1,1,2,795,88.9,6.54,570664.0625
+High,Q15555,MAPRE2,Microtubule-associated protein RP/EB family member 2,2,1,1,1,327,37.0,5.57,816870.625
+High,O15018,PDZD2,PDZ domain-containing protein 2,1,1,1,1,2839,301.5,7.43,
+High,Q5HYJ3,FAM76B,Protein FAM76B,3,1,1,1,339,38.7,9.25,
+High,Q9NZM1,MYOF,Myoferlin,1,1,1,3,2061,234.6,6.18,682993.125
+High,Q8ND56,LSM14A,Protein LSM14 homolog A,2,1,1,2,463,50.5,9.52,1059795.875
+High,Q8WVV4,POF1B,Protein POF1B,2,1,1,1,589,68.0,6.32,602742.875
+High,Q9BY89,KIAA1671,Uncharacterized protein KIAA1671,1,1,1,1,1806,196.6,8.47,806120.6875
+High,Q9H3K6,BOLA2B,BolA-like protein 2,21,2,2,2,86,10.1,6.52,1554212.75
+High,Q15042,RAB3GAP1,Rab3 GTPase-activating protein catalytic subunit,1,1,1,1,981,110.5,5.55,410562.3125
+High,O95487,SEC24B,Protein transport protein Sec24B,1,2,2,2,1268,137.3,6.67,1179606.375
+High,Q15021,NCAPD2,Condensin complex subunit 1,1,1,1,1,1401,157.1,6.61,
+High,Q9Y4P3,TBL2,Transducin beta-like protein 2,3,1,1,1,447,49.8,9.44,
+High,Q86YV9,HPS6,BLOC-2 complex member HPS6,1,1,1,1,775,82.9,6.28,672997.125
+High,O95347,SMC2,Structural maintenance of chromosomes protein 2,1,1,1,1,1197,135.6,8.43,477083.1875
+High,Q96B97,SH3KBP1,SH3 domain-containing kinase-binding protein 1,2,1,1,2,665,73.1,6.62,455361.71875
+High,Q92738,USP6NL,USP6 N-terminal-like protein,2,1,1,1,828,94.0,9.07,
+High,O43795,MYO1B,Unconventional myosin-Ib,2,2,2,3,1136,131.9,9.38,874033.75
+High,P28288,ABCD3,ATP-binding cassette sub-family D member 3,1,1,1,1,659,75.4,9.36,
+High,Q9UNE7,STUB1,E3 ubiquitin-protein ligase CHIP,4,1,1,1,303,34.8,5.87,548269.625
+High,O60641,SNAP91,Clathrin coat assembly protein AP180,1,1,1,2,907,92.4,4.86,1102563.5
+High,O76021,RSL1D1,Ribosomal L1 domain-containing protein 1,2,1,1,2,490,54.9,10.13,1577221.75
+High,P52292,KPNA2,Importin subunit alpha-1,5,2,2,2,529,57.8,5.4,924387.3125
+High,Q6QNY0,BLOC1S3,Biogenesis of lysosome-related organelles complex 1 subunit 3,8,1,1,2,202,21.2,5.15,
+High,Q86YR5,GPSM1,G-protein-signaling modulator 1,2,1,1,1,675,74.5,6.54,1268502
+High,P62310,LSM3,U6 snRNA-associated Sm-like protein LSm3,12,1,1,2,102,11.8,4.7,747496.3125
+High,Q8NDH2,CCDC168,Leucine-rich repeat transmembrane protein CCDC168,1,3,3,3,7081,801.4,8.79,727311.5625
+High,Q99570,PIK3R4,Phosphoinositide 3-kinase regulatory subunit 4,2,2,2,3,1358,153.0,7.17,606360.8125
+High,P28290,ITPRID2,Protein ITPRID2,1,1,1,1,1259,138.3,5.19,865678.125
+High,Q9UBV8,PEF1,Peflin,4,1,1,1,284,30.4,6.54,999360.125
+High,Q86Z14,KLB,Beta-klotho,1,1,1,5,1044,119.7,9.22,88303714
+High,Q9Y6E2,BZW2,eIF5-mimic protein 1,4,2,2,2,419,48.1,6.68,506013.125
+High,P11177,PDHB,"Pyruvate dehydrogenase E1 component subunit beta, mitochondrial",4,2,2,3,359,39.2,6.65,1197110.59375
+High,O15357,INPPL1,"Phosphatidylinositol 3,4,5-trisphosphate 5-phosphatase 2",1,1,1,1,1258,138.5,6.54,
+High,P53355,DAPK1,Death-associated protein kinase 1,1,1,1,2,1430,159.9,6.83,861559.75
+High,Q86TJ2,TADA2B,Transcriptional adapter 2-beta,2,1,1,3,420,48.4,7.83,9968706
+High,P49736,MCM2,DNA replication licensing factor MCM2,1,1,1,1,904,101.8,5.52,
+High,Q658Y4,FAM91A1,Protein FAM91A1,2,2,2,2,838,93.9,6.39,1385197.375
+High,Q969V4,TEKT1,Tektin-1,3,1,1,1,418,48.3,6.37,1241475.375
+High,O43172,PRPF4,U4/U6 small nuclear ribonucleoprotein Prp4,2,1,1,1,522,58.4,7.42,
+High,Q8TED1,GPX8,Probable glutathione peroxidase 8,5,1,1,1,209,23.9,9.35,1472779.375
+High,P18206,VCL,Vinculin,1,1,1,2,1134,123.7,5.66,797979.3125
+High,P78417,GSTO1,Glutathione S-transferase omega-1,6,1,1,2,241,27.5,6.6,1253887.75
+High,O95394,PGM3,Phosphoacetylglucosamine mutase,1,1,1,2,542,59.8,6.25,719985.1875
+High,Q9Y697,NFS1,Cysteine desulfurase,4,1,1,1,457,50.2,8.31,
+High,Q9Y5K6,CD2AP,CD2-associated protein,2,1,1,1,639,71.4,6.4,
+High,Q13454,TUSC3,Tumor suppressor candidate 3,3,1,1,2,348,39.7,9.91,608096.1875
+High,Q8N556,AFAP1,Actin filament-associated protein 1,1,1,1,1,730,80.7,8.68,688407.625
+High,P07477,PRSS1,Serine protease 1,3,1,1,1,247,26.5,6.51,663153.625
+High,O00217,NDUFS8,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 8, mitochondrial",5,1,1,2,210,23.7,6.34,
+High,Q96H79,ZC3HAV1L,Zinc finger CCCH-type antiviral protein 1-like,4,1,1,3,300,32.9,8.13,
+High,P28070,PSMB4,Proteasome subunit beta type-4,3,1,1,1,264,29.2,5.97,
+High,P20930,FLG,Filaggrin,0,1,1,2,4061,434.9,9.25,676231.625
+High,Q15020,SART3,Squamous cell carcinoma antigen recognized by T-cells 3,1,1,1,2,963,109.9,5.57,701363.5625
+High,P61923,COPZ1,Coatomer subunit zeta-1,8,1,1,1,177,20.2,4.81,
+High,Q9H4H8,FAM83D,Protein FAM83D,3,2,2,2,585,64.4,6.54,1010659.0625
+High,P30101,PDIA3,Protein disulfide-isomerase A3,2,1,1,1,505,56.7,6.35,307978.75
+High,O00116,AGPS,"Alkyldihydroxyacetonephosphate synthase, peroxisomal",2,1,1,1,658,72.9,7.34,
+High,Q15370,ELOB,Elongin-B,6,1,1,2,118,13.1,4.88,1945122.25
+High,P49748,ACADVL,"Very long-chain specific acyl-CoA dehydrogenase, mitochondrial",3,1,1,1,655,70.3,8.75,551819.1875
+High,O15260,SURF4,Surfeit locus protein 4,3,1,1,2,269,30.4,7.78,965676.875
+High,P20073,ANXA7,Annexin A7,2,1,1,2,488,52.7,5.68,959903.125
+High,P38606,ATP6V1A,V-type proton ATPase catalytic subunit A,3,1,1,1,617,68.3,5.52,
+High,Q96EK4,THAP11,THAP domain-containing protein 11,3,1,1,1,314,34.4,8.98,
+High,Q9H8Y5,ANKZF1,Ankyrin repeat and zinc finger domain-containing protein 1,2,1,1,1,726,80.9,8.41,13185214
+High,O95786,RIGI,Antiviral innate immune response receptor RIG-I,1,1,1,2,925,106.5,6.4,714239.25
+High,P00568,AK1,Adenylate kinase isoenzyme 1,6,1,1,1,194,21.6,8.63,
+High,Q6NUK1,SLC25A24,Mitochondrial adenyl nucleotide antiporter SLC25A24,3,1,1,1,477,53.3,6.33,706923.125
+High,Q4ADV7,RIC1,Guanine nucleotide exchange factor subunit RIC1,2,1,1,1,1423,159.2,6.38,2330756.25
+High,Q5T7N8,FAM27D1,Protein FAM27D1,6,1,1,1,215,24.9,11.93,
+High,P19532,TFE3,Transcription factor E3,2,1,1,1,575,61.5,5.58,345456.125
+High,Q8N8U3,RTL3,Retrotransposon Gag-like protein 3,3,1,1,1,475,52.8,4.48,787921.0625
+High,Q96A65,EXOC4,Exocyst complex component 4,3,2,2,2,974,110.4,6.49,400656.28125
+High,Q6P1M0,SLC27A4,Long-chain fatty acid transport protein 4,1,1,1,1,643,72.0,8.47,628474.0625
+High,O95067,CCNB2,G2/mitotic-specific cyclin-B2,4,1,1,1,398,45.3,8.9,
+High,Q16204,CCDC6,Coiled-coil domain-containing protein 6,3,1,1,1,474,53.3,7.34,
+High,Q9Y6Q5,AP1M2,AP-1 complex subunit mu-2,2,1,1,2,423,48.1,8.22,575094.8125
+High,P36957,DLST,"Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex, mitochondrial",3,1,1,1,453,48.7,8.95,
+High,P17252,PRKCA,Protein kinase C alpha type,2,1,1,1,672,76.7,7.05,
+High,O60264,SMARCA5,SWI/SNF-related matrix-associated actin-dependent regulator of chromatin subfamily A member 5,2,2,2,3,1052,121.8,8.09,2848941.625
+High,Q0PNE2,ELP6,Elongator complex protein 6,6,1,1,1,266,29.8,6.84,482547.1875
+High,O95749,GGPS1,Geranylgeranyl pyrophosphate synthase,2,1,1,4,300,34.8,6.14,2412821.75
+High,Q9UJX2,CDC23,Cell division cycle protein 23 homolog,3,2,2,3,597,68.8,7.02,526748.625
+High,O43920,NDUFS5,NADH dehydrogenase [ubiquinone] iron-sulfur protein 5,7,1,1,1,106,12.5,9.14,708782.5625
+High,Q9Y4W6,AFG3L2,AFG3-like protein 2,1,1,1,2,797,88.5,8.66,
+High,P15172,MYOD1,Myoblast determination protein 1,3,1,1,2,320,34.5,5.86,795439.4375
+Medium,P57737,CORO7,Coronin-7,2,1,1,1,925,100.5,5.8,513238.15625
+Medium,O95714,HERC2,E3 ubiquitin-protein ligase HERC2,1,2,2,2,4834,526.9,6.28,694707.75
+Medium,O43674,NDUFB5,"NADH dehydrogenase [ubiquinone] 1 beta subcomplex subunit 5, mitochondrial",10,2,2,2,189,21.7,9.63,
+Medium,Q9Y5S9,RBM8A,RNA-binding protein 8A,5,1,1,1,174,19.9,5.72,2050644.125
+Medium,P33991,MCM4,DNA replication licensing factor MCM4,1,1,1,1,863,96.5,6.74,890996.25
+Medium,P12270,TPR,Nucleoprotein TPR,0,1,1,1,2363,267.1,5.02,2004647.625
+Medium,Q5K651,SAMD9,Sterile alpha motif domain-containing protein 9,2,2,2,2,1589,184.2,7.83,532283.0625
+Medium,O14949,UQCRQ,Cytochrome b-c1 complex subunit 8,10,1,1,2,82,9.9,10.08,1476011.875
+Medium,Q68CQ1,MROH7,Maestro heat-like repeat-containing protein family member 7,1,1,1,3,1323,145.6,6.96,9104926
+Medium,Q9H6D7,HAUS4,HAUS augmin-like complex subunit 4,5,2,2,2,363,42.4,5.68,2193271.5
+Medium,P46060,RANGAP1,Ran GTPase-activating protein 1,3,1,1,1,587,63.5,4.68,
+Medium,Q13618,CUL3,Cullin-3,1,1,1,1,768,88.9,8.48,799249.3125
+Medium,Q8WZ42,TTN,Titin,0,3,2,4,34350,3813.7,6.35,1920503.875
+Medium,P82914,MRPS15,"28S ribosomal protein S15, mitochondrial",3,1,1,2,257,29.8,10.48,1269169.625
+Medium,Q9BSK0,MARVELD1,MARVEL domain-containing protein 1,4,1,1,2,173,18.9,9.6,881477.1875
+Medium,P35754,GLRX,Glutaredoxin-1,10,1,1,1,106,11.8,8.09,
+Medium,Q15070,OXA1L,Mitochondrial inner membrane protein OXA1L,2,1,1,2,435,48.5,9.45,943749.875
+Medium,Q9UG01,IFT172,Intraflagellar transport protein 172 homolog,0,1,1,1,1749,197.5,6.13,
+Medium,P05120,SERPINB2,Plasminogen activator inhibitor 2,2,1,1,1,415,46.6,5.63,
+Medium,Q9Y3D9,MRPS23,"28S ribosomal protein S23, mitochondrial",5,1,1,1,190,21.8,8.9,854349.0625
+Medium,Q9BQA1,WDR77,Methylosome protein 50,2,1,1,2,342,36.7,5.17,2054881.75
+Medium,Q9UGI8,TES,Testin,3,1,1,1,421,48.0,7.68,811211.375
+Medium,Q92599,SEPTIN8,Septin-8,2,1,1,3,483,55.7,6.28,2618203.125
+Medium,Q9GZP4,PITHD1,PITH domain-containing protein 1,4,1,1,1,211,24.2,5.74,
+Medium,P56715,RP1,Oxygen-regulated protein 1,1,1,1,2,2156,240.5,5.8,442836.875
+Medium,Q99471,PFDN5,Prefoldin subunit 5,12,1,1,1,154,17.3,6.33,1901741.125
+Medium,O75934,BCAS2,Pre-mRNA-splicing factor SPF27,6,1,1,2,225,26.1,5.66,
+Medium,Q9UPN6,SCAF8,SR-related and CTD-associated factor 8,1,1,1,1,1271,140.4,8.29,
+Medium,Q96S97,MYADM,Myeloid-associated differentiation marker,3,1,1,1,322,35.3,8.15,867374.625
+Medium,Q9UL33,TRAPPC2L,Trafficking protein particle complex subunit 2-like protein,9,1,1,1,140,16.1,6.77,
+Medium,O43615,TIMM44,Mitochondrial import inner membrane translocase subunit TIM44,3,1,1,1,452,51.3,8.32,1574300.625
+Medium,P02771,AFP,Alpha-fetoprotein,1,1,1,5,609,68.6,5.68,9857969.125
+Medium,Q92729,PTPRU,Receptor-type tyrosine-protein phosphatase U,1,1,1,1,1446,162.3,6.92,
+Medium,Q8TDH9,BLOC1S5,Biogenesis of lysosome-related organelles complex 1 subunit 5,7,1,1,1,187,21.6,7.59,
+Medium,P40937,RFC5,Replication factor C subunit 5,4,1,1,1,340,38.5,7.2,1485815.625
+Medium,P57764,GSDMD,Gasdermin-D,2,1,1,1,484,52.8,5.08,
+Medium,Q92820,GGH,Gamma-glutamyl hydrolase,3,1,1,1,318,35.9,7.11,
+Medium,Q96BY6,DOCK10,Dedicator of cytokinesis protein 10,1,1,1,1,2186,249.4,7.14,
+Medium,Q9C0A0,CNTNAP4,Contactin-associated protein-like 4,1,1,1,2,1308,145.2,6.68,9548031
+Medium,Q8IXQ4,GPALPP1,GPALPP motifs-containing protein 1,4,1,1,1,340,38.1,5.41,586248.0625
+Medium,P19367,HK1,Hexokinase-1,1,1,1,2,917,102.4,6.8,609878.5
+Medium,Q9H2G2,SLK,STE20-like serine/threonine-protein kinase,1,1,1,1,1235,142.6,5.15,708563.8125
+Medium,O43819,SCO2,"Protein SCO2 homolog, mitochondrial",3,1,1,1,266,29.8,8.85,
+Medium,O00442,RTCA,RNA 3'-terminal phosphate cyclase,3,1,1,1,366,39.3,7.85,670962.3125
+Medium,O96009,NAPSA,Napsin-A,2,1,1,1,420,45.4,6.61,1536467.875
+Medium,Q9NRX1,PNO1,RNA-binding protein PNO1,6,1,1,1,252,27.9,9.73,1632706.75
+Medium,O94992,HEXIM1,Protein HEXIM1,4,1,1,1,359,40.6,4.89,469563.21875
+Medium,Q9Y5B8,NME7,Nucleoside diphosphate kinase 7,3,1,1,1,376,42.5,6.47,
+Medium,P47813,EIF1AX,"Eukaryotic translation initiation factor 1A, X-chromosomal",11,1,1,1,144,16.5,5.24,745764.25
+Medium,Q96PE2,ARHGEF17,Rho guanine nucleotide exchange factor 17,1,1,1,1,2063,221.5,6.29,482303.3125
+Medium,Q9UK55,SERPINA10,Protein Z-dependent protease inhibitor,2,1,1,1,444,50.7,8.27,
+Medium,Q92539,LPIN2,Phosphatidate phosphatase LPIN2,3,2,2,2,896,99.3,5.33,
+Medium,P00739,HPR,Haptoglobin-related protein,2,1,1,1,348,39.0,7.09,
+Medium,P30044,PRDX5,"Peroxiredoxin-5, mitochondrial",5,1,1,1,214,22.1,8.7,848869.375
+Medium,Q86UU1,PHLDB1,Pleckstrin homology-like domain family B member 1,1,2,1,2,1377,151.1,8.63,
+Medium,Q01433,AMPD2,AMP deaminase 2,1,1,1,1,879,100.6,6.93,641524.25
+Medium,P19174,PLCG1,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1",1,1,1,1,1290,148.4,6.05,
+Medium,Q9BRP1,PDCD2L,Programmed cell death protein 2-like,3,1,1,1,358,39.4,4.86,
+Medium,Q9UKJ3,GPATCH8,G patch domain-containing protein 8,1,1,1,1,1502,164.1,8.66,365027.65625
+Medium,Q96LB3,IFT74,Intraflagellar transport protein 74 homolog,2,1,1,1,600,69.2,6.0,
+Medium,Q5QJ74,TBCEL,Tubulin-specific chaperone cofactor E-like protein,2,1,1,2,424,48.2,5.38,1976297.875
+Medium,Q7RTV0,PHF5A,PHD finger-like domain-containing protein 5A,6,1,1,2,110,12.4,8.41,1363453.625
+Medium,O14730,RIOK3,Serine/threonine-protein kinase RIO3,2,1,1,1,519,59.1,5.76,
+Medium,Q9NYL4,FKBP11,Peptidyl-prolyl cis-trans isomerase FKBP11,9,1,1,1,201,22.2,9.39,631123.4375
+Medium,Q08462,ADCY2,Adenylate cyclase type 2,1,1,1,1,1091,123.5,8.09,
+Medium,Q5JR59,MTUS2,Microtubule-associated tumor suppressor candidate 2,1,1,1,2,1369,150.1,6.68,11431614
+Medium,O75592,MYCBP2,E3 ubiquitin-protein ligase MYCBP2,0,1,1,1,4678,513.3,7.02,850691.5625
+Medium,Q6ZTR5,CFAP47,Cilia- and flagella-associated protein 47,0,1,1,2,3187,361.4,7.56,1164054.875
+Medium,Q9Y3X0,CCDC9,Coiled-coil domain-containing protein 9,2,1,1,2,531,59.7,5.4,911404.8125
+Medium,Q9ULS6,KCNS2,Potassium voltage-gated channel subfamily S member 2,2,1,1,2,477,54.2,5.86,2306433
+Medium,Q68CZ6,HAUS3,HAUS augmin-like complex subunit 3,2,1,1,1,603,69.6,5.55,
+Medium,Q9H9T3,ELP3,Elongator complex protein 3,2,1,1,1,547,62.2,8.88,372684.96875
+Medium,Q96RR4,CAMKK2,Calcium/calmodulin-dependent protein kinase kinase 2,2,1,1,1,588,64.7,6.68,515907.75
+Medium,Q96JI7,SPG11,Spatacsin,0,1,1,2,2443,278.7,5.97,3569761.25
+Medium,Q92736,RYR2,Ryanodine receptor 2,0,1,1,4,4967,564.2,6.07,131903901.625
+Medium,P16885,PLCG2,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-2",1,1,1,1,1265,147.8,6.64,1350337.625
+Medium,O15173,PGRMC2,Membrane-associated progesterone receptor component 2,4,1,1,1,223,23.8,4.88,
+Medium,Q8NHU6,TDRD7,Tudor domain-containing protein 7,1,1,1,1,1098,123.5,7.21,328750.0625
+Medium,Q5GLZ8,HERC4,Probable E3 ubiquitin-protein ligase HERC4,2,2,2,2,1057,118.5,6.19,
+Medium,Q8N163,CCAR2,Cell cycle and apoptosis regulator protein 2,1,1,1,1,923,102.8,5.22,
+Medium,Q9UFH2,DNAH17,Dynein axonemal heavy chain 17,1,2,2,2,4462,509.0,5.72,603950.25
+Medium,O43747,AP1G1,AP-1 complex subunit gamma-1,1,1,1,2,822,91.3,6.8,500798
+Medium,P33151,CDH5,Cadherin-5,1,1,1,2,784,87.5,5.43,644185.25
+Medium,Q9Y6W3,CAPN7,Calpain-7,1,1,1,1,813,92.6,7.65,1522955
+Medium,Q9UPR0,PLCL2,Inactive phospholipase C-like protein 2,1,1,1,2,1127,125.8,6.9,4027467.75
+Medium,P08922,ROS1,Proto-oncogene tyrosine-protein kinase ROS,1,2,2,3,2347,263.7,6.11,30957487.6875
+Medium,Q14669,TRIP12,E3 ubiquitin-protein ligase TRIP12,1,1,1,1,1992,220.3,8.48,
+Medium,O15075,DCLK1,Serine/threonine-protein kinase DCLK1,1,1,1,1,740,82.2,8.66,
+Medium,P25440,BRD2,Bromodomain-containing protein 2,4,1,1,1,801,88.0,9.09,
+Medium,Q9BQ69,MACROD1,ADP-ribose glycohydrolase MACROD1,3,1,1,1,325,35.5,9.51,2049800.125
+Medium,Q92541,RTF1,RNA polymerase-associated protein RTF1 homolog,2,1,1,2,710,80.3,8.15,
+Medium,Q569K4,ZNF385B,Zinc finger protein 385B,3,1,1,1,471,50.4,9.89,
+Medium,Q5VWK5,IL23R,Interleukin-23 receptor,1,1,1,2,629,71.7,5.49,2081408.75
+Medium,Q8IWR0,ZC3H7A,Zinc finger CCCH domain-containing protein 7A,1,1,1,1,971,110.5,7.3,
+Medium,P00403,MT-CO2,Cytochrome c oxidase subunit 2,4,1,1,2,227,25.5,4.82,1090361.25
+Medium,Q9UKZ1,CNOT11,CCR4-NOT transcription complex subunit 11,2,1,1,1,510,55.2,6.4,515282.9375
+Medium,O95972,BMP15,Bone morphogenetic protein 15,2,1,1,2,392,45.0,9.11,2557567
+Medium,Q96HA7,TONSL,Tonsoku-like protein,1,1,1,1,1378,150.8,6.42,
+Medium,Q96FS4,SIPA1,Signal-induced proliferation-associated protein 1,1,1,1,1,1042,112.1,6.6,328858.15625
+Medium,Q2M389,WASHC4,WASH complex subunit 4,1,1,1,2,1173,136.3,7.44,
+Medium,P09913,IFIT2,Interferon-induced protein with tetratricopeptide repeats 2,1,1,1,2,472,54.6,6.76,1106251.25
+Medium,Q96DA0,ZG16B,Zymogen granule protein 16 homolog B,4,1,1,1,208,22.7,7.39,481888.40625
+Medium,O43426,SYNJ1,Synaptojanin-1,2,1,1,1,1573,173.0,7.42,
+Medium,Q96RF0,SNX18,Sorting nexin-18,3,1,1,1,628,68.9,5.68,
+Medium,Q9UHD8,SEPTIN9,Septin-9,2,1,1,1,586,65.4,8.97,816864.25
+Medium,Q00535,CDK5,Cyclin-dependent kinase 5,5,1,1,1,292,33.3,7.66,
+Medium,Q96S55,WRNIP1,ATPase WRNIP1,1,1,1,1,665,72.1,6.1,818572.375
+Medium,Q9Y6C9,MTCH2,Mitochondrial carrier homolog 2,3,1,1,1,303,33.3,7.97,634792.875
+Medium,Q9H910,JPT2,Jupiter microtubule associated homolog 2,7,1,1,1,190,20.1,9.26,
+Medium,Q15629,TRAM1,Translocating chain-associated membrane protein 1,3,1,1,1,374,43.0,9.63,465143.15625
+Medium,Q9Y6B6,SAR1B,GTP-binding protein SAR1b,9,1,1,1,198,22.4,6.11,3833259
+Medium,P82912,MRPS11,"28S ribosomal protein S11, mitochondrial",6,1,1,1,194,20.6,10.81,515087.375
+Medium,Q9H6R7,WDCP,WD repeat and coiled-coil-containing protein,2,2,2,2,721,79.1,6.7,921707.375
+Medium,Q9BVK6,TMED9,Transmembrane emp24 domain-containing protein 9,4,1,1,2,235,27.3,8.02,470089.59375
+Medium,Q9C035,TRIM5,Tripartite motif-containing protein 5,2,1,1,1,493,56.3,6.05,
+Medium,Q9BQ70,TCF25,Transcription factor 25,3,2,2,2,676,76.6,6.35,557056.5
+Medium,Q96E17,RAB3C,Ras-related protein Rab-3C,4,1,1,1,227,25.9,5.24,1008578.5625
+Medium,Q9NXE8,CWC25,Pre-mRNA-splicing factor CWC25 homolog,2,1,1,2,425,49.6,10.18,471726.6875
+Medium,P16435,POR,NADPH--cytochrome P450 reductase,1,1,1,1,677,76.6,5.58,
+Medium,Q9UL54,TAOK2,Serine/threonine-protein kinase TAO2,1,1,1,1,1235,138.2,7.27,501099.46875
+Medium,O94923,GLCE,D-glucuronyl C5-epimerase,2,1,1,1,617,70.1,8.97,
+Medium,Q9H792,PEAK1,Inactive tyrosine-protein kinase PEAK1,1,1,1,1,1746,193.0,6.89,
+Medium,Q9Y305,ACOT9,"Acyl-coenzyme A thioesterase 9, mitochondrial",3,1,1,1,439,49.9,8.6,730562.5625
+Medium,Q53T59,HS1BP3,HCLS1-binding protein 3,3,1,1,1,392,42.8,5.01,1383828.25
+Medium,Q7Z4H7,HAUS6,HAUS augmin-like complex subunit 6,1,1,1,1,955,108.6,6.47,
+Medium,Q96AC6,KIFC2,Kinesin-like protein KIFC2,2,1,1,2,838,90.1,9.48,27339994
+Medium,Q8WUA4,GTF3C2,General transcription factor 3C polypeptide 2,1,1,1,1,911,100.6,7.31,979382.1875
+Medium,Q9Y487,ATP6V0A2,V-type proton ATPase 116 kDa subunit a 2,1,1,1,2,856,98.0,6.61,939611.1875
+Medium,P51553,IDH3G,"Isocitrate dehydrogenase [NAD] subunit gamma, mitochondrial",3,1,1,2,393,42.8,8.5,577125.9375
+Medium,Q8NBJ5,COLGALT1,Procollagen galactosyltransferase 1,1,1,1,1,622,71.6,7.31,467945.625
+Medium,Q03052,POU3F1,"POU domain, class 3, transcription factor 1",2,1,1,5,451,45.5,7.74,145663924
+Medium,A4D2H0,CTAGE15,cTAGE family member 15,4,2,2,3,777,87.8,5.24,4495748.8125
+Medium,P41214,EIF2D,Eukaryotic translation initiation factor 2D,2,1,1,2,584,64.7,7.65,769493.8125
+Medium,Q9Y6Y0,IVNS1ABP,Influenza virus NS1A-binding protein,2,1,1,1,642,71.7,5.53,469033.78125
+Medium,I1YAP6,TRIM77,Tripartite motif-containing protein 77,1,1,1,2,450,52.4,8.19,2328560
+Medium,Q6FI81,CIAPIN1,Anamorsin,4,1,1,2,312,33.6,5.62,1126992.5
+Medium,Q68CZ1,RPGRIP1L,Protein fantom,1,1,1,2,1315,151.1,5.35,930810.875
+Medium,Q969X5,ERGIC1,Endoplasmic reticulum-Golgi intermediate compartment protein 1,3,1,1,1,290,32.6,7.06,
+Medium,Q9NYQ6,CELSR1,Cadherin EGF LAG seven-pass G-type receptor 1,0,1,1,2,3014,329.3,5.92,1564996.5
+Medium,O95747,OXSR1,Serine/threonine-protein kinase OSR1,3,2,2,2,527,58.0,6.43,494773.6875
+Medium,P30085,CMPK1,UMP-CMP kinase,4,1,1,1,196,22.2,5.57,559073.5
+Medium,Q9NQS1,AVEN,Cell death regulator Aven,2,1,1,1,362,38.5,4.98,647359
+Medium,Q9BXX3,ANKRD30A,Ankyrin repeat domain-containing protein 30A,2,1,1,2,1397,158.7,6.48,
+Medium,O75489,NDUFS3,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 3, mitochondrial",5,1,1,2,264,30.2,7.5,1203989.625
+Medium,Q9BQ61,TRIR,Telomerase RNA component interacting RNase,15,1,1,1,176,18.4,9.44,
+Medium,O15305,PMM2,Phosphomannomutase 2,3,1,1,1,246,28.1,6.77,
+Medium,Q9UF33,EPHA6,Ephrin type-A receptor 6,1,1,1,1,1036,116.3,6.98,
+Medium,Q9H1Z9,TSPAN10,Tetraspanin-10,4,1,1,2,355,36.5,5.86,6802840.5
+Medium,Q9ULD0,OGDHL,"2-oxoglutarate dehydrogenase-like, mitochondrial",1,1,1,1,1010,114.4,6.65,1433323.875
+Medium,Q9NR09,BIRC6,Baculoviral IAP repeat-containing protein 6,0,1,1,2,4857,529.9,6.05,2432798
+Medium,Q96EK5,KIFBP,KIF-binding protein,1,1,1,2,621,71.8,5.49,
+Medium,Q15434,RBMS2,"RNA-binding motif, single-stranded-interacting protein 2",1,1,1,2,407,43.9,9.07,2267500
+Medium,Q92839,HAS1,Hyaluronan synthase 1,1,1,1,1,578,64.8,9.19,
+Medium,P02100,HBE1,Hemoglobin subunit epsilon,7,1,1,2,147,16.2,8.63,3538364.75
+Medium,Q5TAT6,COL13A1,Collagen alpha-1(XIII) chain,2,1,1,1,717,69.9,9.17,1005502.4375
+Medium,Q9NYC9,DNAH9,Dynein axonemal heavy chain 9,0,1,1,1,4486,511.6,5.91,
+Medium,P27658,COL8A1,Collagen alpha-1(VIII) chain,1,1,1,1,744,73.3,9.61,684058.5625
+Medium,P08243,ASNS,Asparagine synthetase [glutamine-hydrolyzing],2,1,1,1,561,64.3,6.86,
+Medium,Q9ULM3,YEATS2,YEATS domain-containing protein 2,0,1,1,1,1422,150.7,8.98,831845.5625
+Medium,P61011,SRP54,Signal recognition particle subunit SRP54,3,1,1,1,504,55.7,8.75,
+Medium,Q13459,MYO9B,Unconventional myosin-IXb,0,1,1,2,2157,243.2,8.75,745230.5625
+Medium,Q9H0A0,NAT10,RNA cytidine acetyltransferase,1,1,1,1,1025,115.7,8.27,
+Medium,O75152,ZC3H11A,Zinc finger CCCH domain-containing protein 11A,1,1,1,1,810,89.1,8.37,4233934.5
+Medium,Q92797,SYMPK,Symplekin,1,1,1,1,1274,141.1,6.13,
+Medium,Q13393,PLD1,Phospholipase D1,1,1,1,1,1074,124.1,8.78,
+Medium,Q9Y296,TRAPPC4,Trafficking protein particle complex subunit 4,4,1,1,1,219,24.3,6.21,916609.1875
+Medium,O43395,PRPF3,U4/U6 small nuclear ribonucleoprotein Prp3,1,1,1,1,683,77.5,9.5,879996.6875
+Medium,O60763,USO1,General vesicular transport factor p115,1,1,1,1,962,107.8,4.91,550662.4375
+Medium,Q6ZV29,PNPLA7,Patatin-like phospholipase domain-containing protein 7,0,1,1,1,1317,145.6,7.74,2348022.5
+Low,P49959,MRE11,Double-strand break repair protein MRE11,2,1,1,1,708,80.5,5.9,379701.03125
+Low,Q14833,GRM4,Metabotropic glutamate receptor 4,1,1,1,2,912,101.8,8.82,9073856
+Low,Q9NVI1,FANCI,Fanconi anemia group I protein,0,1,1,2,1328,149.2,6.74,5783979
+Low,Q15878,CACNA1E,Voltage-dependent R-type calcium channel subunit alpha-1E,1,1,1,1,2313,261.6,8.24,1491090.5
+Low,P26358,DNMT1,DNA (cytosine-5)-methyltransferase 1,1,2,2,2,1616,183.1,7.75,809453.8125
+Low,Q56VL3,OCIAD2,OCIA domain-containing protein 2,8,1,1,1,154,16.9,9.03,
+Low,Q96D46,NMD3,60S ribosomal export protein NMD3,3,1,1,1,503,57.6,7.14,
+Low,Q96JB1,DNAH8,Dynein axonemal heavy chain 8,0,1,1,1,4490,514.3,6.32,1662837.125
+Low,P31948,STIP1,Stress-induced-phosphoprotein 1,2,1,1,2,543,62.6,6.8,1129845.25
+Low,Q96QE4,LRRC37B,Leucine-rich repeat-containing protein 37B,1,1,1,1,947,105.5,4.91,618117.875
+Low,Q14789,GOLGB1,Golgin subfamily B member 1,1,1,1,1,3259,375.8,5.0,
+Low,P51572,BCAP31,B-cell receptor-associated protein 31,4,1,1,1,246,28.0,8.44,
+Low,Q8NHQ1,CEP70,Centrosomal protein of 70 kDa,2,1,1,2,597,69.7,5.71,9028112
+Low,P54886,ALDH18A1,Delta-1-pyrroline-5-carboxylate synthase,2,1,1,1,795,87.2,7.12,695971.9375
+Low,P15621,ZNF44,Zinc finger protein 44,2,1,1,1,663,76.5,8.68,
+Low,Q6UUV7,CRTC3,CREB-regulated transcription coactivator 3,2,1,1,2,619,66.9,6.84,900076.5
+Low,Q9ULW0,TPX2,Targeting protein for Xklp2,2,1,1,1,747,85.6,9.23,
+Low,Q68E01,INTS3,Integrator complex subunit 3,2,1,1,2,1043,118.0,5.8,827869.625
+Low,Q96EB1,ELP4,Elongator complex protein 4,3,1,1,1,424,46.6,8.51,
+Low,Q9H598,SLC32A1,Vesicular inhibitory amino acid transporter,1,1,1,2,525,57.4,6.64,1507005.875
+Low,Q8IVF7,FMNL3,Formin-like protein 3,1,1,1,1,1028,117.1,6.65,1070412.125
+Low,Q9NP78,ABCB9,ABC-type oligopeptide transporter ABCB9,1,1,1,1,766,84.4,7.93,68502.8359375
+Low,Q13625,TP53BP2,Apoptosis-stimulating of p53 protein 2,1,1,1,1,1128,125.5,6.07,
+Low,Q9H871,RMND5A,E3 ubiquitin-protein transferase RMND5A,3,1,1,1,391,44.0,6.06,748447.6875
+Low,Q08378,GOLGA3,Golgin subfamily A member 3,1,1,1,1,1498,167.3,5.44,437134.4375
+Low,Q9BTD8,RBM42,RNA-binding protein 42,1,1,1,1,480,50.4,9.63,572225.8125
+Low,Q9BXI6,TBC1D10A,TBC1 domain family member 10A,2,1,1,4,508,57.1,8.44,31012486.5
+Low,P49840,GSK3A,Glycogen synthase kinase-3 alpha,3,1,1,1,483,50.9,8.75,
+Low,Q12947,FOXF2,Forkhead box protein F2,2,1,1,1,444,46.0,9.0,
+Low,Q0IIM8,TBC1D8B,TBC1 domain family member 8B,1,1,1,2,1120,128.6,5.95,1098611.125
+Low,Q9H0N5,PCBD2,Pterin-4-alpha-carbinolamine dehydratase 2,12,1,1,1,130,14.4,9.11,2095989.25
+Low,Q13043,STK4,Serine/threonine-protein kinase 4,3,1,1,1,487,55.6,5.07,
+Low,O95084,PRSS23,Serine protease 23,2,1,1,2,383,43.0,9.42,1751321.5
+Low,Q9H7M6,ZSWIM4,Zinc finger SWIM domain-containing protein 4,1,1,1,1,989,110.1,7.06,
+Low,O15021,MAST4,Microtubule-associated serine/threonine-protein kinase 4,1,2,2,3,2623,283.9,8.62,112150.3828125
+Low,Q9P2P5,HECW2,E3 ubiquitin-protein ligase HECW2,1,1,1,2,1572,175.7,5.41,1385478.875
+Low,Q9Y2Y9,KLF13,Krueppel-like factor 13,7,1,1,1,288,31.2,9.54,29025.33203125
+Low,Q05397,PTK2,Focal adhesion kinase 1,1,1,1,1,1052,119.2,6.62,710523.5625
+Low,A6NNF4,ZNF726,Zinc finger protein 726,2,1,1,1,616,71.3,9.03,3747846
+Low,Q5BKZ1,ZNF326,DBIRD complex subunit ZNF326,2,1,1,1,582,65.6,5.15,
+Low,Q9BYD6,MRPL1,"39S ribosomal protein L1, mitochondrial",6,1,1,1,325,36.9,8.78,
+Low,Q6ZV73,FGD6,"FYVE, RhoGEF and PH domain-containing protein 6",1,1,1,1,1430,160.7,7.03,
+Low,Q6MZP7,LIN54,Protein lin-54 homolog,2,1,1,2,749,79.4,9.01,
+Low,Q9UKX5,ITGA11,Integrin alpha-11,3,1,1,1,1188,133.4,6.7,962625.3125
+Low,Q7Z3B3,KANSL1,KAT8 regulatory NSL complex subunit 1,1,1,1,1,1105,121.0,8.81,
+Low,Q13009,TIAM1,Rho guanine nucleotide exchange factor TIAM1,1,1,1,1,1591,177.4,6.61,
+Low,Q5T5S1,CCDC183,Coiled-coil domain-containing protein 183,2,1,1,1,534,62.6,8.79,514962.9375
+Low,O95503,CBX6,Chromobox protein homolog 6,2,1,1,2,412,43.9,10.01,1627110.125
+Low,Q8TDI0,CHD5,Chromodomain-helicase-DNA-binding protein 5,1,1,1,1,1954,222.9,6.15,1790069.5
+Low,O15511,ARPC5,Actin-related protein 2/3 complex subunit 5,4,1,1,2,151,16.3,5.67,543868.75
+Low,Q96RT7,TUBGCP6,Gamma-tubulin complex component 6,1,1,1,2,1819,200.4,6.32,332133.25
+Low,A6NMD2,GOLGA8J,Golgin subfamily A member 8J,2,1,1,1,632,71.7,8.29,26027184
+Low,Q8NI35,PATJ,InaD-like protein,0,1,1,2,1801,196.2,4.94,1385313.375
+Low,Q9H4I2,ZHX3,Zinc fingers and homeoboxes protein 3,2,1,1,1,956,104.6,6.07,1310048.875
+Low,P08476,INHBA,Inhibin beta A chain,2,1,1,1,426,47.4,8.03,513151.28125
+Low,Q7Z478,DHX29,ATP-dependent RNA helicase DHX29,1,1,1,1,1369,155.1,8.09,
+Low,O43592,XPOT,Exportin-T,1,1,1,1,962,109.9,5.39,599379
+Low,Q9NTJ3,SMC4,Structural maintenance of chromosomes protein 4,2,2,2,2,1288,147.1,6.79,1524686.6875
+Low,Q13099,IFT88,Intraflagellar transport protein 88 homolog,1,1,1,1,824,93.1,6.25,600304.125
+Low,Q15751,HERC1,Probable E3 ubiquitin-protein ligase HERC1,0,1,1,2,4861,531.9,6.04,20945918
+Low,Q8IVL0,NAV3,Neuron navigator 3,1,1,1,1,2385,255.5,8.76,1243320.25
+Low,P32926,DSG3,Desmoglein-3,3,1,1,1,999,107.5,5.0,
+Low,Q96JM2,ZNF462,Zinc finger protein 462,0,1,1,1,2506,284.5,7.58,
+Low,Q9C0D4,ZNF518B,Zinc finger protein 518B,2,1,1,1,1074,119.5,9.45,
+Low,P53816,PLAAT3,Phospholipase A and acyltransferase 3,7,1,1,1,162,17.9,7.99,673858.0625
+Low,Q8NB25,FAM184A,Protein FAM184A,1,1,1,1,1140,132.9,5.83,
+Low,A6NNC1,P12LL_HUMAN,Putative POM121-like protein 1-like,1,1,1,2,897,94.0,10.26,1773436.25
+Low,Q99497,PARK7,Parkinson disease protein 7,4,1,1,2,189,19.9,6.79,587436.5625
+Low,Q8NH61,OR51F2,Olfactory receptor 51F2,4,1,1,1,342,38.5,8.76,555577.375
+Low,Q9NPI6,DCP1A,mRNA-decapping enzyme 1A,2,1,1,1,582,63.2,6.25,628784.4375
+Low,A7E2V4,ZSWIM8,Zinc finger SWIM domain-containing protein 8,1,1,1,1,1837,197.2,6.8,489592.90625
+Low,B8ZZ34,SHISA8,Protein shisa-8,4,1,1,1,397,42.0,10.55,
+Low,P78316,NOP14,Nucleolar protein 14,1,1,1,1,857,97.6,7.58,1929657.125
+Low,Q9BZM4,ULBP3,UL16-binding protein 3,5,1,1,1,244,27.9,8.02,
+Low,Q9NPA8,ENY2,Transcription and mRNA export factor ENY2,9,1,1,1,101,11.5,9.33,1284192.875
+Low,Q8TBE9,NANP,N-acylneuraminate-9-phosphatase,3,1,1,2,248,27.8,6.4,4088892.75
+Low,Q92523,CPT1B,"Carnitine O-palmitoyltransferase 1, muscle isoform",6,2,2,2,772,87.7,8.62,814097.875
+Low,Q9UPE1,SRPK3,SRSF protein kinase 3,4,1,1,1,567,62.0,7.25,279904.90625
+Low,Q13523,PRPF4B,Serine/threonine-protein kinase PRP4 homolog,1,1,1,1,1007,116.9,10.26,
+Low,P23229,ITGA6,Integrin alpha-6,1,1,1,2,1130,126.5,6.61,11840670
+Low,Q9NW82,WDR70,WD repeat-containing protein 70,2,1,1,1,654,73.2,6.33,3402578944
+Low,Q8N4S9,MARVELD2,MARVEL domain-containing protein 2,2,1,1,1,558,64.1,7.53,1867181.125
+Low,O95210,STBD1,Starch-binding domain-containing protein 1,2,1,1,1,358,39.0,5.73,853974.8125
+Low,Q9HAU5,UPF2,Regulator of nonsense transcripts 2,1,1,1,1,1272,147.7,5.69,416369.4375
+Low,Q96HJ3,CCDC34,Coiled-coil domain-containing protein 34,2,1,1,1,373,43.2,7.4,608731.5625
+Low,Q9UPU9,SAMD4A,Protein Smaug homolog 1,2,1,1,1,718,79.4,8.32,
+Low,Q8IZQ1,WDFY3,WD repeat and FYVE domain-containing protein 3,0,1,1,1,3526,395.0,6.76,1053073.75
+Low,Q8N960,CEP120,Centrosomal protein of 120 kDa,2,1,1,3,986,112.6,6.25,1845549.75
+Low,Q7Z7M9,GALNT5,Polypeptide N-acetylgalactosaminyltransferase 5,1,1,1,1,940,106.2,9.47,2609071.5
+Low,Q8N302,AGGF1,Angiogenic factor with G patch and FHA domains 1,2,1,1,2,714,80.9,5.44,1616309.625
+Low,Q96JH7,VCPIP1,Deubiquitinating protein VCPIP1,1,1,1,1,1222,134.2,7.2,1029219.5625
+Low,Q6N069,NAA16,"N-alpha-acetyltransferase 16, NatA auxiliary subunit",1,1,1,2,864,101.4,7.87,7105755
+Low,O94830,DDHD2,Phospholipase DDHD2,1,1,1,1,711,81.0,5.39,2703204.5
+Low,Q9Y6C2,EMILIN1,EMILIN-1,1,1,1,1,1016,106.6,5.17,588050.625
+Low,P49755,TMED10,Transmembrane emp24 domain-containing protein 10,4,1,1,1,219,25.0,7.44,
+Low,Q5VV63,ATRNL1,Attractin-like protein 1,1,1,1,1,1379,152.5,7.31,
+Low,P46977,STT3A,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A,1,1,1,2,705,80.5,8.07,563335.0625
+Low,Q92547,TOPBP1,DNA topoisomerase 2-binding protein 1,2,1,1,1,1522,170.6,6.96,
+Low,Q96PE7,MCEE,"Methylmalonyl-CoA epimerase, mitochondrial",5,1,1,1,176,18.7,9.09,
+Low,Q7L0Y3,TRMT10C,tRNA methyltransferase 10 homolog C,1,1,1,1,403,47.3,9.36,646488.3125
+Low,Q7Z333,SETX,Probable helicase senataxin,0,1,1,2,2677,302.7,7.17,4335104.5
+Low,P61106,RAB14,Ras-related protein Rab-14,7,1,1,1,215,23.9,6.21,392703.65625
+Low,P07237,P4HB,Protein disulfide-isomerase,2,1,1,1,508,57.1,4.87,
+Low,Q86XP1,DGKH,Diacylglycerol kinase eta,1,1,1,1,1220,134.8,6.54,
+Low,P62072,TIMM10,Mitochondrial import inner membrane translocase subunit Tim10,16,1,1,1,90,10.3,6.29,3747418.5
+Low,Q96N38,ZNF714,Zinc finger protein 714,2,1,1,1,554,63.8,9.1,
+Low,Q6YBV0,SLC36A4,Neutral amino acid uniporter 4,3,1,1,1,504,56.1,7.05,4277260.5
+Low,A7XYQ1,SOBP,Sine oculis-binding protein homolog,1,1,1,1,873,92.6,7.68,1559396.5
+Low,Q9Y4K0,LOXL2,Lysyl oxidase homolog 2,1,1,1,1,774,86.7,6.38,
+Low,Q9NZS9,BFAR,Bifunctional apoptosis regulator,2,1,1,1,450,52.7,6.54,
+Low,Q5T011,SZT2,KICSTOR complex protein SZT2,0,1,1,1,3432,377.8,6.27,
+Low,Q15477,SKIC2,SKI2 subunit of superkiller complex protein,1,1,1,1,1246,137.7,6.06,
+Low,Q969V3,NCLN,BOS complex subunit NCLN,2,1,1,1,563,62.9,6.89,
+Low,Q9HCC0,MCCC2,"Methylcrotonoyl-CoA carboxylase beta chain, mitochondrial",2,1,1,1,563,61.3,7.68,
+Low,Q9NV06,DCAF13,DDB1- and CUL4-associated factor 13,4,1,1,1,445,51.4,9.19,
+Low,Q4V328,GRIPAP1,GRIP1-associated protein 1,3,2,2,3,841,95.9,5.11,2396802.75
+Low,Q86YJ6,THNSL2,Threonine synthase-like 2,4,1,1,1,484,54.1,6.52,1046366.375
+Low,Q92750,TAF4B,Transcription initiation factor TFIID subunit 4B,1,1,1,1,862,91.0,9.54,
+Low,P10070,GLI2,Zinc finger protein GLI2,1,1,1,1,1586,167.7,7.33,1912014.375
+Low,P36405,ARL3,ADP-ribosylation factor-like protein 3,6,1,1,1,182,20.4,7.24,604934.625
+Low,P52788,SMS,Spermine synthase,2,1,1,1,366,41.2,5.02,
+Low,Q7Z5M8,ABHD12B,Protein ABHD12B,2,1,1,1,362,40.8,8.28,950767.375
+Low,Q9UI36,DACH1,Dachshund homolog 1,2,1,1,1,758,78.5,8.51,5725285
+Low,P78509,RELN,Reelin,0,1,1,1,3460,388.1,5.88,84913.96875
+Low,Q66GS9,CEP135,Centrosomal protein of 135 kDa,2,1,1,1,1140,133.4,6.21,608415.0625
+Low,Q9H2P0,ADNP,Activity-dependent neuroprotector homeobox protein,2,1,1,1,1102,123.5,7.34,
+Low,Q15413,RYR3,Ryanodine receptor 3,0,1,1,1,4870,551.7,5.68,
+Low,P02458,COL2A1,Collagen alpha-1(II) chain,1,1,1,1,1487,141.7,6.92,
+Low,Q8NEB9,PIK3C3,Phosphatidylinositol 3-kinase catalytic subunit type 3,1,1,1,1,887,101.5,6.81,577906.6875
+Low,Q08828,ADCY1,Adenylate cyclase type 1,2,1,1,1,1119,123.4,8.43,
+Low,Q8IYE0,CCDC146,Coiled-coil domain-containing protein 146,1,1,1,1,955,112.7,8.48,
+Low,P08861,CELA3B,Chymotrypsin-like elastase family member 3B,4,1,1,2,270,29.2,6.28,902190.03125
+Low,Q02224,CENPE,Centromere-associated protein E,1,2,2,3,2701,316.2,5.64,1445609.5
+Low,O15066,KIF3B,Kinesin-like protein KIF3B,1,1,1,2,747,85.1,7.69,8840812.625
+Low,Q96K76,USP47,Ubiquitin carboxyl-terminal hydrolase 47,1,1,1,1,1375,157.2,5.08,446500.125
+Low,Q5BJE1,CCDC178,Coiled-coil domain-containing protein 178,3,1,1,1,867,101.9,6.77,
+Low,O43184,ADAM12,Disintegrin and metalloproteinase domain-containing protein 12,1,1,1,2,909,99.5,8.4,13574428
+Low,Q5XPI4,RNF123,E3 ubiquitin-protein ligase RNF123,1,1,1,1,1314,148.4,6.74,
+Low,Q96LQ0,PPP1R36,Protein phosphatase 1 regulatory subunit 36,3,1,1,1,422,49.4,9.36,
+Low,Q8NBS9,TXNDC5,Thioredoxin domain-containing protein 5,2,1,1,1,432,47.6,5.97,
+Low,Q9H9L3,ISG20L2,Interferon-stimulated 20 kDa exonuclease-like 2,3,1,1,1,353,39.1,9.94,
+Low,Q8N0S2,SYCE1,Synaptonemal complex central element protein 1,6,1,1,1,351,39.7,6.27,
+Low,P13497,BMP1,Bone morphogenetic protein 1,1,1,1,2,986,111.2,6.9,4830622.5
+Low,Q9P2D6,FAM135A,Protein FAM135A,1,1,1,1,1515,169.7,5.39,166776.546875
+Low,P57740,NUP107,Nuclear pore complex protein Nup107,1,1,1,1,925,106.3,5.43,533742.0625
+Low,Q08AN1,ZNF616,Zinc finger protein 616,1,1,1,1,781,90.2,9.57,2034912
+Low,P56179,DLX6,Homeobox protein DLX-6,6,1,1,1,175,19.7,9.95,
+Low,O00562,PITPNM1,Membrane-associated phosphatidylinositol transfer protein 1,2,1,1,1,1244,134.8,5.95,
+Low,O95754,SEMA4F,Semaphorin-4F,1,1,1,2,770,83.5,6.95,1276591.5
+Low,O00482,NR5A2,Nuclear receptor subfamily 5 group A member 2,2,1,1,1,541,61.3,7.88,
+Low,P42356,PI4KA,Phosphatidylinositol 4-kinase alpha,1,1,1,1,2102,236.7,7.06,
+Low,Q8TES7,FBF1,Fas-binding factor 1,2,1,1,1,1133,125.4,7.08,3857133.75
+Low,Q8TAV4,STOML3,Stomatin-like protein 3,2,1,1,1,291,32.1,8.63,922455.0625
+Low,A6NC98,CCDC88B,Coiled-coil domain-containing protein 88B,1,1,1,1,1476,164.7,5.11,
+Low,Q96J92,WNK4,Serine/threonine-protein kinase WNK4,1,1,1,1,1243,134.7,5.48,3415712.75
+Low,Q8NCM8,DYNC2H1,Cytoplasmic dynein 2 heavy chain 1,0,1,1,1,4307,492.3,6.54,
+Low,Q15131,CDK10,Cyclin-dependent kinase 10,3,1,1,1,360,41.0,8.84,322322.78125
+Low,Q12955,ANK3,Ankyrin-3,0,1,1,1,4377,480.1,6.49,
+Low,Q9NU22,MDN1,Midasin,0,1,1,1,5596,632.4,5.68,1536127.375
+Low,Q9NWW7,C2orf42,Uncharacterized protein C2orf42,1,1,1,1,574,64.0,8.92,790826.375
+Low,Q9Y618,NCOR2,Nuclear receptor corepressor 2,1,1,1,1,2514,273.5,7.59,1028624.9375
+Low,Q8NFC6,BOD1L1,Biorientation of chromosomes in cell division protein 1-like 1,0,1,1,3,3051,330.3,5.08,36253785
+Low,Q99996,AKAP9,A-kinase anchor protein 9,0,1,1,1,3907,452.7,4.98,862242.625
+Low,Q9Y2F5,ICE1,Little elongation complex subunit 1,0,1,1,2,2266,247.7,5.48,35239312
+Low,Q8NFA0,USP32,Ubiquitin carboxyl-terminal hydrolase 32,1,1,1,1,1604,181.5,6.44,918023.75
+Low,Q12815,TROAP,Tastin,4,1,1,1,778,83.8,7.36,
+Low,Q9BQE5,APOL2,Apolipoprotein L2,2,1,1,1,337,37.1,6.74,529767.5625
+Low,Q9H9Y2,RPF1,Ribosome production factor 1,7,1,1,1,349,40.1,10.01,
+Low,Q9C093,SPEF2,Sperm flagellar protein 2,0,1,1,1,1822,209.7,5.54,105861.734375
+Low,Q9NRZ5,AGPAT4,1-acyl-sn-glycerol-3-phosphate acyltransferase delta,4,1,1,1,378,44.0,8.72,
+Low,Q13619,CUL4A,Cullin-4A,1,1,1,1,759,87.6,8.13,886214.375
+Low,Q9Y6R4,MAP3K4,Mitogen-activated protein kinase kinase kinase 4,1,1,1,1,1608,181.6,6.32,622421.0625
+Low,P40617,ARL4A,ADP-ribosylation factor-like protein 4A,5,1,1,1,200,22.6,9.17,
+Low,Q58EX7,PLEKHG4,Puratrophin-1,1,1,1,1,1191,130.7,5.64,1667860.75
+Low,P0C0L4,C4A,Complement C4-A,1,1,1,1,1744,192.7,7.08,4802723.5
+Low,Q8NBX0,SCCPDH,Saccharopine dehydrogenase-like oxidoreductase,3,1,1,1,429,47.1,9.14,980952.8125
+Low,Q7RTP6,MICAL3,[F-actin]-monooxygenase MICAL3,0,1,1,3,2002,224.2,5.55,2811871.75
+Low,O75912,DGKI,Diacylglycerol kinase iota,1,1,1,1,1065,116.9,7.77,1865679.75
+Low,Q99578,RIT2,GTP-binding protein Rit2,3,1,1,1,217,24.7,6.55,687014.4375
+Low,P30279,CCND2,G1/S-specific cyclin-D2,8,1,1,1,289,33.0,5.19,
+Low,Q8NFP9,NBEA,Neurobeachin,0,1,1,1,2946,327.6,6.18,
+Low,Q9BX63,BRIP1,Fanconi anemia group J protein,1,1,1,1,1249,140.8,6.92,5064211.5
+Low,Q9UI33,SCN11A,Sodium channel protein type 11 subunit alpha,0,1,1,2,1791,204.8,7.99,845160.0625
+Low,Q86X67,NUDT13,"NAD(P)H pyrophosphatase NUDT13, mitochondrial",2,1,1,1,352,39.7,7.42,
+Low,Q6PEW1,ZCCHC12,Zinc finger CCHC domain-containing protein 12,1,1,1,1,402,45.3,6.18,649169.375
+Low,P27824,CANX,Calnexin,2,1,1,1,592,67.5,4.6,447360.46875
+Low,Q9Y6V0,PCLO,Protein piccolo,0,1,1,4,5142,560.4,6.47,396216242.875
+Low,Q7Z3E2,CCDC186,Coiled-coil domain-containing protein 186,1,1,1,2,898,103.6,6.27,1208592.875
+Low,Q8WXG6,MADD,MAP kinase-activating death domain protein,0,1,1,1,1647,183.2,6.04,882215.125
+Low,Q7L211,ABHD13,Protein ABHD13,3,1,1,2,337,38.5,8.57,704523.6875
+Low,P20929,NEB,Nebulin,0,1,1,1,6669,772.4,9.07,1616104.625
+Low,Q92621,NUP205,Nuclear pore complex protein Nup205,0,1,1,1,2012,227.8,6.19,
+Low,P54132,BLM,RecQ-like DNA helicase BLM,1,1,1,1,1417,158.9,7.49,3742289.5
+Low,Q9UHJ3,SFMBT1,Scm-like with four MBT domains protein 1,2,1,1,1,866,98.1,6.21,4745176.5
+Low,Q68DC2,ANKS6,Ankyrin repeat and SAM domain-containing protein 6,1,1,1,1,871,92.2,7.39,2705300.75
+Low,Q8WXX0,DNAH7,Dynein axonemal heavy chain 7,0,1,1,1,4024,460.9,6.0,626979.75
+Low,O75367,MACROH2A1,Core histone macro-H2A.1,2,1,1,1,369,39.2,9.83,
+Low,Q8IV33,KIAA0825,Uncharacterized protein KIAA0825,2,1,1,1,1275,147.6,6.61,2328099.5
+Low,P16871,IL7R,Interleukin-7 receptor subunit alpha,3,1,1,1,459,51.5,5.44,
+Low,O75616,ERAL1,"GTPase Era, mitochondrial",3,1,1,1,437,48.3,8.84,
+Low,Q8NDV3,SMC1B,Structural maintenance of chromosomes protein 1B,0,1,1,2,1235,143.8,7.66,3682318.75
+Low,O95954,FTCD,Formimidoyltransferase-cyclodeaminase,1,1,1,1,541,58.9,5.74,3942023
+Low,Q9UJA9,ENPP5,Ectonucleotide pyrophosphatase/phosphodiesterase family member 5,3,1,1,2,477,54.6,6.43,5476172.625
+Low,Q15124,PGM5,Phosphoglucomutase-like protein 5,1,1,1,4,567,62.2,7.21,17575436
+Low,O15195,VILL,Villin-like protein,1,1,1,1,856,95.8,7.02,678112.875
+Low,Q7Z2Z2,EFL1,Elongation factor-like GTPase 1,3,1,1,1,1120,125.4,5.91,
+Low,Q68DK2,ZFYVE26,Zinc finger FYVE domain-containing protein 26,0,1,1,2,2539,284.4,6.39,2007991.625
+Low,O00294,TULP1,Tubby-related protein 1,1,1,1,1,542,60.6,9.47,517206.125
+Low,Q02556,IRF8,Interferon regulatory factor 8,2,1,1,1,426,48.3,6.77,559918.3125
+Low,Q9BXX0,EMILIN2,EMILIN-2,1,1,1,1,1053,115.6,6.46,
+Low,Q96FX8,PERP,p53 apoptosis effector related to PMP-22,9,1,1,1,193,21.4,7.03,984087.9375
+Low,Q4KWH8,PLCH1,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase eta-1",0,1,1,2,1693,189.1,7.74,622819.8125
+Low,Q96S19,METTL26,Methyltransferase-like 26,7,1,1,1,204,22.6,7.83,883187.25
+Low,Q8NGC5,OR6J1,Olfactory receptor 6J1,2,1,1,4,347,38.7,8.47,9913586
+Low,O00512,BCL9,B-cell CLL/lymphoma 9 protein,2,1,1,1,1426,149.2,8.91,
+Low,Q08ER8,ZNF543,Zinc finger protein 543,2,1,1,1,600,68.4,7.9,
+Low,Q9HCM1,RESF1,Retroelement silencing factor 1,0,1,1,1,1747,194.7,8.78,13159585
+Low,Q12766,HMGXB3,HMG domain-containing protein 3,1,1,1,1,1292,141.0,6.02,
+Low,Q96IK5,GMCL1,Germ cell-less protein-like 1,2,1,1,1,515,58.6,7.44,
+Low,Q15543,TAF13,Transcription initiation factor TFIID subunit 13,10,1,1,1,124,14.3,4.81,
+Low,Q6ICC9,RTL6,Retrotransposon Gag-like protein 6,8,1,1,1,239,26.1,11.18,4922477
+Low,Q99666,RGPD6,RANBP2-like and GRIP domain-containing protein 5/6,1,1,1,2,1765,198.8,6.42,881457.1875
+Low,Q9C0F0,ASXL3,Putative Polycomb group protein ASXL3,1,1,1,1,2248,241.8,6.14,1533166.375
+Low,P20273,CD22,B-cell receptor CD22,2,1,1,1,847,95.3,6.65,
+Low,O95343,SIX3,Homeobox protein SIX3,2,1,1,2,332,35.5,8.73,2163901
+Low,Q9H6L4,ARMC7,Armadillo repeat-containing protein 7,9,1,1,1,198,21.9,6.09,
+Low,O15355,PPM1G,Protein phosphatase 1G,2,1,1,1,546,59.2,4.36,9196424
+Low,Q9H920,RNF121,E3 ubiquitin ligase RNF121,3,1,1,2,327,37.9,7.06,4466315
+Low,Q9H9E3,COG4,Conserved oligomeric Golgi complex subunit 4,2,1,1,1,785,89.0,5.19,
+Low,Q8IZS8,CACNA2D3,Voltage-dependent calcium channel subunit alpha-2/delta-3,1,1,1,2,1091,122.9,5.78,1704808.375
+Low,P57082,TBX4,T-box transcription factor TBX4,2,1,1,1,545,60.2,7.65,
+Low,P38935,IGHMBP2,DNA-binding protein SMUBP-2,1,1,1,1,993,109.1,8.97,2301351.75
+Low,Q96MK3,FAM20A,Pseudokinase FAM20A,1,1,1,1,541,61.4,7.99,1014982.5
+Low,O95197,RTN3,Reticulon-3,3,1,1,1,1032,112.5,4.96,
+Low,O94964,SOGA1,Protein SOGA1,1,1,1,1,1423,159.7,6.46,633284.5625
+Low,Q6IB77,GLYAT,Glycine N-acyltransferase,3,1,1,1,296,33.9,8.16,2431402.75
+Low,Q5TGZ0,MICOS10,MICOS complex subunit MIC10,14,1,1,1,78,8.8,8.5,558918.5
+Low,Q9UMD9,COL17A1,Collagen alpha-1(XVII) chain,1,1,1,1,1497,150.3,8.79,902907.0625
+Low,P41594,GRM5,Metabotropic glutamate receptor 5,1,1,1,1,1212,132.4,7.78,
+Low,P00451,F8,Coagulation factor VIII,0,1,1,1,2351,266.8,7.36,1349259.875
+Low,Q9NQZ8,ZNF71,Endothelial zinc finger protein induced by tumor necrosis factor alpha,3,1,1,1,489,54.5,8.68,
+Low,Q99767,APBA2,Amyloid-beta A4 precursor protein-binding family A member 2,2,1,1,1,749,82.5,4.86,2314698
+Low,Q9UI30,TRMT112,Multifunctional methyltransferase subunit TRM112-like protein,5,1,1,2,125,14.2,5.26,937229.75
+Low,Q86W28,NLRP8,"NACHT, LRR and PYD domains-containing protein 8",1,1,1,1,1048,119.4,7.96,327717.25
+Low,Q969Z3,MTARC2,Mitochondrial amidoxime reducing component 2,2,1,1,2,335,38.0,9.16,989535.75
+Low,Q8N412,STPG2,Sperm-tail PG-rich repeat-containing protein 2,1,1,1,2,459,50.6,9.57,3480365
+Low,Q96PG2,MS4A10,Membrane-spanning 4-domains subfamily A member 10,4,1,1,1,267,29.7,8.95,722973.9375
+Low,Q9NPC3,CCNB1IP1,E3 ubiquitin-protein ligase CCNB1IP1,6,1,1,1,277,31.5,8.32,
+Low,Q5T4S7,UBR4,E3 ubiquitin-protein ligase UBR4,0,1,1,1,5183,573.5,6.04,1503206
+Low,Q5SWX8,ODR4,Protein odr-4 homolog,3,1,1,1,454,51.1,5.92,
+Low,Q8IWC1,MAP7D3,MAP7 domain-containing protein 3,3,1,1,1,876,98.4,9.32,
+Low,Q9HBG6,IFT122,Intraflagellar transport protein 122 homolog,1,1,1,1,1241,141.7,6.49,260561.5
+Low,Q5VZK9,CARMIL1,F-actin-uncapping protein LRRC16A,3,1,1,1,1371,151.5,7.85,3564324.25
+Low,O43181,NDUFS4,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 4, mitochondrial",3,1,1,1,175,20.1,10.3,621524.0625
+Low,Q96LR2,LURAP1,Leucine rich adaptor protein 1,3,1,1,1,239,25.8,4.84,1117032.125
+Low,Q8NDL9,AGBL5,Cytosolic carboxypeptidase-like protein 5,1,1,1,1,886,97.5,9.17,
+Low,Q6ZXV5,TMTC3,Protein O-mannosyl-transferase TMTC3,1,1,1,1,915,103.9,8.87,589293.25
+Low,Q0VDD8,DNAH14,Dynein axonemal heavy chain 14,0,1,1,2,3507,399.6,6.93,338675.125
+Low,P51178,PLCD1,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-1",2,1,1,1,756,85.6,6.7,710298.5625
+Low,Q9NY27,PPP4R2,Serine/threonine-protein phosphatase 4 regulatory subunit 2,2,1,1,2,417,46.9,4.54,935392.125
+Low,Q8WXR4,MYO3B,Myosin-IIIb,2,1,1,1,1341,151.7,8.15,
+Low,W5XKT8,SPACA6,Sperm acrosome membrane-associated protein 6,5,1,1,1,324,36.3,6.54,1204521.25
+Low,O95171,SCEL,Sciellin,1,1,1,1,688,77.5,9.38,1070676.625
+Low,P17152,TMEM11,"Transmembrane protein 11, mitochondrial",8,1,1,1,192,21.5,7.36,1080951.625
+Low,Q9P260,RELCH,RAB11-binding protein RELCH,1,1,1,1,1216,134.5,5.45,1389374.875
+Low,P52655,GTF2A1,Transcription initiation factor IIA subunit 1,3,1,1,1,376,41.5,4.55,8067847.5
+Low,Q8N8A6,DDX51,ATP-dependent RNA helicase DDX51,1,1,1,3,666,72.4,8.16,17951999.75
+Low,A6NMZ7,COL6A6,Collagen alpha-6(VI) chain,1,1,1,1,2263,247.0,6.89,
+Low,Q96PQ7,KLHL5,Kelch-like protein 5,1,1,1,1,755,84.4,6.64,481564.625
+Low,Q66K14,TBC1D9B,TBC1 domain family member 9B,1,1,1,1,1250,140.4,5.25,667075.6875
+Low,Q9HBR0,SLC38A10,Putative sodium-coupled neutral amino acid transporter 10,3,1,1,1,1119,119.7,5.73,
+Low,O00585,CCL21,C-C motif chemokine 21,13,1,1,1,134,14.6,10.1,
+Low,Q7L0Q8,RHOU,Rho-related GTP-binding protein RhoU,12,1,1,1,258,28.2,8.06,
+Low,Q6ZN66,GBP6,Guanylate-binding protein 6,1,1,1,1,633,72.4,6.37,
+Low,A6NCI8,C2orf78,Uncharacterized protein C2orf78,1,1,1,1,922,100.1,9.03,
+Low,Q9ULH0,KIDINS220,Kinase D-interacting substrate of 220 kDa,1,1,1,1,1771,196.4,6.62,810273.3125
+Low,A0MZ66,SHTN1,Shootin-1,1,1,1,1,631,71.6,5.33,8162065
+Low,Q86UK0,ABCA12,Glucosylceramide transporter ABCA12,0,1,1,1,2595,293.0,7.75,
+Low,Q9GZN4,PRSS22,Brain-specific serine protease 4,7,1,1,1,317,33.7,7.61,2005116.75
+Low,Q9NWD9,BEX4,Protein BEX4,8,1,1,1,120,14.1,6.39,816243.0625
+Low,Q92878,RAD50,DNA repair protein RAD50,1,1,1,1,1312,153.8,6.89,
+Low,Q9C0I4,THSD7B,Thrombospondin type-1 domain-containing protein 7B,2,1,1,1,1606,179.1,7.59,
+Low,Q6SA08,TSSK4,Testis-specific serine/threonine-protein kinase 4,2,1,1,1,328,37.4,8.57,542459.125
+Low,Q9HBK9,AS3MT,Arsenite methyltransferase,3,1,1,2,375,41.7,6.2,2519851.75
+Low,Q8TAT8,YK045_HUMAN,Putative uncharacterized protein LOC644613,14,1,1,1,98,11.0,11.47,
+Low,Q92997,DVL3,Segment polarity protein dishevelled homolog DVL-3,1,1,1,1,716,78.0,6.65,1398440.25
+Low,Q86SE5,RALYL,RNA-binding Raly-like protein,4,1,1,1,291,32.3,7.93,
+Low,Q8N3E9,PLCD3,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3",2,1,1,1,789,89.2,6.98,
+Low,Q9Y4D8,HECTD4,Probable E3 ubiquitin-protein ligase HECTD4,0,1,1,1,3996,439.1,6.19,
+Low,O94851,MICAL2,[F-actin]-monooxygenase MICAL2,1,1,1,1,1957,218.9,8.34,
+Low,P41182,BCL6,B-cell lymphoma 6 protein,2,1,1,1,706,78.8,7.94,1407986
+Low,Q8WV41,SNX33,Sorting nexin-33,1,1,1,1,574,65.2,6.79,
+Low,Q6PEZ8,PODNL1,Podocan-like protein 1,2,1,1,1,512,56.5,9.85,1421503.625
+Low,Q96NL8,CFAP418,Cilia- and flagella-associated protein 418,6,1,1,1,207,23.4,6.95,
+Low,Q8N2I2,ZNF619,Zinc finger protein 619,2,1,1,1,560,63.3,8.35,599954.875
+Low,P54750,PDE1A,"Dual specificity calcium/calmodulin-dependent 3',5'-cyclic nucleotide phosphodiesterase 1A",2,1,1,1,535,61.2,6.1,
+Low,P27540,ARNT,Aryl hydrocarbon receptor nuclear translocator,5,1,1,1,789,86.6,6.54,
+Low,Q9UQ26,RIMS2,Regulating synaptic membrane exocytosis protein 2,1,1,1,1,1411,160.3,9.07,1409872.125
+Low,Q9HCJ6,VAT1L,Synaptic vesicle membrane protein VAT-1 homolog-like,4,1,1,1,419,45.9,5.06,
+Low,Q06136,KDSR,3-ketodihydrosphingosine reductase,10,1,1,1,332,36.2,7.12,
+Low,A2RTY3,HEATR9,Protein HEATR9,3,1,1,1,570,65.6,9.2,2582965.5
+Low,Q7Z4L5,TTC21B,Tetratricopeptide repeat protein 21B,2,1,1,1,1316,150.8,6.96,
+Low,Q86VS8,HOOK3,Protein Hook homolog 3,2,1,1,1,718,83.1,5.17,531697.75
+Low,O60449,LY75,Lymphocyte antigen 75,1,1,1,1,1722,198.2,6.67,2190441.75
+Low,Q9UPW5,AGTPBP1,Cytosolic carboxypeptidase 1,3,1,1,1,1226,138.4,6.15,
+Low,Q9H993,ARMT1,Damage-control phosphatase ARMT1,2,1,1,1,441,51.1,5.76,6260554.5
+Low,Q96HD1,CRELD1,Protein disulfide isomerase CRELD1,2,1,1,1,420,45.4,4.87,3881033.5
+Low,P78380,OLR1,Oxidized low-density lipoprotein receptor 1,3,1,1,1,273,30.9,7.28,2579170.5
+Low,Q96D09,GPRASP2,G-protein coupled receptor-associated sorting protein 2,2,1,1,1,838,93.7,5.01,
+Low,P48751,SLC4A3,Anion exchange protein 3,1,1,1,1,1232,135.7,6.44,547126.5625
+Low,P56915,GSC,Homeobox protein goosecoid,5,1,1,1,257,28.1,8.62,486348.96875
+Low,Q9H000,MKRN2,E3 ubiquitin-protein ligase makorin-2,1,1,1,1,416,46.9,7.61,806551.125
+Low,P51825,AFF1,AF4/FMR2 family member 1,1,1,1,1,1210,131.3,9.2,
+Low,Q9P0W8,SPATA7,Spermatogenesis-associated protein 7,1,1,1,1,599,67.7,6.29,3810659.75
+Low,A0A075B6Z2,TRAJ56,T cell receptor alpha joining 56 (Fragment),38,1,1,4,21,2.2,10.29,1722269744.5
+Low,Q9NR48,ASH1L,Histone-lysine N-methyltransferase ASH1L,1,1,1,1,2969,332.6,9.39,849334
+Low,Q9HAW0,BRF2,Transcription factor IIIB 50 kDa subunit,4,1,1,2,419,46.5,7.94,1419864.875
+Low,Q8TF17,SH3TC2,SH3 domain and tetratricopeptide repeat-containing protein 2,1,1,1,2,1288,144.7,6.37,832987.1875
+Low,Q9NRW7,VPS45,Vacuolar protein sorting-associated protein 45,1,1,1,2,570,65.0,8.24,340577.90625
+Low,Q8WY91,THAP4,Peroxynitrite isomerase THAP4,1,1,1,1,577,62.9,9.28,304260.3125
+Low,Q8IYM9,TRIM22,E3 ubiquitin-protein ligase TRIM22,3,1,1,1,498,56.9,7.72,
+Low,O95202,LETM1,Mitochondrial proton/calcium exchanger protein,1,1,1,1,739,83.3,6.7,497602
+Low,Q96LT4,SAMD8,Sphingomyelin synthase-related protein 1,2,1,1,1,415,48.3,8.07,579188.3125
+Low,P56556,NDUFA6,NADH dehydrogenase [ubiquinone] 1 alpha subcomplex subunit 6,6,1,1,1,128,15.1,9.98,
+Low,P55291,CDH15,Cadherin-15,2,1,1,1,814,88.9,4.98,
+Low,Q9BXT6,MOV10L1,RNA helicase Mov10l1,1,1,1,1,1211,135.2,6.46,667065.8125
+Low,Q8WYA0,IFT81,Intraflagellar transport protein 81 homolog,1,1,1,1,676,79.7,8.82,
+Low,Q09019,DMWD,Dystrophia myotonica WD repeat-containing protein,2,1,1,1,674,70.4,7.24,9723011
+Low,P33240,CSTF2,Cleavage stimulation factor subunit 2,1,1,1,2,577,60.9,6.83,567018.5625
+Low,Q96QH2,PRAM1,PML-RARA-regulated adapter molecule 1,2,1,1,1,670,73.9,9.67,
+Low,Q96GR2,ACSBG1,Long-chain-fatty-acid--CoA ligase ACSBG1,3,1,1,1,724,81.2,6.02,
+Low,O60879,DIAPH2,Protein diaphanous homolog 2,1,1,1,1,1101,125.5,6.58,1252106.5
+Low,Q9Y337,KLK5,Kallikrein-5,3,1,1,1,293,32.0,8.27,598304.6875
+Low,Q9ULI0,ATAD2B,ATPase family AAA domain-containing protein 2B,1,1,1,1,1458,164.8,6.8,
+Low,Q9NZJ7,MTCH1,Mitochondrial carrier homolog 1,3,1,1,1,389,41.5,9.32,
+Low,Q04656,ATP7A,Copper-transporting ATPase 1,1,1,1,1,1500,163.3,6.33,
+Low,Q71H61,ILDR2,Immunoglobulin-like domain-containing receptor 2,1,1,1,1,639,71.2,8.12,1999416.25
+Low,Q7Z2W7,TRPM8,Transient receptor potential cation channel subfamily M member 8,1,1,1,2,1104,127.6,7.24,1470367.625
+Low,Q96A19,CCDC102A,Coiled-coil domain-containing protein 102A,2,1,1,1,550,62.6,5.58,
+Low,Q70CQ2,USP34,Ubiquitin carboxyl-terminal hydrolase 34,0,1,1,2,3546,404.0,5.82,2848022.5
+Low,P48728,AMT,"Aminomethyltransferase, mitochondrial",2,1,1,1,403,43.9,8.57,
+Low,Q8IY18,SMC5,Structural maintenance of chromosomes protein 5,1,1,1,1,1101,128.7,8.38,10142490
+Low,Q9BXU8,FTHL17,Ferritin heavy polypeptide-like 17,5,1,1,1,183,21.1,6.52,4619464
+Low,Q9H2J7,SLC6A15,Sodium-dependent neutral amino acid transporter B(0)AT2,1,1,1,1,730,81.8,5.19,59515400
+Low,O95248,SBF1,Myotubularin-related protein 5,1,1,1,1,1868,208.3,6.9,
+Low,P04049,RAF1,RAF proto-oncogene serine/threonine-protein kinase,1,1,1,1,648,73.0,9.2,
+Low,Q86YC2,PALB2,Partner and localizer of BRCA2,2,1,1,1,1186,131.2,6.44,
+Low,Q9BZJ4,SLC25A39,Probable mitochondrial glutathione transporter SLC25A39,3,1,1,1,359,39.2,9.61,
+Low,Q9UGC7,MTRF1L,"Peptide chain release factor 1-like, mitochondrial",3,1,1,1,380,43.6,8.34,
+Low,Q5JRA6,MIA3,Transport and Golgi organization protein 1 homolog,1,1,1,1,1907,213.6,4.84,2409476.5
+Low,P02461,COL3A1,Collagen alpha-1(III) chain,1,1,1,1,1466,138.5,6.61,1500803
+Low,O75648,TRMU,Mitochondrial tRNA-specific 2-thiouridylase 1,3,1,1,1,421,47.7,8.03,1565186.25
+Low,Q9Y263,PLAA,Phospholipase A-2-activating protein,2,1,1,1,795,87.1,6.37,511731.96875
+Low,Q15772,SPEG,Striated muscle preferentially expressed protein kinase,0,1,1,1,3267,354.1,8.51,
+Low,P51582,P2RY4,P2Y purinoceptor 4,3,1,1,1,365,40.9,8.56,690593.5
+Low,Q9UKV5,AMFR,E3 ubiquitin-protein ligase AMFR,1,1,1,1,643,72.9,6.39,746312.75
+Low,Q8IYB7,DIS3L2,DIS3-like exonuclease 2,1,1,1,1,885,99.2,6.1,2734062.75
+Low,P51857,AKR1D1,Aldo-keto reductase family 1 member D1,6,1,1,1,326,37.4,7.5,1468314.5
+Low,Q2NL82,TSR1,Pre-rRNA-processing protein TSR1 homolog,2,1,1,1,804,91.8,7.42,6320920
+Low,P34932,HSPA4,Heat shock 70 kDa protein 4,2,1,1,1,840,94.3,5.19,
+Low,Q14689,DIP2A,Disco-interacting protein 2 homolog A,1,1,1,1,1571,170.3,8.03,541909.9375
+Low,O95835,LATS1,Serine/threonine-protein kinase LATS1,1,1,1,1,1130,126.8,8.7,380440.5
+Low,Q9P2X3,IMPACT,Protein IMPACT,4,1,1,1,320,36.5,4.97,
+Low,Q96G42,KLHDC7B,Kelch domain-containing protein 7B,6,1,1,1,594,63.3,9.0,1195060.25
+Low,Q9ULK0,GRID1,"Glutamate receptor ionotropic, delta-1",3,1,1,1,1009,112.1,6.7,
+Low,P0DPD8,EEF1AKMT4-ECE2,EEF1AKMT4-ECE2 readthrough transcript protein,1,1,1,1,883,99.7,5.1,686617.375
+Low,Q8TBN0,RAB3IL1,Guanine nucleotide exchange factor for Rab-3A,5,1,1,1,382,42.6,6.47,2766413.75
+Low,Q9BXL6,CARD14,Caspase recruitment domain-containing protein 14,1,1,1,1,1004,113.2,5.92,
+Low,Q5TC79,ZBTB37,Zinc finger and BTB domain-containing protein 37,3,1,1,1,503,56.0,6.77,
+Low,Q15746,MYLK,"Myosin light chain kinase, smooth muscle",1,1,1,1,1914,210.6,6.15,37464868
+Low,Q9NVR5,DNAAF2,Protein kintoun,3,1,1,1,837,91.1,5.2,1292845.25
+Low,P0CG20,PRR35,Proline-rich protein 35,2,1,1,1,571,59.3,8.92,636268.625
+Low,Q9NWH7,SPATA6,Spermatogenesis-associated protein 6,2,1,1,1,488,56.0,8.48,1346952.375
+Low,Q96CV9,OPTN,Optineurin,1,1,1,1,577,65.9,5.17,
+Low,Q7Z4V0,ZNF438,Zinc finger protein 438,4,1,1,1,828,91.8,9.39,
+Low,P49643,PRIM2,DNA primase large subunit,1,1,1,1,509,58.8,7.91,909321.625
+Low,Q9BZM3,GSX2,GS homeobox 2,6,1,1,1,304,32.0,8.97,
+Low,O94855,SEC24D,Protein transport protein Sec24D,3,1,1,1,1032,112.9,7.25,
+Low,Q9Y3M9,ZNF337,Zinc finger protein 337,2,1,1,1,751,86.8,9.66,
+Low,Q8NFT6,DBF4B,Protein DBF4 homolog B,2,1,1,1,615,67.2,8.34,34401988
+Low,Q9NXR1,NDE1,Nuclear distribution protein nudE homolog 1,4,1,1,1,335,37.7,5.15,
+Low,P11137,MAP2,Microtubule-associated protein 2,1,1,1,1,1827,199.4,4.91,589026.9375
+Low,O75449,KATNA1,Katanin p60 ATPase-containing subunit A1,2,1,1,2,491,55.9,6.9,2685552.5
+Low,Q9NRB3,CHST12,Carbohydrate sulfotransferase 12,6,1,1,1,414,48.4,9.32,
+Low,Q9BUN1,MENT,Protein MENT,2,1,1,1,341,36.7,8.59,494947.03125
+Low,Q8IWK6,ADGRA3,Adhesion G protein-coupled receptor A3,1,1,1,1,1321,146.1,8.48,2033157.75
+Low,P24941,CDK2,Cyclin-dependent kinase 2,6,1,1,1,298,33.9,8.68,978808.9375
+Low,Q8N8Z8,ZNF441,Zinc finger protein 441,1,1,1,1,693,80.1,8.46,5447117
+Low,Q9H2Y7,ZNF106,Zinc finger protein 106,1,1,1,1,1883,208.8,7.15,1660173.75
+Low,Q86UQ4,ABCA13,ATP-binding cassette sub-family A member 13,0,1,1,1,5058,575.8,6.46,8719596
+Low,Q5VU65,NUP210L,Nuclear pore membrane glycoprotein 210-like,0,1,1,1,1888,210.5,7.5,516202.625
+Low,P29376,LTK,Leukocyte tyrosine kinase receptor,1,1,1,1,864,91.6,6.49,
+Low,Q86UW7,CADPS2,Calcium-dependent secretion activator 2,1,1,1,1,1296,147.6,6.19,557116.125
+Low,Q9Y6Y1,CAMTA1,Calmodulin-binding transcription activator 1,2,1,1,2,1673,183.6,7.49,39420224
+Low,Q96ET8,TVP23C,Golgi apparatus membrane protein TVP23 homolog C,4,1,1,1,276,31.1,9.29,998394.3125
+Low,Q5T7W0,ZNF618,Zinc finger protein 618,1,1,1,1,954,104.9,7.09,
+Low,Q70JA7,CHSY3,Chondroitin sulfate synthase 3,2,1,1,1,882,100.2,8.75,13833878
+Low,O75155,CAND2,Cullin-associated NEDD8-dissociated protein 2,1,1,1,1,1236,135.2,5.68,
+Low,Q6WKZ4,RAB11FIP1,Rab11 family-interacting protein 1,1,1,1,1,1283,137.1,5.43,1278028.875
+Low,Q9Y6J9,TAF6L,TAF6-like RNA polymerase II p300/CBP-associated factor-associated factor 65 kDa subunit 6L,2,1,1,1,622,67.8,8.97,
+Low,Q8N715,CCDC185,Coiled-coil domain-containing protein 185,1,1,1,1,623,72.3,10.11,
+Low,Q9H8H2,DDX31,Probable ATP-dependent RNA helicase DDX31,2,1,1,1,851,94.0,9.99,
